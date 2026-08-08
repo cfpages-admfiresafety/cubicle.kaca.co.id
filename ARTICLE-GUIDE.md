@@ -27,21 +27,25 @@ Do not load the portfolio ledger, OneDrive memory, another repository, the full 
 1. Confirm the assigned file's `article_id`, `title`, `slug`, primary intent, scope boundary, and final route.
 2. Preserve front matter exactly except:
    - change `status: outline` to `status: draft` after the article is fully expanded;
+   - add `writing_contract_version: "native-id-v2"` immediately after `status: draft`;
    - set `date_modified` only when the user supplies or authorizes a real modification date;
-   - add original source URLs only when actually used.
+   - keep only original source URLs actually cited in the public prose; repository planning files are not public evidence.
 3. Replace instructional bullets under the detailed outline with finished Indonesian prose.
-4. Answer the title's main question in the opening two or three paragraphs.
-5. Keep every H2 focused on the distinct reader question stated beneath it.
-6. Use original sources embedded in the evidence packet. Put the source link near the supported consequential claim.
-7. Add internal links only where they help the reader take a next step. Use the exact routes already listed in the file.
-8. Preserve every limitation, professional-review condition, and stop-work boundary.
-9. Finish with a concrete next action or operating rule, not a generic summary.
-10. Run the completion checklist inside the file before stopping.
+4. Answer the title's main question in the opening two or three paragraphs, but first establish the reader's situation, likely misunderstanding, why the distinction matters, and what the article will make clear.
+5. Before each H2/H3 explanation, add a short context bridge: explain what the heading means, why the reader should care, what problem it prevents, and what will be covered. A heading is a promise, not a command.
+6. Keep every H2/H3 descriptive and keyword-bearing, stating the reader question or object. Prefer `Cara kerja menggunakan worksheet` over `Cara kerjanya`.
+7. Use original sources embedded in the evidence packet. Put the source link near the supported consequential claim.
+8. Add internal links only where they help the reader take a next step. Use the exact routes already listed in the file.
+9. Preserve every limitation, professional-review condition, and stop-work boundary.
+10. Finish with a concrete next action or operating rule, not a generic summary.
+11. Run the completion checklist inside the file before stopping.
 
 ## Writing style
 
 - Write in clear Indonesian for a practical reader.
-- Sound like a candid operator-teacher: direct answer first, mechanism next, evidence and decisions after that.
+- Sound like a candid operator-teacher: establish context first, then answer, mechanism, evidence, and decision. Do not rush from the H1 or H2 straight into a definition, formula, or checklist.
+- Write as people speak and think. A paragraph may be one sentence when it creates emphasis or a separate reasoning step. Separate `pertama`, `kedua`, and `ketiga` when each is a distinct thought. Give an important conclusion or operating rule its own short paragraph.
+- Avoid English calques and translated operational metaphors. Prefer ordinary Indonesian used by native speakers: `catat input` rather than `bekukan input`, `pastikan` rather than `kunci` when no literal locking occurs, `kita mungkin tergoda untuk...` rather than `jalan pintas yang paling menggoda`, and `ubah/revisi` rather than `menerbitkan revisi` unless publication is literal.
 - Address the reader warmly as `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id`. Use the exact opening salutation assigned inside the article file.
 - Sprinkle these community addresses naturally three to five times in a typical long article, including the opening. Good positions are a consequential warning, a decision checkpoint, a practical example, and the conclusion. Do not force one into every section or repeat the same phrase in adjacent paragraphs.
 - Use `Anda` naturally between those community-address moments. Use `saya` only when the outline contains real Syamsul-supplied experience.
