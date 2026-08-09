@@ -2,8 +2,9 @@
 article_id: CUB-05-04
 title: "Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca"
 slug: "kompatibilitas-hardware-kaca"
-description: "Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya"
-status: outline
+description: "Panduan memeriksa kecocokan sistem bukaan, profil penyangga, perlengkapan sambungan, ketebalan, dan lubang kaca sebelum fabrikasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,213 +15,88 @@ reader_address: "Sobat Kaca.co.id"
 final_route: "/artikel/kompatibilitas-hardware-kaca.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
+  - "https://store.astm.org/e1300-24.html"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
-  - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca
 
-## Assignment lock
+Halo, Sobat Kaca.co.id! Ketika hardware (perangkat keras) harus dipasang pada kaca, pertanyaan “cukupkah kaca 10 mm?” belum menjawab kecocokan. Diameter dan posisi lubang, jarak tepi, jenis kaca, bentuk frame (profil penyangga), serta cara beban diteruskan ke struktur harus cocok dengan fitting (perlengkapan sambungan) yang dipilih. Lubang yang sudah terlanjur dibuat tidak mudah diperbaiki tanpa mengganti panel.
 
-- **Writer task:** Expand this file into one complete article answering: “Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca”
-- **Reader and situation:** Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya
-- **Reader outcome:** Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya
-- **Primary intent:** Memeriksa kecocokan komponen sebelum fabrikasi
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak memberi pasangan universal; gunakan data sistem aktual.
-- **Final public route:** `/artikel/kompatibilitas-hardware-kaca.html`
-- **Appointed CMS date:** `2025-10-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih perangkat keras dan detail lubang sebagai satu sistem, berdasarkan lembar teknis komponen dan data proyek aktual. Jangan memulai dari ketebalan kaca saja atau menyalin ukuran dari proyek lain. Penentuan akhir tetap memerlukan gambar kerja, data beban, dan pemeriksaan kompeten; artikel ini membantu Anda menyiapkan pertanyaan sebelum fabrikasi.
 
-## Opening instructions
+![Ilustrasi glass cubicle](/wp-content/uploads/2022/07/glass-cubicle.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Exact Markdown to insert:** `![Ilustrasi glass cubicle](/wp-content/uploads/2022/07/glass-cubicle.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `glass cubicle` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Caption/credit:** Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
+- **Selection basis:** filename/source metadata identifies the assigned local asset; no pixels were inspected.
+- **Hard boundary:** jangan mengarang detail visual, lokasi, orang, merek, kondisi, performa, atau hasil proyek.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Apa yang dimaksud kompatibilitas perangkat keras, ketebalan, dan lubang kaca?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Istilah kompatibilitas berarti setiap antarmuka—kaca, lubang, baut, gasket, fitting, frame, dan penyangga—dapat bekerja bersama tanpa memaksa salah satu bagian menerima kondisi di luar rancangannya. Batas ini penting karena perangkat keras yang tampak sama bisa memiliki kebutuhan lubang atau dukungan berbeda.
 
-### KR-01
+Ketebalan adalah ukuran nominal panel, bukan izin otomatis untuk mengebor. Lubang adalah bukaan dengan diameter, toleransi, posisi, dan jarak ke tepi tertentu. Fitting kemudian meneruskan gaya melalui washer, sleeve, gasket, atau dudukan; detail tersebut menentukan apakah kaca menerima tekanan lokal yang aman atau justru terkonsentrasi.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Untuk kaca keselamatan, label “lebih kuat” juga tidak berarti pecahan akan tetap menyatu atau panel tetap memikul beban setelah pecah. SNI 9144-1:2022 membahas kaca pengaman berlapis, sedangkan SNI 9144-2:2022 membahas kaca pengaman dikeraskan; keduanya perlu dibaca sesuai aplikasi dan konteks sistem, bukan dipakai sebagai pengganti verifikasi desain ([BSN SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [BSN SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)).
 
-### KR-03
+## Bagaimana urutan pemeriksaan sebelum lubang dibuat?
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Sebelum membuka gambar fabrikasi, tetapkan fungsi bukaan: pintu, panel tetap, partisi, atau akses servis. Fungsi menentukan arah gerak, beban berulang, kebutuhan penyetelan, dan ruang untuk alat. Catat juga kondisi tumpuan dan apakah kaca bekerja sendiri atau bersama frame.
 
-### KR-10
+Berikutnya, kumpulkan data hardware yang benar-benar akan dibeli: rentang ketebalan yang diizinkan, diameter lubang, jarak minimum ke tepi, bentuk washer atau gasket, jenis baut, serta cara pemasangan. Data itu harus berasal dari lembar teknis pabrikan atau gambar yang disetujui, bukan ukuran yang diingat dari fitting lain.
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Lalu cocokkan koordinat lubang dengan ukuran panel dan detail tepi. Periksa apakah lubang berdekatan dengan sudut, potongan, engsel, atau lubang lain. Setiap perubahan posisi dapat mengubah jalur gaya dan ruang pemasangan. Tandai toleransi pengukuran dan sisakan cara penyetelan yang memang disediakan sistem.
 
-### KR-19
+Untuk panel yang menahan beban angin atau beban lain, ketebalan dan detail lubang harus ditinjau sebagai desain struktural. ASTM E1300 menjelaskan bahwa pemilihan kaca bergantung pada dimensi, rasio sisi, tumpuan tepi, jenis kaca, besar dan durasi beban, kondisi tepi, lubang atau takikan, lendutan, serta konsekuensi setelah pecah—bukan satu tabel ketebalan untuk semua keadaan ([ASTM E1300-24](https://store.astm.org/e1300-24.html)). Jangan menerbitkan ukuran final sebelum parameter proyek dan tanggung jawab desain jelas. [NEEDS GATE-01: data beban dan review desain proyek]
 
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
+## Faktor apa yang paling sering mengubah hasil kecocokan?
 
-### KR-06
+Jenis kaca mengubah cara panel merespons pengeboran, tekanan lokal, dan kerusakan. Kaca berlapis, dikeraskan, atau jenis lain memiliki proses dan batas penanganan berbeda. Pastikan lubang dibuat pada tahap yang diizinkan oleh produsen kaca; mengebor kaca yang sudah dikeraskan bukan pekerjaan koreksi biasa.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Beban tidak hanya berasal dari berat panel. Gerakan pintu, hentakan, angin, dan ketidaksejajaran dapat menambah gaya pada baut dan tepi lubang. Lendutan yang tidak diperhitungkan dapat membuat fitting mengikat atau gasket kehilangan kontak. Karena itu, minta peninjauan berdasarkan kondisi penggunaan aktual, bukan sekadar nama ruangan.
 
-### KR-12
+Material yang bersentuhan juga berpengaruh. Washer, gasket, logam, lapisan, dan bahan pembersih harus kompatibel agar tidak menggores, menekan titik tertentu, atau menimbulkan reaksi yang merusak. Pada sistem yang memakai sealant, nama “silikon” saja tidak cukup: substrat, pembersihan, primer, geometri sambungan, pergerakan, waktu pemeraman, drainase, dan kendali mutu perlu didokumentasikan. Manual Dow menekankan bahwa desain sealant struktural dan pemeriksaan adhesi bergantung pada produk serta proyek yang dipilih; jangan memindahkan ukurannya ke merek lain ([Dow Structural Sealant Glazing Manual Asia](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf)). [NEEDS GATE-02: persetujuan tertulis produsen sealant bila digunakan]
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Kawan Kaca.co.id, perhatikan juga lingkungan pemasangan. Area basah, udara luar, atau ruang dengan pembersihan rutin dapat mengubah pilihan logam, gasket, dan akses servis. Verifikasi ketahanan dan prosedur perawatannya dari dokumen komponen yang akan dipakai; jangan menyimpulkan hanya dari tampilan permukaan.
 
-### KR-14
+## Bagaimana membuat keputusan praktis untuk sistem bukaan?
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+Gunakan lembar pemeriksaan singkat berikut sebelum memesan kaca:
 
-## Evidence gates
+| Pemeriksaan | Pertanyaan yang harus terjawab | Keputusan |
+|---|---|---|
+| Fungsi | Panel tetap, pintu, atau akses servis? | Tetapkan arah gerak dan beban penggunaan |
+| Perangkat keras | Berapa rentang ketebalan, diameter, dan jarak tepi yang disyaratkan? | Cocokkan dengan satu model dan lembar teknis |
+| Kaca | Jenis kaca apa dan kapan lubang dibuat? | Konfirmasi proses dengan pemasok kaca |
+| Tumpuan | Ke mana gaya diteruskan: frame, lantai, dinding, atau struktur lain? | Minta detail sambungan dan review kompeten |
+| Toleransi | Bagaimana penyetelan dilakukan tanpa memaksa kaca? | Tetapkan toleransi pada gambar kerja |
+| Lingkungan | Ada air, bahan pembersih, atau paparan luar? | Verifikasi material dan perawatan |
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Misalnya, bila katalog fitting menerima dua ketebalan tetapi gambar proyek memiliki lubang dekat sudut, jangan langsung memilih ketebalan yang “masuk”. Minta produsen atau perancang memeriksa jarak tepi, washer, arah gaya, dan tumpuan. Jika salah satu data belum ada, keputusan yang aman adalah menahan pemotongan lubang, bukan memperbesar lubang di lapangan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Kesalahan umum saat mencocokkan perangkat keras dan kaca
 
-## Internal-link plan
+Kesalahan pertama adalah menganggap semua fitting dengan nama sama memiliki pola lubang sama. Periksa kode model, bukan foto atau nama kategori. Kesalahan kedua adalah mengukur kaca setelah lubang dibuat lalu menyesuaikan baut; urutannya harus dibalik dengan gambar yang disetujui.
 
-### Existing local routes
+Kesalahan ketiga adalah memakai ketebalan sebagai satu-satunya bukti kecukupan. Ukuran panel, tumpuan, beban, tepi, dan lubang tetap memengaruhi keputusan struktural. Kesalahan keempat adalah mengandalkan sealant untuk menutupi sambungan yang tidak cocok. Sealant tidak menggantikan detail tumpuan, kebersihan, pemeraman, atau pemeriksaan adhesi.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Teman Kaca.co.id, cek juga dokumen revisi. Pastikan nomor gambar, kode hardware, jenis kaca, dan koordinat lubang pada daftar material sama dengan yang dikirim ke fabrikator. Satu perubahan kecil pada fitting dapat memerlukan gambar baru dan pemeriksaan ulang. [NEEDS GATE-03: verifikasi gambar kerja dan revisi terakhir]
 
-### Planned sibling articles
+## Jalan pintas yang tampak praktis tetapi berisiko
 
-These are future routes. Do not link them as live until their HTML exists.
+Jalan pintas yang sering dipilih adalah memesan panel dengan lubang standar, lalu mencari hardware yang “kira-kira pas”. Cara ini memindahkan keputusan kritis ke lapangan, ketika ruang koreksi paling kecil. Lubang yang terlalu besar, terlalu dekat tepi, atau tidak sejajar dapat memerlukan panel baru dan tetap belum menyelesaikan masalah beban.
 
-- `CUB-05-02` → `/artikel/memilih-bukaan-pintu-cubicle.html` — Memilih Pintu Swing, Sliding, atau Konfigurasi Lain
-- `CUB-05-03` → `/artikel/membandingkan-frame-cubicle-kaca.html` — Frame Aluminium, Stainless, dan Sistem Minim Frame
-- `CUB-05-05` → `/artikel/hardware-cubicle-area-basah.html` — Hardware Cubicle untuk Area Basah: Bukti yang Dicari
-- `CUB-05-06` → `/artikel/akses-servis-hardware-cubicle.html` — Akses Servis dan Penggantian Hardware Cubicle
+Alternatif yang lebih dapat ditelusuri adalah membekukan pasangan sistem setelah data lengkap: model hardware, jenis dan ketebalan kaca, detail lubang, tumpuan, beban, toleransi, dan prosedur inspeksi. Simpan persetujuan pemasok serta tanda tangan peninjau pada paket gambar. Jika data itu belum lengkap, gunakan penanda [NEEDS GATE-04: keputusan pasangan hardware-kaca] dan hentikan fabrikasi lubang.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Langkah berikutnya sebelum fabrikasi
 
-## Jawaban singkat dan salah paham utama
+Kompatibilitas hardware dengan kaca bukan keputusan “ketebalan berapa”, melainkan kecocokan satu sistem dari fungsi bukaan sampai detail lubang dan tumpuan. Mulailah dengan lembar teknis hardware yang spesifik, cocokkan dengan data kaca serta kondisi proyek, lalu minta review kompeten untuk beban dan detail struktural. Jika Anda perlu menyelaraskan kebutuhan ruang dengan pilihan sistem, mulai dari [beranda Kaca.co.id](/) dan siapkan data proyek sebelum meminta penawaran teknis.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum memberi izin potong, minta satu paket yang memuat gambar terakhir, kode komponen, ukuran lubang dan toleransinya, jenis kaca, jalur beban, serta bukti persetujuan pemasok yang relevan. Sobat Kaca.co.id, bila salah satu jawaban masih berupa perkiraan, tandai dan selesaikan dulu. Aturan operasionalnya sederhana: tidak ada lubang yang dibuat sebelum pasangan hardware–kaca dan detail tumpuannya disetujui untuk proyek tersebut.

@@ -2,8 +2,9 @@
 article_id: CUB-14-04
 title: "Approval Sample Kaca, Frame, dan Hardware"
 slug: "approval-sample-cubicle-kaca"
-description: "Mengendalikan brief, visual, mockup, sampel, dan perubahan desain"
-status: outline
+description: "Panduan mencatat sampel kaca, rangka, dan perangkat agar kebutuhan, tampilan, contoh rancangan, serta perubahan desain tetap dapat ditelusuri."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,224 +16,100 @@ final_route: "/artikel/approval-sample-cubicle-kaca.html"
 technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026"
-  - "https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key="
   - "https://www.iso.org/standard/85237.html"
-  - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
   - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
-  - "https://store.astm.org/c1172-24e01.html"
-  - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/13726-47562021"
-  - "https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011"
-  - "https://pesta.bsn.go.id/produk/detail/14858-sni92372023"
-  - "https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Approval Sample Kaca, Frame, dan Hardware
 
-## Assignment lock
+Halo, Kawan Kaca.co.id! Saat sampel kaca, warna frame, dan model perangkat keras hanya disetujui lewat chat atau foto terpisah, tim mudah merasa sudah sepakat padahal acuannya berbeda. Perubahan kecil pada lubang, arah bukaan, atau warna lapisan dapat memaksa pembuatan ulang setelah produksi dimulai.
 
-- **Writer task:** Expand this file into one complete article answering: “Approval Sample Kaca, Frame, dan Hardware”
-- **Reader and situation:** Mengendalikan brief, visual, mockup, sampel, dan perubahan desain
-- **Reader outcome:** Mengendalikan brief, visual, mockup, sampel, dan perubahan desain
-- **Primary intent:** Mendokumentasikan sampel yang disetujui
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Acuan visual/material; bukan sertifikat performa.
-- **Final public route:** `/artikel/approval-sample-cubicle-kaca.html`
-- **Appointed CMS date:** `2026-06-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: approval sample (sampel persetujuan) harus menjadi satu rekaman keputusan yang menyatukan kebutuhan awal (brief, yaitu uraian kebutuhan), sampel fisik atau visual, gambar, komponen, batas toleransi, dan siapa yang menyetujui. Dokumen ini adalah acuan visual dan material, bukan sertifikat performa. Kesesuaian keselamatan, struktur, akses, dan pemasangan tetap memerlukan pemeriksaan proyek serta peninjauan tenaga kompeten. **[NEEDS GATE: identitas proyek dan nama pihak penyetuju harus dicatat sebelum sampel dipakai sebagai acuan.]**
 
-## Opening instructions
+Tujuan artikel ini membantu Anda membedakan apa yang benar-benar disetujui, apa yang masih berupa usulan, dan bukti apa yang perlu diminta sebelum memesan. Jika hasil uji atau persyaratan bangunan mengubah pilihan material, catat perubahan itu sebagai keputusan baru, bukan diam-diam mengganti sampel lama.
 
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Approval Sample Kaca, Frame, dan Hardware**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi glass cubicle](/wp-content/uploads/2022/07/glass-cubicle.jpg)
 
+*Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
+Image ID: LOCAL-004; source type: local; placement: after opening; exact asset and caption preserved from assignment.
+**Exact Markdown to insert:** `![Ilustrasi glass cubicle](/wp-content/uploads/2022/07/glass-cubicle.jpg)`
+END MANAGED IMAGE PLAN -->
 
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi glass cubicle](/wp-content/uploads/2022/07/glass-cubicle.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `glass cubicle` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+## Definisikan kebutuhan sampel persetujuan sebelum meminta harga
 
-## Evidence packet
+Sebelum membandingkan penawaran, Anda perlu menyamakan benda yang akan dinilai. Bagian ini mencegah istilah “kaca kantor” atau “perangkat keras standar” ditafsirkan berbeda oleh tiap penyedia. Tuliskan fungsi, kondisi pemakaian, jumlah, dan hasil penerimaan yang dapat diperiksa.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Mulai dari fungsi ruang: apakah panel menjadi partisi, pintu, atau elemen yang bersinggungan dengan sirkulasi. Lalu catat jenis panel, lokasi, perkiraan ukuran pada gambar, sisi tampak, sambungan, dan komponen yang ikut dinilai. Jangan mengisi ukuran atau ketebalan yang belum ditetapkan; tandai sebagai hal yang harus dikonfirmasi.
 
-### KR-01
+Istilah “flat glass” berarti kaca datar sebagai bahan dasar. Kaca heat-strengthened dan fully tempered safety glass adalah kategori perlakuan berbeda, bukan nama yang bisa dipertukarkan. Rujukan BSN dan ringkasan ISO membedakan istilah serta ruang lingkup mutu bahan, tetapi halaman katalog tidak membuktikan kecukupan keselamatan untuk sistem terpasang ([SNI 47:2018](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [ISO 16293-2:2025](https://www.iso.org/standard/85237.html)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Untuk setiap sampel, buat kartu identitas: kode sampel, tanggal, pemasok, nama produk, warna atau lapisan, sisi yang terlihat, dan revisi gambar. Tempelkan kode yang sama pada foto, lembar komentar, dan penawaran. Dengan begitu, “setujui yang kemarin” tidak menjadi instruksi yang sulit dilacak.
 
-### KR-05
+## Buat penawaran kaca, rangka, dan perangkat benar-benar sebanding
 
-- **Original sources:** [SNI 47:2018 Konfirmasi 2026 — BSN](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [SNI 6353:2024 listing — BSN](https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key=), [ISO 16293-2:2025 official abstract](https://www.iso.org/standard/85237.html)
-- **Purpose for this article:** Establish current terminology and quality-reference starting points for ordinary float/flat and heat-strengthened glass.
-- **Safe grounded facts:** “Flat glass,” “heat-strengthened glass,” and “fully tempered safety glass” are not interchangeable labels. A base-glass quality standard does not by itself prove safety suitability, structural adequacy, or whole-system performance.
-- **Limits:** Full standards are required for tolerances, defect limits, tests, and acceptance criteria.
+Penawaran baru bermakna jika setiap penyedia menghitung lingkup yang sama. Harga rendah sering muncul dari komponen yang tidak tercantum, bukan dari metode yang lebih efisien. Di bagian ini, pisahkan isi penawaran, pengecualian, asumsi, dan biaya perubahan.
 
-### KR-10
+Buat tabel sederhana dengan kolom: komponen, spesifikasi sampel, kuantitas, pekerjaan pabrik, pengiriman, pemasangan, perlindungan sementara, dan dokumen serah terima. Untuk kaca, tanyakan apakah pemotongan, lubang, takikan, penghalusan tepi, penandaan, dan pemeriksaan visual termasuk. Panduan ASTM tentang kaca dasar dan kaca yang diberi perlakuan panas menekankan pentingnya perencanaan fabrikasi sebelum perlakuan panas ([ASTM C1036-25](https://store.astm.org/c1036-25.html), [ASTM C1048-25](https://store.astm.org/c1048-25.html)).
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Perubahan setelah kaca diproses bukan sekadar revisi gambar. Lubang atau cutout yang terlambat dapat meminta pembuatan ulang, karena modifikasi lapangan mungkin tidak sesuai dengan proses yang sudah dilakukan. Catat siapa yang menanggung pengukuran ulang, penyimpanan, akses angkut, dan pekerjaan ulang bila data berubah.
 
-### KR-13
+Untuk frame (profil) dan perangkat keras, tulis nama komponen dan fungsi yang terlihat: profil, warna, engsel, kunci, handle, gasket, atau pengikat. Hindari kata “setara” tanpa kriteria pembanding. Jika sebuah alternatif diajukan, buat baris revisi baru dan minta persetujuan tertulis sebelum dipakai.
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+## Bedakan dokumen produk, laporan tes, dan persetujuan
 
-### KR-08
+Sampel yang tampak cocok tidak otomatis membuktikan semua klaim. Bagian ini membantu Anda membaca bukti sesuai fungsinya sehingga sertifikat, brosur, dan persetujuan tidak tercampur.
 
-- **Original sources:** [SNI 4756:2021 aluminium-coated sheet mirror — BSN](https://pesta.bsn.go.id/produk/detail/13726-47562021), [SNI ISO 25537:2011 silver-coated mirror — BSN](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011), [SNI 9237:2023 coated glass — BSN](https://pesta.bsn.go.id/produk/detail/14858-sni92372023), [SNI ISO 11479-1:2014 physical defects — BSN](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014)
-- **Purpose for this article:** Ground mirror, coated-glass, façade color, inspection, defect, and procurement content.
-- **Safe grounded facts:** A generic “mirror” or “coated glass” label omits backing/coating system, exposed surface, edge protection, visual criteria, and compatibility concerns. Aesthetic acceptance and functional performance are separate.
-- **Limits:** Full standards and manufacturer documents are required for viewing conditions, defect limits, processing restrictions, and cleaning compatibility.
+Data produk menjelaskan identitas dan komposisi. Sertifikat dapat menunjukkan status atau hasil terhadap lingkup tertentu. Laporan tes menjelaskan metode, benda uji, dan kondisi pengujian. Persetujuan proyek adalah keputusan pihak berwenang untuk memakai pilihan itu pada lokasi tertentu. Keempatnya menjawab pertanyaan berbeda.
 
-### KR-03
+Nilai cahaya, panas matahari, U-value, privasi, dan insulasi bunyi juga bukan satu metrik yang sama. Nilai pada bidang tengah kaca (center-of-glass) tidak otomatis menjadi nilai seluruh partisi atau sistem terpasang. Karena itu, jangan menyalin angka dari lembar bahan ke janji kinerja cubicle tanpa laporan sistem yang relevan.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Untuk kaca keselamatan, “lebih kuat sebelum pecah” berbeda dari “menahan pecahan tetap melekat”. Rujukan SNI tentang kaca keselamatan berlapis dan tempered dapat menjadi titik pemeriksaan produk, tetapi penerapan akhirnya tetap bergantung pada desain dan konteks yang ditinjau ([SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)).
 
-### KR-06
+## Pertanyaan wajib kepada penyedia sebelum sampel disetujui
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Daftar pertanyaan ini mengubah persetujuan sampel dari selera menjadi keputusan yang dapat diperiksa. Gunakan pada rapat sampel dan simpan jawabannya bersama revisi gambar.
 
-## Evidence gates
+- Apa kode produk, sumber material, dan batas variasi warna atau lapisan yang dapat terjadi?
+- Bagian mana yang dibuat sebelum perlakuan panas, dan apa konsekuensinya jika ukuran atau lubang berubah?
+- Bagaimana tepi, sudut, lubang, takikan, tanda, kebersihan, dan perlindungan permukaan diperiksa?
+- Perangkat keras apa yang termasuk, apa yang dikecualikan, dan siapa yang memastikan kecocokan dengan frame serta panel?
+- Sampel ini mewakili komponen mana saja, dan apa yang tidak boleh disimpulkan dari sampel ini?
+- Dokumen revisi mana yang menjadi acuan produksi, dan bagaimana perubahan setelah persetujuan sampel diberi nomor?
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Kawan Kaca.co.id, minta penyedia menuliskan jawaban, bukan hanya mengangguk pada rapat. Jika jawaban bergantung pada gambar kerja, laporan tes, atau aturan setempat yang belum tersedia, tandai sebagai pekerjaan terbuka.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Kenali tanda bahaya dan biaya yang sering tersembunyi
 
-## Internal-link plan
+Tanda bahaya (red flag) biasanya muncul saat bahasa penawaran terdengar lengkap tetapi tidak bisa dicocokkan dengan sampel. Mengenalinya lebih awal membantu Anda menghitung risiko waktu dan pekerjaan ulang secara jujur.
 
-### Existing local routes
+Waspadai “termasuk pemasangan” tanpa uraian akses, perlindungan, penyetelan, dan pembersihan. Waspadai pula “kaca safety” tanpa kategori produk dan dokumen pendukung. Sampel warna yang tidak diberi kode, foto tanpa tanggal, atau revisi yang tidak ditandatangani membuat tim tidak tahu versi mana yang harus diproduksi.
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Biaya tersembunyi dapat berupa pengukuran ulang, penyimpanan menunggu area siap, pengiriman ulang, pembongkaran, dan pembuatan kembali komponen. Jangan menetapkan nominal tanpa penawaran proyek; cukup minta setiap penyedia menjelaskan pemicu dan penanggung biayanya.
 
-### Planned sibling articles
+## Tetapkan penerimaan, serah terima, dan keputusan akhir
 
-These are future routes. Do not link them as live until their HTML exists.
+Persetujuan sampel selesai ketika keputusan dapat ditemukan kembali, bukan ketika seseorang berkata “oke”. Dengan cara ini, pemeriksa, catatan, dan batas keputusan jelas sebelum pembayaran atau pelepasan produksi.
 
-- `CUB-14-02` → `/artikel/referensi-finish-kaca-cubicle.html` — Menyiapkan Referensi Finish, Warna, dan Motif Kaca
-- `CUB-14-03` → `/artikel/mockup-proyek-cubicle-kaca.html` — Kapan Proyek Cubicle Kaca Memerlukan Mockup
-- `CUB-14-05` → `/artikel/design-freeze-panel-kaca.html` — Design Freeze sebelum Fabrikasi Panel Kaca
-- `CUB-14-06` → `/artikel/change-control-cubicle-kaca.html` — Change Control untuk Sistem Cubicle Kaca
+Tentukan pemeriksa untuk tiga hal berbeda: kesesuaian visual dengan sampel, kelengkapan komponen, dan kecocokan dengan gambar serta kondisi lapangan. Simpan lembar persetujuan sampel berisi kode sampel, foto atau tanda pada sampel, nomor revisi, komentar yang ditutup, nama serta tanggal penyetuju, dan daftar hal yang masih terbuka.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jangan menyebut persetujuan sampel sebagai penerimaan kinerja. Penerimaan akhir tetap mengikuti inspeksi pemasangan, dokumen yang disyaratkan proyek, dan peninjauan profesional. **[NEEDS GATE: kriteria penerimaan proyek dan pemeriksa yang berwenang harus ditetapkan sebelum pembayaran atau pelepasan produksi.]**
 
-## Definisikan kebutuhan sebelum meminta harga
+## Jalan pintas “cukup kirim foto” dan cara memperbaikinya
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Approval Sample Kaca, Frame, dan Hardware”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Foto memang cepat, tetapi sudut, pencahayaan, layar, dan kompresi dapat mengubah persepsi warna serta detail tepi. Foto juga jarang menunjukkan label produk, sisi lapisan, atau hubungan antar-komponen. Akibatnya, penyedia dan pemilik dapat menyetujui benda yang berbeda.
 
-## Buat penawaran benar-benar sebanding
+Alternatif yang lebih aman adalah mengirim foto sebagai pendamping, lalu mengikatnya pada kode sampel, lembar data, gambar revisi, dan catatan batas. Bila warna atau tekstur sangat menentukan, minta pemeriksaan pada kondisi yang disepakati oleh pihak proyek; jangan mengubah foto menjadi bukti performa.
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Approval Sample Kaca, Frame, dan Hardware”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: sampel persetujuan adalah rekaman keputusan, bukan sekadar contoh warna
 
-## Dokumen yang membuktikan hal berbeda
+Persetujuan sampel kaca, frame, dan perangkat keras yang baik menyatukan identitas bahan, tampilan, komponen, gambar, batas perubahan, serta pihak penyetuju. Ia membantu membandingkan penawaran dan mencegah fabrikasi berdasarkan ingatan, tetapi tidak menggantikan sertifikat, laporan tes, aturan bangunan, atau pemeriksaan sistem.
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Approval Sample Kaca, Frame, dan Hardware”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Langkah berikutnya: buat satu lembar persetujuan sampel dengan kode sampel dan nomor revisi, minta penyedia mengisi pertanyaan di atas, lalu minta peninjauan kompeten untuk keselamatan, struktur, akses, dan penerimaan proyek. Untuk memahami konteks pilihan ruang, Anda dapat melihat [contoh penggunaan cubicle kantor](/cubicle/kantor/) sebagai langkah orientasi, bukan sebagai bukti kesesuaian proyek Anda. Teman Kaca.co.id, jangan lepaskan produksi selama item terbuka masih memengaruhi ukuran, proses, atau fungsi.
 
-## Pertanyaan wajib kepada penyedia
-
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Approval Sample Kaca, Frame, dan Hardware”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Red flag dan biaya yang sering tersembunyi
-
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Approval Sample Kaca, Frame, dan Hardware”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Penerimaan, serah terima, dan keputusan akhir
-
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Approval Sample Kaca, Frame, dan Hardware”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: yang disetujui harus bisa ditunjukkan kembali; yang belum terbukti harus tetap ditandai sebagai belum diputuskan.

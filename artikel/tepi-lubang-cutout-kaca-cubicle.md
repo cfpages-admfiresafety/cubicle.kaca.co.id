@@ -2,8 +2,9 @@
 article_id: CUB-03-05
 title: "Tepi, Lubang, dan Cut-Out pada Panel Kaca Cubicle"
 slug: "tepi-lubang-cutout-kaca-cubicle"
-description: "Menilai opsi kaca dan dokumen yang mendukung pemilihannya"
-status: outline
+description: "Panduan praktis menilai tepi, lubang, dan cut-out panel kaca cubicle serta dokumen yang perlu diverifikasi sebelum fabrikasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,222 +15,81 @@ reader_address: "Kawan Kaca.co.id"
 final_route: "/artikel/tepi-lubang-cutout-kaca-cubicle.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
   - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
   - "https://store.astm.org/c1172-24e01.html"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://nfrc.org/"
-  - "https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-windows-doors-and-skylights"
-  - "https://windows.lbl.gov/window-software-downloads"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Tepi, Lubang, dan Cut-Out pada Panel Kaca Cubicle
 
-## Assignment lock
+Halo, Kawan Kaca.co.id! Saat gambar cubicle sudah tampak rapi, keputusan yang sering tertunda justru ada di tepi panel, lubang engsel, atau cut-out untuk aksesori. Banyak orang mengira lubang bisa dibor setelah kaca terpasang dan semua jenis kaca akan menerima perlakuan yang sama. Anggapan itu dapat berujung pada panel yang harus dibuat ulang.
 
-- **Writer task:** Expand this file into one complete article answering: “Tepi, Lubang, dan Cut-Out pada Panel Kaca Cubicle”
-- **Reader and situation:** Menilai opsi kaca dan dokumen yang mendukung pemilihannya
-- **Reader outcome:** Menilai opsi kaca dan dokumen yang mendukung pemilihannya
-- **Primary intent:** Mengoordinasikan fabrikasi panel
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus geometri panel; toleransi lapangan dimiliki CUB-11.
-- **Final public route:** `/artikel/tepi-lubang-cutout-kaca-cubicle.html`
-- **Appointed CMS date:** `2025-09-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: tetapkan geometri panel—ukuran, posisi lubang, bentuk cut-out, dan detail tepi—sebelum pemrosesan akhir serta sebelum kaca dikeraskan. Perubahan setelah tahap itu biasanya bukan pekerjaan lapangan biasa. Kaca harus dinilai bersama tipe kaca, cara penyanggaan, aksesori, dan bukti fabrikasinya. Artikel ini membantu Anda menyusun pertanyaan dan dokumen untuk keputusan tersebut; toleransi pemasangan lapangan berada di luar cakupan ini.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tepi, Lubang, dan Cut-Out pada Panel Kaca Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Exact Markdown to insert:** `![Ilustrasi glass cubicle](/wp-content/uploads/2022/07/glass-cubicle.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `glass cubicle` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Selection basis:** filename/source metadata identifies the assigned local asset; no pixels were inspected.
+- **Hard boundary:** jangan mengarang detail visual, lokasi, orang, merek, kondisi, performa, atau hasil proyek.
+END MANAGED IMAGE PLAN -->
+![Ilustrasi glass cubicle](/wp-content/uploads/2022/07/glass-cubicle.jpg)
 
-## Evidence packet
+*Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.*
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+## Apa yang dimaksud tepi, lubang, dan cut-out pada panel kaca cubicle?
 
-### KR-01
+Sebelum memilih proses, samakan istilahnya agar gambar kerja tidak ditafsirkan berbeda. Tepi adalah sisi panel yang dapat dipotong, diasah, dipoles, atau diberi bentuk tertentu. Lubang adalah bukaan yang biasanya menerima baut, engsel, atau konektor. Cut-out adalah bukaan berukuran atau berbentuk khusus yang mengurangi sebagian area panel.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Perbedaan ini penting karena setiap bukaan mengubah jalur gaya dan ruang aman di sekitar kaca. Lubang kecil bukan otomatis lebih mudah daripada cut-out besar; keduanya tetap memerlukan koordinasi posisi, radius sudut, dan detail tepi. Spesifikasi kaca lembaran dan kaca yang diproses panas memiliki lingkup berbeda; catatan publik [ASTM C1036](https://store.astm.org/c1036-25.html), [ASTM C1048](https://store.astm.org/c1048-25.html), dan [ASTM C1172](https://store.astm.org/c1172-24e01.html) membantu membedakan kategori material, tetapi bukan pengganti dokumen standar berlisensi.
 
-### KR-10
+Rujukan [SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022) untuk kaca pengaman berlapis dan [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022) untuk kaca pengaman dikeraskan dapat menjadi titik pemeriksaan produk, bukan bukti bahwa suatu panel pasti sesuai untuk semua penggunaan.
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+## Mengapa urutan fabrikasi menentukan keberhasilan lubang dan cut-out?
 
-### KR-13
+Bagian ini menjelaskan urutan supaya kesalahan waktu tidak disamarkan sebagai masalah pemasangan. Kaca dipotong dan dikerjakan tepinya ketika ukurannya sudah disepakati. Lubang dan cut-out dikerjakan pada tahap fabrikasi yang ditentukan, lalu—bila spesifikasinya meminta—kaca menjalani perlakuan panas. Setelah perlakuan itu, perubahan ukuran atau penambahan lubang dapat menuntut pembuatan ulang, bukan pengeboran di lokasi.
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+Urutan tersebut terjadi karena perlakuan panas mengubah kondisi internal lembaran. [Panduan NGA tentang permukaan kaca yang diberi perlakuan panas](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf) menekankan perlunya mengelola ekspektasi terhadap roller-wave, anisotropi, bow, dan warp; semua itu sebaiknya tercatat dalam brief fabrikasi, bersama kebersihan, penandaan, dan keterlacakan.
 
-### KR-17
+Gambar kerja perlu memuat koordinat lubang dari tepi acuan, diameter atau profil cut-out, radius sudut, jenis pengerjaan tepi, serta orientasi panel. Berikan satu revisi terkontrol kepada fabrikator. Jangan mengirim ukuran “kurang lebih di tengah” lalu berharap penyesuaian dapat dilakukan ketika aksesori sudah tiba.
 
-- **Purpose for this article:** Give tempered-glass breakage articles a defensible distinction between risk reduction, diagnosis, and guarantees.
-- **Safe grounded facts:** A broken pane cannot be confidently diagnosed as nickel-sulfide inclusion from a casual photo or from “spontaneous” timing alone. Heat soaking does not create a zero-breakage guarantee.
-- **Limits:** Do not state a universal incidence rate or claim certainty without laboratory/forensic evidence and the relevant fabrication/testing records.
+## Faktor yang mengubah keputusan geometri panel kaca
 
-### KR-11
+Setelah urutan dipahami, periksa faktor yang membuat dua panel dengan ukuran sama membutuhkan keputusan berbeda. Pertama, lihat fungsi bukaan: baut, engsel, kabel, atau akses tangan memiliki antarmuka dan ruang gerak yang tidak sama. Tanyakan gambar aksesori final, termasuk washer, gasket, dan arah bukaan.
 
-- **Original sources:** [NFRC rating definitions](https://nfrc.org/), [US Department of Energy purchasing guidance](https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-windows-doors-and-skylights), [Berkeley Lab WINDOW capabilities](https://windows.lbl.gov/window-software-downloads)
-- **Purpose for this article:** Give writers a clear conceptual vocabulary for U-factor, solar heat gain coefficient, visible transmittance, air leakage, and condensation without turning it into an Indonesian product endorsement.
-- **Safe grounded facts:** Lower U-factor means less heat flow under the stated rating method; lower SHGC means less admitted solar heat; higher visible transmittance means more visible light. These values are not interchangeable, and the best combination depends on climate, orientation, shading, space use, and whole-system design.
-- **Limits:** Do not import US climate-zone thresholds, label ranges, or ENERGY STAR purchasing rules as Indonesian requirements.
+Kedua, periksa kondisi tepi dan penyanggaan. Beban tidak hanya bekerja pada bidang kaca; lubang, takikan, dan tepi harus dinilai bersama bentang, rasio sisi, jenis kaca, lama beban, dan perilaku rangka. [ASTM E1300-24](https://store.astm.org/e1300-24.html) menjelaskan bahwa pemilihan kaca untuk beban memerlukan parameter-parameter tersebut. Jangan menyalin tabel ketebalan dari proyek lain atau menganggap satu ketebalan aman untuk semua cubicle. Simpan versi dokumen yang dipakai agar pemeriksa dapat menelusuri dasar keputusan.
 
-### KR-06
+Ketiga, bedakan bukti material dari bukti sistem. Nilai transmisi cahaya, panas, privasi, atau isolasi bunyi pada lembaran tidak otomatis menjadi kinerja partisi terpasang. Untuk panel cubicle, keputusan utama tetap geometri dan keselamatan fabrikasi.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+## Cara menyusun keputusan praktis sebelum gambar dikirim
 
-### KR-12
+Gunakan urutan keputusan berikut agar koordinasi tidak berhenti pada pilihan kaca. Mulai dari fungsi: catat aksesori dan gaya yang mungkin diteruskan ke panel. Lanjutkan dengan geometri: tandai semua tepi, lubang, cut-out, radius, dan arah pemasangan pada satu gambar berdimensi.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Berikutnya, minta fabrikator mengonfirmasi proses yang tersedia dan titik ketika perubahan tidak lagi dapat dilakukan. Minta pula penandaan panel, catatan keterlacakan, serta kriteria penerimaan visual yang disepakati. Bila proyek membutuhkan kaca pengaman, cocokkan jenis produk dengan rujukan SNI dan dokumen produk aktual.
 
-## Evidence gates
+Terakhir, kirim paket untuk pemeriksaan kompeten. **[NEEDS PROJECT EVIDENCE AND COMPETENT REVIEW: geometri final, detail aksesori, tipe kaca, dan kriteria penerimaan.]**
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Sebelum lembaran masuk produksi, cocokkan nomor revisi gambar dengan nomor pesanan dan tanda orientasi pada panel. Langkah sederhana ini membantu mencegah lubang benar tetapi menghadap sisi yang keliru ketika panel dibalik saat pengiriman atau pemasangan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Kesalahan umum pada lubang dan cut-out serta cara memeriksanya
 
-## Internal-link plan
+Kesalahan pertama adalah menunda lubang sampai pemasangan. Periksa tanggal dan urutan proses; bila kaca sudah diproses panas, hentikan asumsi bahwa bor lapangan adalah solusi.
 
-### Existing local routes
+Kesalahan kedua adalah memakai istilah “safety glass” sebagai jaminan. Kaca yang lebih kuat sebelum pecah tidak sama dengan kaca yang menahan pecahan atau tetap memikul beban setelah pecah. Cocokkan klaim dengan jenis produk dan konteks sistem.
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kesalahan ketiga adalah memakai ukuran tanpa datum. Minta semua koordinat diukur dari tepi atau sumbu yang jelas, lalu cocokkan dengan gambar aksesori. Kawan Kaca.co.id, satu angka yang tidak punya acuan dapat memindahkan engsel dan memaksa revisi panel.
 
-### Planned sibling articles
+Kesalahan keempat adalah mendiagnosis pecahnya kaca dari foto. Waktu pecah atau tampilan retak saja tidak cukup untuk menyimpulkan penyebab tertentu, termasuk inklusi nikel-sulfida. Heat-soak bukan jaminan bebas pecah; diagnosis memerlukan catatan fabrikasi dan pemeriksaan yang tepat.
 
-These are future routes. Do not link them as live until their HTML exists.
+Simpan satu paket revisi yang memuat gambar panel, koordinat lubang, detail radius, jenis tepi, dan identitas aksesori. Setiap perubahan harus memiliki penanggung jawab serta tanggal persetujuan. Cara ini membantu fabrikator membedakan instruksi terbaru dari sketsa lama dan mencegah lubang dibuat berdasarkan pesan lisan yang tidak lagi berlaku.
 
-- `CUB-03-03` → `/artikel/tempered-vs-laminated-partisi-kaca.html` — Kaca Tempered, Laminated, dan Opsi Lain untuk Partisi
-- `CUB-03-04` → `/artikel/dokumen-heat-treatment-kaca.html` — Heat Treatment Kaca dan Dokumen yang Perlu Diverifikasi
-- `CUB-03-06` → `/artikel/distorsi-visual-panel-kaca.html` — Distorsi Visual dan Variasi Panel Kaca: Cara Menyetujui
+## Langkah berikutnya: dokumen apa yang harus diminta?
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Sebelum memberi persetujuan fabrikasi, kumpulkan gambar berdimensi dengan datum, daftar aksesori final, spesifikasi tipe kaca dan pengerjaan tepi, urutan perlakuan panas, metode penandaan dan keterlacakan, serta kriteria pemeriksaan visual. Tambahkan rujukan produk SNI yang relevan dan standar desain yang dipakai tenaga kompeten.
 
-## Jawaban singkat dan salah paham utama
+Jika fungsi ruangnya belum jelas, lihat konteks penggunaan pada [halaman cubicle kantor](/cubicle/kantor/) atau [halaman cubicle toilet](/cubicle/toilet/) sebagai langkah awal memahami antarmuka ruang—bukan sebagai pengganti gambar proyek.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Tepi, Lubang, dan Cut-Out pada Panel Kaca Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Tepi, Lubang, dan Cut-Out pada Panel Kaca Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Tepi, Lubang, dan Cut-Out pada Panel Kaca Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Tepi, Lubang, dan Cut-Out pada Panel Kaca Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Tepi, Lubang, dan Cut-Out pada Panel Kaca Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Tepi, Lubang, dan Cut-Out pada Panel Kaca Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Kaca.co.id, minta fabrikator mengonfirmasi bahwa semua lubang dan cut-out sudah masuk sebelum pemrosesan akhir. Serahkan keputusan ketebalan, beban, dan toleransi lapangan kepada perencana atau pemeriksa kompeten. Aturan operasionalnya: geometri disepakati lebih dulu, bukti proses menyusul, dan perubahan setelah perlakuan panas diperlakukan sebagai keputusan fabrikasi ulang sampai ada penilaian teknis.

@@ -2,8 +2,9 @@
 article_id: CUB-08-05
 title: "Partisi Kantor Reconfigurable: Apa yang Harus Dicek"
 slug: "partisi-kantor-reconfigurable"
-description: "Merencanakan zonasi, sirkulasi, pintu, dan perubahan layout kantor"
-status: outline
+description: "Panduan memeriksa zonasi, sirkulasi, pintu, dan kesiapan perubahan tata letak partisi kantor."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,213 +20,99 @@ sources:
   - "https://www.iso.org/standard/84945.html"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
   - "https://store.astm.org/c1172-24e01.html"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Partisi Kantor Reconfigurable: Apa yang Harus Dicek
 
-## Assignment lock
+Halo, Sobat Kaca.co.id! Ketika kantor sering berganti jumlah orang atau fungsi ruang, partisi yang disebut “reconfigurable” terdengar seperti cukup dibongkar lalu dipasang ulang. Di sinilah salah paham biasanya muncul: mudah dipindah bukan berarti setiap panel, pintu, kabel, dan lantai siap dipindahkan tanpa perencanaan.
 
-- **Writer task:** Expand this file into one complete article answering: “Partisi Kantor Reconfigurable: Apa yang Harus Dicek”
-- **Reader and situation:** Merencanakan zonasi, sirkulasi, pintu, dan perubahan layout kantor
-- **Reader outcome:** Merencanakan zonasi, sirkulasi, pintu, dan perubahan layout kantor
-- **Primary intent:** Menilai kemudahan perubahan layout
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menjanjikan bongkar-pasang tanpa data sistem.
-- **Final public route:** `/artikel/partisi-kantor-reconfigurable.html`
-- **Appointed CMS date:** `2026-01-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya, periksa sistem secara utuh: modul panel dan sambungannya, jalur sirkulasi, posisi pintu, layanan listrik/data, serta catatan fabrikasi yang memungkinkan perubahan. Kemudahan perubahan baru dapat dinilai setelah ukuran ruang, beban penggunaan, jenis kaca, dan cara pemasangan proyek tersedia. Artikel ini membantu Anda menyusun pertanyaan dan bukti sebelum menyetujui layout baru; bukan menjanjikan bongkar-pasang tanpa data sistem.
 
-## Opening instructions
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-003
+Source type: local
+Placement: after opening, before first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi partisi kaca kantor](/wp-content/uploads/2022/07/partisi-kaca-kantor.jpg)`
+![Ilustrasi partisi kaca kantor](/wp-content/uploads/2022/07/partisi-kaca-kantor.jpg)
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies partisi kaca kantor as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-003].
+END MANAGED IMAGE PLAN -->
+![Ilustrasi partisi kaca kantor](/wp-content/uploads/2022/07/partisi-kaca-kantor.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Partisi Kantor Reconfigurable: Apa yang Harus Dicek**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
 
+## Apa arti partisi kantor reconfigurable dan batas keputusannya?
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+Istilah reconfigurable berarti susunan elemen dapat diubah melalui modul, sambungan, dan komponen yang memang dirancang untuk dirakit kembali. Konsekuensinya, yang dinilai bukan panel tunggal, melainkan kecocokan seluruh antarmuka. Tanyakan gambar modul, detail sambungan, dan daftar komponen pengganti sebelum menganggap perubahan layout sederhana.
 
-- **Image ID:** `LOCAL-003`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi partisi kaca kantor](/wp-content/uploads/2022/07/partisi-kaca-kantor.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `partisi kaca kantor` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Partisi kaca juga bukan pengganti dinding struktural atau sistem proteksi kebakaran. Bila proyek memerlukan ketahanan api, keselamatan benturan, atau persyaratan bangunan tertentu, dasar persetujuan dan bukti uji rakitan lengkap harus diverifikasi. Label “kaca tahan api” saja tidak membuktikan semua kinerja tersebut.
 
-## Evidence packet
+Untuk urusan kaca, bedakan kaca laminasi—dua atau lebih lembar dengan lapisan antar—dari kaca dikeraskan (tempered) yang diproses panas. Keduanya memiliki perilaku pecah dan konteks penggunaan berbeda; rujukan produk Indonesia tersedia pada [SNI 9144-1:2022 untuk kaca aman laminasi](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022) dan [SNI 9144-2:2022 untuk kaca aman dikeraskan](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022). Pilihan akhir tetap bergantung pada aplikasi dan rancangan sistem.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+## Bagaimana mekanisme perubahan layout bekerja?
 
-### KR-01
+Sebelum membahas langkah, pahami urutannya agar tidak mengira panel dapat dipindahkan sendiri. Perubahan dimulai dari layout target, lalu pemeriksaan titik sambungan, pintu, lantai, plafon, dan layanan bangunan. Setelah itu komponen diberi identitas, dilepas dengan metode yang sesuai, diperiksa, dan dipasang kembali sesuai gambar revisi.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Modul yang baik memisahkan keputusan yang sering berubah—misalnya posisi panel dan pintu—dari elemen yang jarang berubah seperti jalur utama kabel atau penetrasi lantai. Namun pemisahan ini harus terlihat pada gambar dan daftar komponen, bukan diasumsikan dari nama produk. Minta rencana pembongkaran, urutan penyimpanan, serta siapa yang memeriksa kerusakan sebelum komponen dipakai ulang.
 
-### KR-03
+Setiap lubang, takikan, atau perubahan ukuran kaca harus direncanakan sebelum pemrosesan panas. Pedoman ASTM untuk kaca dasar, kaca dikeraskan, dan kaca laminasi menempatkan pemotongan serta pekerjaan tepi sebagai bagian dari spesifikasi fabrikasi ([ASTM C1036](https://store.astm.org/c1036-25.html), [ASTM C1048](https://store.astm.org/c1048-25.html), [ASTM C1172](https://store.astm.org/c1172-24e01.html)). Perubahan terlambat dapat berarti membuat ulang, bukan mengebor di lokasi.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+## Faktor apa yang menentukan kemudahan reconfigurable?
 
-### KR-19
+Hubungkan istilah “mudah diubah” dengan kondisi nyata berikut; masing-masing dapat mengubah keputusan tata letak.
 
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
+### Zonasi, sirkulasi, dan posisi pintu
 
-### KR-10
+Mulai dari aktivitas dan jalur orang, bukan dari jumlah panel. Tandai ruang kerja, ruang rapat, area servis, arah bukaan pintu, serta pendekatan ke gagang. Persyaratan aksesibilitas dan sirkulasi adalah bagian dari sistem bangunan; ukuran dan operasi pintu harus diperiksa terhadap aturan lokal yang berlaku, bukan diisi dengan angka perkiraan.
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Kawan Kaca.co.id, minta denah sebelum dan sesudah perubahan pada lembar yang sama. Jika jalur keluar, area putar, atau pandangan ke pintu berubah, hentikan persetujuan layout sampai penanggung jawab bangunan meninjau.
 
-### KR-06
+### Kaca, sambungan, dan beban penggunaan
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Ukuran panel, tumpuan tepi, jenis kaca, beban, dan akibat setelah pecah memengaruhi pemilihan. [ASTM E1300-24](https://store.astm.org/e1300-24.html) menjelaskan bahwa penentuan kaca berkaitan dengan dimensi, tumpuan, beban, dan perilaku sistem; abstraknya bukan pengganti perhitungan insinyur. Jangan memakai satu ketebalan sebagai aturan universal.
 
-### KR-12
+### Cahaya, panas, privasi, dan suara
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Transmisi cahaya adalah banyaknya cahaya yang lewat; perolehan panas matahari, nilai U, privasi, dan insulasi suara adalah ukuran berbeda. ISO memisahkan domain pengukuran tersebut dalam abstrak [ISO 9050](https://www.iso.org/standard/35062.html), [ISO 10292](https://www.iso.org/standard/89851.html), dan [ISO 22897](https://www.iso.org/standard/84945.html). Karena nilainya dapat berbeda antara kaca dan rakitan terpasang, mintalah data yang menyebut konfigurasi partisi, bukan hanya lembar produk.
 
-### KR-13
+### Jejak fabrikasi dan pemeliharaan
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+Catat kode panel, orientasi, jenis finishing, kondisi tepi, dan lokasi penyimpanan. [Panduan NGA tentang permukaan kaca yang diproses panas](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf) mengingatkan bahwa riwayat proses, kebersihan, tanda identifikasi, serta variasi visual perlu masuk ke brief fabrikasi. Saat serah terima, cocokkan label fisik dengan gambar agar komponen tidak tertukar pada perubahan berikutnya.
 
-## Evidence gates
+## Bagaimana membuat keputusan praktis sebelum menyetujui layout?
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Gunakan skenario bersyarat berikut sebagai percakapan proyek, bukan sebagai jaminan hasil.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+| Situasi | Yang perlu dibuktikan | Keputusan sementara |
+|---|---|---|
+| Tim sering bertambah | Modul panel, pintu, dan daftar komponen cadangan | Lanjutkan hanya bila gambar menunjukkan modul yang dapat dirakit ulang |
+| Ruang rapat dipindah | Jalur sirkulasi, bukaan pintu, listrik/data, dan privasi | Minta revisi denah serta tinjauan fasilitas |
+| Panel perlu lubang baru | Gambar fabrikasi dan status pemrosesan kaca | Anggap perlu fabrikasi ulang sampai produsen mengonfirmasi |
+| Target utama adalah suara | Data insulasi rakitan terpasang dan celah sambungan | Jangan menyimpulkan dari nilai kaca saja |
 
-## Internal-link plan
+Teman Kaca.co.id, simpan keputusan dalam paket perubahan: denah bertanggal, daftar panel, detail pintu, foto kondisi sebelum (bila diizinkan), dan nama pemeriksa. Dokumen ini membuat perubahan berikutnya dapat ditelusuri tanpa menebak.
 
-### Existing local routes
+## Kesalahan umum saat menilai partisi yang bisa diubah
 
-- `/partisi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kesalahan pertama adalah memilih berdasarkan label “modular” tanpa meminta detail sambungan. Label menjelaskan niat desain, bukan bukti bahwa lantai, plafon, dan pintu di lokasi Anda kompatibel.
 
-### Planned sibling articles
+Kesalahan kedua adalah menganggap kaca yang lebih kuat otomatis aman setelah pecah. Kekuatan sebelum pecah berbeda dari kemampuan menahan pecahan atau mempertahankan fungsi; cocokkan jenis kaca dan rakitan dengan persyaratan proyek pada standar yang berlaku.
 
-These are future routes. Do not link them as live until their HTML exists.
+Kesalahan ketiga adalah menunda koordinasi layanan. Panel mungkin dapat bergeser, tetapi stopkontak, detektor, sprinkler, atau jalur data bisa tetap berada di tempat lama. Tandai semua antarmuka dan minta persetujuan pemilik sistem terkait.
 
-- `CUB-08-03` → `/artikel/pintu-sirkulasi-cubicle-kantor.html` — Pintu dan Sirkulasi pada Cubicle Kantor
-- `CUB-08-04` → `/artikel/privasi-ruang-kantor-kaca.html` — Privasi Visual untuk Ruang Meeting dan Ruang Kerja
-- `CUB-08-06` → `/artikel/serah-terima-cubicle-kantor.html` — Serah Terima Cubicle Kantor kepada Pengelola Fasilitas
+Jalan pintas yang paling menggoda ialah langsung memindahkan panel untuk “uji coba”. Cara itu dapat merusak tepi kaca, label, atau sambungan dan menghilangkan jejak kondisi awal. Alternatif yang lebih aman adalah uji perubahan di atas gambar, lalu lakukan mock-up atau pembongkaran terbatas setelah metode kerja disetujui.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Apa langkah berikutnya untuk memastikan sistem siap berubah?
 
-## Jawaban singkat dan salah paham utama
+Jawaban judul ini berujung pada bukti: denah zonasi dan sirkulasi, detail pintu, matriks layanan bangunan, identitas tiap panel, spesifikasi kaca, serta metode pembongkaran-pemasangan kembali. Mulailah dengan meminta paket tersebut dan menetapkan siapa yang berwenang menyetujui perubahan.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Partisi Kantor Reconfigurable: Apa yang Harus Dicek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk melihat konteks pilihan ruang, Anda dapat mulai dari halaman [partisi kantor](/partisi), lalu bandingkan kebutuhan lokasi melalui [layanan kantor Yogyakarta](/kantor-yogyakarta.html). Jangan menganggap rute atau contoh lokasi sebagai bukti kinerja sistem tertentu.
 
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Partisi Kantor Reconfigurable: Apa yang Harus Dicek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Partisi Kantor Reconfigurable: Apa yang Harus Dicek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Partisi Kantor Reconfigurable: Apa yang Harus Dicek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Partisi Kantor Reconfigurable: Apa yang Harus Dicek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Partisi Kantor Reconfigurable: Apa yang Harus Dicek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: perubahan layout hanya disebut siap bila gambar, komponen, antarmuka bangunan, dan pemeriksaan kompeten sudah selaras. Jika salah satunya belum ada, tandai `[NEEDS PROJECT EVIDENCE AND COMPETENT REVIEW]` dan tunda keputusan teknis.

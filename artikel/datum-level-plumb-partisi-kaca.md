@@ -2,8 +2,9 @@
 article_id: CUB-11-02
 title: "Datum, Level, Plumb, dan Squareness untuk Partisi Kaca"
 slug: "datum-level-plumb-partisi-kaca"
-description: "Menghasilkan data lapangan dan koordinasi ukuran yang dapat diperiksa"
-status: outline
+description: "Panduan menetapkan acuan datum, elevasi, ketegakan, dan kesikuan agar data lapangan serta koordinasi ukuran partisi kaca dapat diperiksa."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,215 +17,89 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
-  - "https://store.astm.org/c1036-25.html"
-  - "https://store.astm.org/c1048-25.html"
-  - "https://store.astm.org/c1172-24e01.html"
-  - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
-  - "https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf"
-  - "https://www.glass.org/architect"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi cubicle partisi kaca](/wp-content/uploads/2022/07/cubicle-partisi-kaca.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies cubicle partisi kaca as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 # Datum, Level, Plumb, dan Squareness untuk Partisi Kaca
 
-## Assignment lock
+Halo, Sobat Kaca.co.id! Di lapangan, partisi kaca sering dianggap cukup diukur dari satu dinding ke dinding lain. Masalah muncul ketika lantai ternyata menanjak, plafon tidak sejajar, tiang sedikit miring, atau sudut ruang bukan siku-siku. Jika semua ukuran langsung dipakai untuk memesan kaca, kesalahan acuan baru terlihat saat panel dan pintu hendak dipasang.
 
-- **Writer task:** Expand this file into one complete article answering: “Datum, Level, Plumb, dan Squareness untuk Partisi Kaca”
-- **Reader and situation:** Menghasilkan data lapangan dan koordinasi ukuran yang dapat diperiksa
-- **Reader outcome:** Menghasilkan data lapangan dan koordinasi ukuran yang dapat diperiksa
-- **Primary intent:** Menetapkan acuan pengukuran
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Konsep pengukuran; toleransi aktual mengikuti sistem.
-- **Final public route:** `/artikel/datum-level-plumb-partisi-kaca.html`
-- **Appointed CMS date:** `2026-03-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: tetapkan satu datum sebagai referensi, lalu periksa level (kerataan mendatar), plumb (ketegakan), dan squareness (kesikuan) secara terpisah. Catat titik, alat, waktu, dan kondisi permukaan sehingga orang lain dapat mengulang pemeriksaan. Toleransi akhirnya tetap mengikuti sistem partisi, detail sambungan, dan persetujuan profesional proyek; artikel ini membahas konsep pengukurannya, bukan menetapkan angka universal.
 
-## Opening instructions
+![Ilustrasi cubicle partisi kaca](/wp-content/uploads/2022/07/cubicle-partisi-kaca.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Datum, Level, Plumb, dan Squareness untuk Partisi Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.*
 
+## Apa yang dimaksud datum, level, plumb, dan squareness?
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+Empat istilah ini menjawab pertanyaan yang berbeda. Memisahkannya mencegah asumsi bahwa satu garis laser otomatis membuktikan seluruh ruang siap dipasang. Bagian ini memberi arti, cara membaca, dan keputusan yang perlu dicatat untuk setiap istilah.
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi cubicle partisi kaca](/wp-content/uploads/2022/07/cubicle-partisi-kaca.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `cubicle partisi kaca` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+**Datum** adalah acuan tetap yang disepakati, misalnya garis referensi pada gambar koordinasi atau titik elevasi yang ditandai di lokasi. Mekanismenya sederhana: semua pengukuran tinggi, posisi, dan jarak dirujukkan ke acuan yang sama, bukan ke permukaan yang mungkin berubah. Konsekuensinya, dua tim dapat membandingkan data tanpa menebak titik awal. Pastikan datum diberi identitas, lokasi, dan cara pemindahan ke area kerja.
 
-## Evidence packet
+**Level** berarti hubungan mendatar atau elevasi antar titik. Alat level membantu menunjukkan apakah ambang, rel, atau garis atas berada pada ketinggian yang konsisten. Bacaan level tidak otomatis menyatakan lantai rata; ia hanya menjelaskan perbedaan elevasi pada titik yang diperiksa. Catat titik awal dan titik pembanding sebelum memutuskan apakah detail bawah perlu disetel.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+**Plumb** berarti tegak terhadap acuan gravitasi. Pemeriksaan ini membandingkan garis tepi panel, mullion, atau bidang dinding dengan garis vertikal. Dinding yang tampak tegak dari satu sisi belum tentu konsisten sepanjang tinggi; karena itu periksa lebih dari satu ketinggian dan catat sisi pengukuran. Jika hasil berbeda, jangan memaksa panel mengikuti dinding sebelum penyebabnya dibahas.
 
-### KR-01
+**Squareness** berarti hubungan siku antara dua arah, seperti pertemuan dinding dengan lantai atau dua garis partisi. Kesikuan memengaruhi celah, sambungan, dan posisi pintu. Ukur kedua arah dari datum yang sama dan gunakan metode pemeriksaan yang disetujui proyek; jangan mengubah satu bacaan diagonal menjadi klaim bahwa seluruh ruangan siku.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+## Bagaimana urutan pengukuran menghasilkan data yang dapat diperiksa?
 
-### KR-03
+Urutan penting karena setiap pemeriksaan bergantung pada acuan sebelumnya. Ikuti langkahnya agar pengukuran bukaan tidak dilakukan secara acak lalu disebut sebagai survei final.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Mulailah dengan lembar data yang memuat identitas ruang, tanggal, alat, operator, dan kondisi permukaan. Tandai datum pada lokasi yang tidak mudah terganggu. Foto atau sketsa boleh membantu orientasi, tetapi angka dan titik pengukuran tetap harus tertulis.
 
-### KR-06
+Berikutnya, pindahkan datum ke garis kerja partisi. Ukur jarak garis tersebut ke dinding, kolom, atau bukaan pada beberapa titik. Tulis apakah ukuran diambil dari muka finishing, sumbu, atau tepi material; istilah “jarak dinding” tanpa referensi muka dapat menghasilkan dua tafsir.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Periksa level pada titik awal, tengah, dan akhir jalur. Lalu periksa plumb pada titik bawah dan atas elemen yang akan menjadi tumpuan. Setelah itu, periksa squareness pada setiap sudut atau perubahan arah. Bila satu hasil menunjukkan penyimpangan, ulangi dari datum yang sama sebelum mengubah gambar kerja.
 
-### KR-12
+Terakhir, bandingkan data lapangan dengan ukuran panel, sambungan, dan ruang gerak pintu yang direncanakan. Keputusan “bisa diproduksi” harus menunggu konfirmasi sistem dan tinjauan teknis. Pemilihan tebal kaca, misalnya, bukan konsekuensi langsung dari ukuran ruangan saja; ASTM E1300 menjelaskan bahwa penentuan kaca untuk beban memerlukan dimensi, tumpuan, jenis kaca, beban, dan perilaku sistem yang relevan ([ruang lingkup ASTM E1300-24](https://store.astm.org/e1300-24.html)).
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+## Faktor apa yang dapat mengubah hasil pembacaan?
 
-### KR-13
+Pembacaan alat hanyalah potret kondisi saat itu. Bagian ini penting agar Anda tidak menyamakan angka survei dengan jaminan hasil pemasangan.
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+Finishing yang belum selesai dapat mengubah muka ukur. Debu, tonjolan plester, atau lantai yang masih akan dilapis membuat jarak bersih berbeda dari kondisi akhir. Tulis status finishing dan siapa yang menetapkan muka final sebelum dimensi dipakai untuk fabrikasi.
 
-### KR-14
+Perubahan jalur utilitas, plafon, dan kusen juga dapat memindahkan titik koordinasi. Jika datum dipindah tanpa catatan, data lama tidak lagi dapat dibandingkan. Simpan revisi dengan tanggal dan alasan, bukan hanya mengganti angka di lembar lama.
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+Jenis kaca dan proses fabrikasi memengaruhi keputusan berikutnya. Kaca pengaman yang lebih kuat sebelum pecah tidak otomatis menahan pecahan atau memikul beban setelah pecah; kecocokan harus dilihat dari aplikasi dan sistem yang dirancang. Referensi produk kaca pengaman Indonesia tersedia pada [SNI 9144-1:2022 untuk kaca laminasi](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022) dan [SNI 9144-2:2022 untuk kaca tempered](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022). Jangan menurunkan ketebalan atau detail hanya dari hasil level dan plumb.
 
-### KR-16
+## Bagaimana membuat keputusan praktis dari lembar ukur?
 
-- **Original sources:** [NGA Proper Procedures for Cleaning Architectural Glass Products (2023)](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf), [NGA Heat-Treated Glass Surfaces Are Different (2023)](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf), [NGA glass technical resources](https://www.glass.org/architect)
-- **Purpose for this article:** Ground maintenance and defect-prevention content without universal chemical recipes.
-- **Safe grounded facts:** Incorrect cleaning can permanently scratch, stain, remove/damage a coating, or harm laminated edges. Cleaning frequency should respond to site exposure rather than a universal calendar.
-- **Limits:** Do not publish a chemical as universally safe. Confirm the exact glass, coating, film, interlayer edge, sealants, hardware, and manufacturer instructions.
+Contoh berikut bukan toleransi proyek, melainkan cara mengubah temuan menjadi keputusan yang dapat dilacak. Kawan Kaca.co.id, fokuskan pertanyaan pada tindakan berikutnya, bukan pada angka yang terlihat paling rapi.
 
-## Evidence gates
+| Temuan lapangan | Pertanyaan keputusan | Tindakan aman |
+|---|---|---|
+| Garis atas tidak level | Apakah detail sistem menyediakan penyesuaian? | Minta detail dan persetujuan teknis sebelum memesan panel. |
+| Tepi dinding tidak plumb | Apakah panel mengikuti garis desain atau permukaan eksisting? | Tetapkan garis desain dari datum dan dokumentasikan celah yang harus ditangani. |
+| Sudut tidak square | Apakah sambungan memakai profil, sealant, atau panel potong khusus? | Koordinasikan geometri dengan fabricator; jangan mengasumsikan panel persegi. |
+| Finishing belum final | Muka mana yang menjadi ukuran kontraktual? | Tandai status “sementara” dan jadwalkan pemeriksaan ulang. |
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Jika keputusan menyentuh beban, kaca struktural, atau konsekuensi keselamatan, hentikan pemesanan dan minta tinjauan profesional. Data datum-level-plumb-squareness membantu koordinasi, tetapi tidak menggantikan desain sistem.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Kesalahan umum apa yang perlu diperiksa ulang?
 
-## Internal-link plan
+Shortcut pertama adalah memakai satu titik laser sebagai bukti semua bidang sudah benar. Laser hanya membentuk referensi pada posisi tertentu; ia tidak menghapus variasi permukaan atau membuktikan kesikuan. Ulangi pengukuran di titik yang mewakili seluruh jalur.
 
-### Existing local routes
+Shortcut kedua adalah membulatkan ukuran agar mudah dipesan. Pembulatan tanpa mengetahui fungsi celah, profil, dan metode pemasangan dapat memindahkan masalah ke sambungan. Pertahankan angka observasi, lalu pisahkan kolom ukuran desain dan keputusan revisinya.
 
-- `/partisi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Shortcut ketiga adalah mengubah kaca di lapangan ketika lubang atau potongan ternyata kurang. Untuk kaca yang akan diproses panas, perubahan terlambat dapat memerlukan pembuatan ulang, bukan modifikasi di lokasi. Karena itu, masukkan lubang, takikan, tepi, dan penandaan ke dalam brief fabrikasi sebelum produksi; acuan pemrosesan dan pemeriksaan permukaan bersifat spesifik terhadap standar dan fabricator.
 
-### Planned sibling articles
+Periksa juga kebersihan alat, kestabilan tripod, titik nol, serta siapa yang menyaksikan pembacaan. Sobat Kaca.co.id, satu tanda tangan pada lembar ukur tidak cukup bila identitas titik dan metode tidak jelas.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Langkah berikutnya setelah pengukuran selesai
 
-- `CUB-11-01` → `/artikel/survei-lapangan-cubicle-kaca.html` — Checklist Survei Lapangan untuk Cubicle Kaca
-- `CUB-11-03` → `/artikel/jadwal-dimensi-panel-pintu-kaca.html` — Cara Membuat Jadwal Dimensi Panel dan Pintu Kaca
-- `CUB-11-04` → `/artikel/toleransi-pemasangan-cubicle-kaca.html` — Toleransi Pemasangan Cubicle Kaca: Cara Menyepakati
+Ringkas hasil dalam satu lembar koordinasi: datum yang dipakai, sketsa jalur, titik level, titik plumb, pemeriksaan squareness, status finishing, foto orientasi, dan daftar pertanyaan terbuka. Tautkan kebutuhan umum sistem ke halaman [partisi kaca](/partisi) bila Anda memerlukan konteks produk, tetapi jangan menjadikannya pengganti gambar kerja atau persetujuan proyek.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Datum, Level, Plumb, dan Squareness untuk Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Datum, Level, Plumb, dan Squareness untuk Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Datum, Level, Plumb, dan Squareness untuk Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Datum, Level, Plumb, dan Squareness untuk Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Datum, Level, Plumb, dan Squareness untuk Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Datum, Level, Plumb, dan Squareness untuk Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Minta pihak terkait menyetujui muka ukur dan garis desain secara tertulis. Jika kondisi berubah, terbitkan lembar revisi dan jadwalkan pengukuran ulang. Teman Kaca.co.id, aturan operasinya sederhana: ukur dari datum yang sama, pisahkan level–plumb–squareness, dan jangan menetapkan toleransi atau spesifikasi kaca sebelum sistem serta tinjauan teknis menyatakannya jelas.

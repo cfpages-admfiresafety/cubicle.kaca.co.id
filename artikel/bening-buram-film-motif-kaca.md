@@ -2,8 +2,9 @@
 article_id: CUB-04-02
 title: "Kaca Bening, Buram, Film, dan Motif untuk Cubicle"
 slug: "bening-buram-film-motif-kaca"
-description: "Mengatur transparansi, visual privacy, pencahayaan, dan batas klaim akustik"
-status: outline
+description: "Panduan memilih kaca bening, buram, film, atau motif untuk mengatur pandangan dan cahaya pada cubicle."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,225 +15,90 @@ reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/bening-buram-film-motif-kaca.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/detail/13726-47562021"
-  - "https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011"
-  - "https://pesta.bsn.go.id/produk/detail/14858-sni92372023"
-  - "https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014"
   - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
-  - "https://www.iso.org/standard/75536.html"
   - "https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf"
   - "https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN"
   - "https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026"
-  - "https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key="
-  - "https://www.iso.org/standard/85237.html"
-  - "https://store.astm.org/c1036-25.html"
-  - "https://store.astm.org/c1048-25.html"
-  - "https://store.astm.org/c1172-24e01.html"
-  - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Kaca Bening, Buram, Film, dan Motif untuk Cubicle
 
-## Assignment lock
+Halo, Teman Kaca.co.id! Memilih kaca untuk cubicle bukan sekadar memilih warna. Kaca bening meneruskan pandangan, kaca buram menyebarkan pandangan, sedangkan film atau motif mengubah bidang yang sama dengan cara yang berbeda. Salah pilih dapat membuat ruang terlalu terbuka, terlalu gelap, atau tampak privat padahal siluet masih terbaca.
 
-- **Writer task:** Expand this file into one complete article answering: “Kaca Bening, Buram, Film, dan Motif untuk Cubicle”
-- **Reader and situation:** Mengatur transparansi, visual privacy, pencahayaan, dan batas klaim akustik
-- **Reader outcome:** Mengatur transparansi, visual privacy, pencahayaan, dan batas klaim akustik
-- **Primary intent:** Membandingkan cara mengatur transparansi
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus tampilan/privasi; bukan spesifikasi produk final.
-- **Final public route:** `/artikel/bening-buram-film-motif-kaca.html`
-- **Appointed CMS date:** `2025-09-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: mulai dari tingkat pandangan yang boleh lewat, lalu cocokkan dengan kebutuhan cahaya dan perawatan. Bening cocok saat pengawasan visual diutamakan; buram atau motif membantu memutus detail; film memberi pola atau bidang buram yang dapat dipilih; kaca dinamis hanya layak dipertimbangkan bila daya, kontrol, dan pemeliharaannya sudah jelas. Pilihan akhir tetap perlu disesuaikan dengan ukuran, sambungan, pintu, dan persetujuan proyek.
 
-## Opening instructions
+Transmisi cahaya, panas matahari, nilai U, privasi, dan isolasi suara adalah ukuran berbeda. ISO menjelaskan pengukuran sifat cahaya dan surya pada kaca, sementara nilai kaca di tengah tidak otomatis mewakili seluruh partisi terpasang ([ISO 9050](https://www.iso.org/standard/35062.html)). Artikel ini membantu menyusun keputusan tampilan dan privasi, bukan menetapkan spesifikasi final atau klaim akustik.
 
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kaca Bening, Buram, Film, dan Motif untuk Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)
 
+*Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-007`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Exact Markdown to insert:** `![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Caption: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Hasil yang perlu ditetapkan sebelum memilih kaca
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Istilah “privat” sering berarti beberapa hal. Tetapkan apakah orang boleh melihat aktivitas, hanya mengenali keberadaan, atau tidak mendapat petunjuk visual. Catat arah datang cahaya, posisi lampu, dan sisi yang paling sering dilalui. Pihak penyetuju sebaiknya memegang denah, ukuran bidang, arah bukaan, dan contoh material pada kondisi cahaya yang mendekati pemakaian.
 
-### KR-01
+Hasil yang berguna adalah matriks sederhana: tingkat pandangan, kebutuhan cahaya, pola, cara bersih-bersih, dan batas klaim suara. Keputusan siap dibahas ketika setiap bidang punya alasan, bukan hanya nama produk.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+## Perbedaan kaca bening, buram, film, dan motif
 
-### KR-08
+Pilihan ini bekerja dengan mekanisme penghalang pandangan yang tidak sama. Memahaminya mencegah anggapan bahwa semua permukaan yang tidak tembus pandang memberi privasi identik.
 
-- **Original sources:** [SNI 4756:2021 aluminium-coated sheet mirror — BSN](https://pesta.bsn.go.id/produk/detail/13726-47562021), [SNI ISO 25537:2011 silver-coated mirror — BSN](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011), [SNI 9237:2023 coated glass — BSN](https://pesta.bsn.go.id/produk/detail/14858-sni92372023), [SNI ISO 11479-1:2014 physical defects — BSN](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014)
-- **Purpose for this article:** Ground mirror, coated-glass, façade color, inspection, defect, and procurement content.
-- **Safe grounded facts:** A generic “mirror” or “coated glass” label omits backing/coating system, exposed surface, edge protection, visual criteria, and compatibility concerns. Aesthetic acceptance and functional performance are separate.
-- **Limits:** Full standards and manufacturer documents are required for viewing conditions, defect limits, processing restrictions, and cleaning compatibility.
+### Kaca bening untuk cahaya dan pengawasan
 
-### KR-10
+Kaca bening meneruskan cahaya dan bentuk dengan gangguan kecil. Ruang terasa terhubung dan mudah diawasi, tetapi gerak tubuh dan isi cubicle lebih mudah terbaca. Gunakan ketika keterbukaan memang tujuan; tambahkan penghalang hanya pada area yang perlu.
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+### Kaca buram untuk memutus detail visual
 
-### KR-21
+Kaca buram menyebarkan cahaya sehingga kontur kurang jelas. Tingkat kabur tetap bergantung pada tekstur, pencahayaan, dan jarak. Buram mengatur privasi visual, bukan otomatis mengubah partisi menjadi penghalang suara. Sobat Kaca.co.id, pisahkan keputusan visual dari target akustik.
 
-- **Original sources:** [ISO 18543:2021 electrochromic glazing](https://www.iso.org/standard/75536.html), [NGA Dynamic Glazing for High Performance Buildings](https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf), [NGA Decorative Glass handling/cleaning record (2025)](https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN), [NGA decorative durability guidance](https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf)
-- **Purpose for this article:** Distinguish privacy switching, solar/visible modulation, decorative appearance, and durability.
-- **Safe grounded facts:** “Smart glass” is not one mechanism. Power-off state, switching method, optical state range, controls, wiring, heat, edge seals, UV/moisture exposure, cycle/ageing evidence, replacement, and cleaning can all matter.
-- **Limits:** Manufacturer claims are product-specific. Do not infer energy savings, sound/privacy performance, service life, or safety class from the technology name.
+### Film untuk pola yang dapat dipilih
 
-### KR-05
+Film adalah lapisan yang ditempel pada permukaan kaca. Mekanismenya memungkinkan pola atau bidang buram diterapkan tanpa mengganti lembar kaca. Keuntungannya adalah pilihan grafis; konsekuensinya, tepi, perekat, pembersihan, dan paparan lingkungan harus diperhitungkan. Prosedur penanganan dan pembersihan dekoratif perlu mengikuti material yang dipakai ([NGA handling and cleaning](https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN)).
 
-- **Original sources:** [SNI 47:2018 Konfirmasi 2026 — BSN](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [SNI 6353:2024 listing — BSN](https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key=), [ISO 16293-2:2025 official abstract](https://www.iso.org/standard/85237.html)
-- **Purpose for this article:** Establish current terminology and quality-reference starting points for ordinary float/flat and heat-strengthened glass.
-- **Safe grounded facts:** “Flat glass,” “heat-strengthened glass,” and “fully tempered safety glass” are not interchangeable labels. A base-glass quality standard does not by itself prove safety suitability, structural adequacy, or whole-system performance.
-- **Limits:** Full standards are required for tolerances, defect limits, tests, and acceptance criteria.
+### Motif untuk arah pandang dan penanda batas
 
-### KR-13
+Motif dapat berupa pola rapat, garis, atau bidang yang memecah pandangan. Nilai praktisnya adalah membantu orang mengenali batas kaca dan mengarahkan perhatian. Jarak antarunsur dan tinggi pemasangan menentukan apakah siluet masih terlihat. Terima motif berdasarkan contoh pada jarak pandang nyata, bukan nama warna saja.
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+## Langkah 1 — tetapkan ruang lingkup tampilan dan privasi
 
-### KR-03
+Pisahkan bidang tetap, pintu, area dekat lantai, dan bagian yang berhadapan langsung dengan sirkulasi. Setiap bidang bisa memerlukan tingkat privasi berbeda. Jangan memasukkan ukuran ketebalan, jenis temper, atau detail hardware ke keputusan tampilan; itu bagian dari spesifikasi dan tinjauan kompeten.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Gunakan pertanyaan: siapa yang boleh melihat, dari arah mana, kapan lampu menyala, dan apa yang terjadi jika film rusak? Uji sampel pada cahaya dari depan dan belakang, serta periksa apakah motif terlihat oleh orang yang berjalan mendekat.
 
-## Evidence gates
+Untuk konteks jenis ruang, Anda dapat melihat pilihan [cubicle toilet](/cubicle/toilet) sebagai langkah berikutnya. Tautan itu membantu memeriksa hubungan antara bidang kaca, pintu, dan sirkulasi tanpa mengubah artikel ini menjadi spesifikasi produk.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+## Langkah 2 — cocokkan bukti material dengan kondisi pemakaian
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Label “smart glass” tidak cukup untuk menyimpulkan cara kerja. Kaca dinamis dapat memiliki keadaan saat listrik mati, metode pengalihan, rentang optik, kabel, dan kontrol berbeda. Nama teknologi tidak membuktikan penghematan energi, privasi, atau masa pakai tertentu ([NGA Dynamic Glazing](https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf)).
 
-## Internal-link plan
+Mintalah lembar data, contoh fisik, petunjuk pembersihan, serta keterangan permukaan dan tepi. Ketahanan dekorasi dipengaruhi paparan, kelembapan, ultraviolet, dan cara dibersihkan; penilaiannya harus mengikuti produk dan kondisi pemakaian ([NGA decorative durability](https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf)).
 
-### Existing local routes
+## Langkah 3 — uji contoh lalu tetapkan keputusan
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Mulai dari alternatif bening, buram, film berpola, dan motif pada kaca. Pasang contoh pada posisi sebenarnya; amati dari kedua sisi pada siang dan malam. Catat apa yang terlihat pada jarak berdiri dan saat seseorang bergerak. Nilai pula kemudahan membersihkan permukaan, lalu minta pemeriksa memastikan pilihan tidak mengganggu pintu, bukaan, sirkulasi, atau tanda keselamatan.
 
-### Planned sibling articles
+## Titik berhenti: kapan harus berhenti untuk peninjauan
 
-These are future routes. Do not link them as live until their HTML exists.
+Hentikan pemesanan bila target privasi belum dapat dijelaskan dengan contoh, lampu dan arah pandang belum diuji, atau ada klaim akustik tanpa data sistem terpasang. Hentikan juga ketika ukuran, lubang, atau potongan masih berubah; perubahan terlambat dapat memerlukan pembuatan ulang, bukan modifikasi lapangan.
 
-- `CUB-04-01` → `/artikel/menentukan-privasi-partisi-kaca.html` — Menentukan Tingkat Privasi pada Partisi Kaca
-- `CUB-04-03` → `/artikel/sightline-celah-visual-toilet.html` — Sightline dan Celah Visual pada Cubicle Toilet
-- `CUB-04-04` → `/artikel/cahaya-alami-partisi-kaca.html` — Menjaga Cahaya Alami saat Membagi Ruang dengan Kaca
+[NEEDS PROJECT REVIEW: tingkat privasi, kondisi pencahayaan, kompatibilitas film, dan klaim akustik belum memiliki bukti proyek spesifik.]
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Verifikasi hasil dan serah terima
 
-## Hasil akhir dan prasyarat
+Cocokkan warna, pola, batas buram, arah pemasangan, dan kebersihan dengan sampel yang disetujui. Lihat permukaan dari jarak pemakaian, bukan hanya dari dekat. Simpan lembar data, instruksi pembersihan, persetujuan sampel, dan foto kondisi awal. Jika tampilan berubah setelah pembersihan atau pencahayaan malam, catat pemicunya sebelum mengganti material.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Bening, Buram, Film, dan Motif untuk Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Periksa juga keseragaman antarbidang dari sudut yang biasa dipakai pengguna. Bila ada ketidaksesuaian, tandai bidangnya, cocokkan dengan dokumen persetujuan, dan minta keputusan koreksi sebelum serah terima final.
 
-## Langkah 1 — tetapkan scope
+Catatan pemeriksaan ini membantu tim membedakan cacat permukaan dari perubahan akibat cahaya, sehingga tindak lanjut tetap dapat dilacak.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Bening, Buram, Film, dan Motif untuk Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang menyesatkan
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Memilih semua kaca buram karena dianggap otomatis privat dan lebih senyap adalah jalan pintas yang berisiko. Buram hanya memutus detail visual; suara masih ditentukan oleh keseluruhan partisi, celah, pintu, dan sambungan. Kawan Kaca.co.id, tetapkan target visual terpisah dari target akustik dan minta bukti yang sesuai untuk masing-masing.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Bening, Buram, Film, dan Motif untuk Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: pilih berdasarkan pandangan, cahaya, dan perawatan
 
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Bening, Buram, Film, dan Motif untuk Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Bening, Buram, Film, dan Motif untuk Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Bening, Buram, Film, dan Motif untuk Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kaca bening, buram, film, dan motif sama-sama mengatur transparansi, tetapi hasilnya berbeda pada pandangan, cahaya, dan pemeliharaan. Bawa denah, arah cahaya, contoh fisik, dan pertanyaan privasi ke peninjauan proyek. Aturan operasinya: setujui tampilan setelah diuji pada kondisi nyata, dan tahan keputusan bila data produk atau kondisi pemasangan belum lengkap.

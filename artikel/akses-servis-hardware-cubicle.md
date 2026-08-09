@@ -2,8 +2,9 @@
 article_id: CUB-05-06
 title: "Akses Servis dan Penggantian Hardware Cubicle"
 slug: "akses-servis-hardware-cubicle"
-description: "Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya"
-status: outline
+description: "Panduan menyiapkan akses servis dan penggantian perangkat keras cubicle dengan mencocokkan bukaan, frame, fitting, dan komponennya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,216 +15,100 @@ reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/akses-servis-hardware-cubicle.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
-  - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-007
+Source type: local
+Placement: after opening, before first H2
+- **Exact Markdown to insert:** `![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)`
+Caption/credit: Aset lokal proyek; bukan dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies cubicle toilet as relevant content media; no pixels were inspected.
+Hard boundary: do not infer visible details, ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: if unavailable or provenance is incomplete, use [NEEDS IMAGE REVIEW: LOCAL-007].
+END MANAGED IMAGE PLAN -->
 
 # Akses Servis dan Penggantian Hardware Cubicle
 
-## Assignment lock
+Halo, Teman Kaca.co.id! Pintu cubicle yang mulai seret, engsel longgar, atau pegangan yang tidak lagi pas sering menggoda kita untuk langsung membeli fitting (perlengkapan sambungan) pengganti. Padahal masalahnya bisa berada pada arah bukaan, posisi frame (profil penyangga), lubang kaca, atau komponen lain yang saling menahan. Mengganti satu bagian tanpa memeriksa rangkaian itu dapat membuat pintu tetap bermasalah dan menyulitkan servis berikutnya.
 
-- **Writer task:** Expand this file into one complete article answering: “Akses Servis dan Penggantian Hardware Cubicle”
-- **Reader and situation:** Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya
-- **Reader outcome:** Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya
-- **Primary intent:** Menyiapkan pemeliharaan komponen bergerak
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus serviceability; jadwal perawatan dimiliki CUB-13.
-- **Final public route:** `/artikel/akses-servis-hardware-cubicle.html`
-- **Appointed CMS date:** `2025-11-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: siapkan akses servis sejak pemilihan sistem. Catat cara membuka panel, ruang kerja untuk melepas fitting, identitas komponen, ukuran antarmuka, dan urutan pemeriksaan. Penggantian baru layak dilakukan setelah komponen lama, kaca, profil penyangga, dan beban operasinya cocok. Jika data proyek atau persetujuan desain belum tersedia, tandai dulu untuk ditinjau tenaga kompeten—jangan menebak.
 
-## Opening instructions
+Artikel ini membantu Anda memutuskan apa yang perlu dicatat, bukti apa yang harus dicocokkan, serta kapan pekerjaan harus berhenti. Detail jadwal perawatan berada di ruang lingkup artikel lain; fokus di sini adalah agar komponen bergerak dapat diakses dan diganti tanpa merusak sistem cubicle.
 
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Akses Servis dan Penggantian Hardware Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)
 
+Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+## Hasil servis yang perlu disiapkan sebelum memilih perangkat keras
 
-- **Image ID:** `LOCAL-007`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Sebelum membahas langkah, samakan dulu arti “mudah diservis”. Yang dicari bukan sekadar pintu bisa dibuka, melainkan teknisi dapat mencapai pengikat, melepas komponen dengan aman, memasang pengganti yang cocok, lalu menguji kembali gerak dan celahnya. Bagian ini menetapkan hasil, wewenang, dan data awal supaya keputusan tidak hanya berdasarkan bentuk perlengkapan sambungan.
 
-## Evidence packet
+Hasil minimum adalah lembar identitas sistem: jenis bukaan, arah ayun atau geser, panel dan profil penyangga yang terlibat, daftar perlengkapan sambungan, titik pengikat, serta ruang yang tersedia untuk alat. Pemilik atau pengelola menentukan kebutuhan akses; pemeriksa yang kompeten mengonfirmasi bahwa pembongkaran tidak mengganggu kestabilan panel atau kaca.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Siapkan gambar terpasang, manual produk, catatan perubahan, dan foto kondisi aktual. Foto hanya membantu mengenali lokasi; ukuran, material, dan kecocokan tetap perlu diverifikasi di lapangan. Jika dokumen tidak menyebut tipe kaca atau detail lubang, tulis “belum terverifikasi” dan minta pemeriksaan, bukan mengisi dengan asumsi.
 
-### KR-01
+Untuk kaca keselamatan, identitas produk tidak otomatis menjelaskan perilaku seluruh rakitan. SNI 9144-1:2022 membahas kaca pengaman berlapis dan SNI 9144-2:2022 membahas kaca pengaman dikeraskan; keduanya perlu dibaca dalam konteks aplikasi dan desain lengkap ([BSN, SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [BSN, SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)). Karena itu, jangan mengebor, menjepit, atau mengganti panel sebelum jenis dan kondisi kaca disetujui.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+## Langkah 1 — tetapkan ruang lingkup akses dan batas pembongkaran
 
-### KR-03
+Langkah pertama mencegah pekerjaan melebar menjadi perubahan sistem. Bedakan servis perangkat keras yang dapat dilepas dari pekerjaan pada kaca, dinding, lantai, atau struktur penahan. Dengan batas ini, Anda tahu siapa yang berwenang dan risiko apa yang harus dialihkan untuk ditinjau.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Tuliskan komponen yang boleh disentuh: misalnya engsel, pengunci (latch), pegangan, baut, atau penutup profil. Catat pula antarmukanya—lubang, sekrup, pelat dudukan, dan arah beban—tanpa menganggap semua komponen berukuran sama dapat saling menggantikan. Akses alat, perlindungan permukaan, dan penyangga sementara harus disiapkan sebelum pengikat dilepas.
 
-### KR-10
+Tentukan kondisi berhenti di awal. Bila panel bergerak tidak tertopang, kaca retak, profil berubah bentuk, atau pengikat tidak dapat dijangkau tanpa membongkar bagian lain, pekerjaan beralih ke peninjauan. Sobat Kaca.co.id, keputusan berhenti ini bukan kegagalan servis; ini cara mencegah kerusakan berantai.
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+## Langkah 2 — kumpulkan bukti dan cocokkan seluruh antarmuka
 
-### KR-19
+Bentuk fitting sering terlihat serupa, tetapi kecocokan ditentukan oleh titik temu antarbagian. Karena itu, periksa bukti yang benar, bukan sekadar mencocokkan warna atau merek. Bagian berikut menyusun pemeriksaan dari identitas sampai kondisi terpasang.
 
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
+Mulai dengan kode komponen, produsen, material, dan instruksi pemasangan. Cocokkan dengan ukuran aktual, jenis pengikat, ketebalan panel yang tercatat, dan arah gerak pintu. Bila satu data berbeda, tahan keputusan pembelian sampai pemasok atau perancang mengonfirmasi.
 
-### KR-06
+Periksa profil penyangga sebagai pasangan, bukan latar belakang pasif. Profil yang miring atau celah yang berubah dapat membuat perangkat keras baru menerima beban yang tidak semestinya. Ukur dan dokumentasikan kondisi sebelum melepas apa pun, lalu simpan komponen lama sebagai pembanding.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Untuk kaca, jangan mengubah lubang atau tepi hanya agar fitting “masuk”. Pemilihan kaca dan detail lubang berkaitan dengan dimensi, tumpuan tepi, beban, dan perilaku sistem; ASTM E1300-24 sendiri menempatkan pemilihan kaca sebagai persoalan desain berbasis kondisi, bukan satu aturan ketebalan untuk semua keadaan ([ASTM E1300-24](https://store.astm.org/e1300-24.html)). Detail proyek harus ditinjau oleh pihak yang berwenang.
 
-### KR-12
+Jika akses servis melibatkan sealant, catat substrat, bahan kontak, kebersihan, geometri sambungan, dan kondisi pengerasan sesuai instruksi produk yang dipilih. Nama “silikon” saja tidak cukup untuk membuktikan kompatibilitas; pekerjaan yang memikul fungsi struktural memerlukan peninjauan tertulis produsen dan tanggung jawab desain yang jelas.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+## Langkah 3 — jalankan urutan kerja servis secara terkendali
 
-### KR-14
+Setelah bukti cocok, urutan kerja menjaga agar setiap perubahan dapat dilacak. Konteks ini mencegah kebiasaan melepas semua bagian sekaligus, yang membuat posisi awal dan sumber masalah sulit dibedakan.
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+Pertama, amankan area dan topang panel atau pintu sesuai metode proyek. Kedua, tandai orientasi dan posisi komponen sebelum pengikat dilepas. Ketiga, lepaskan hanya bagian yang tercantum dalam ruang lingkup, sambil memeriksa tanda aus, korosi, retak, atau ulir rusak.
 
-## Evidence gates
+Bandingkan komponen pengganti dengan yang lama dan dengan dokumen, lalu pasang mengikuti instruksi produsennya. Jangan memperbesar lubang, menambah ganjal, atau mencampur baut dari sistem lain untuk mengatasi ketidakcocokan tanpa persetujuan tertulis. Bila komponen tidak duduk rata atau gerak pintu berubah, hentikan pemasangan dan kembali ke tahap pencocokan.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Setelah terpasang, uji gerak secara bertahap: bukaan, penutupan, penguncian, dan jarak bebas yang ditetapkan proyek. Catat hasil observasi, bukan klaim performa umum. Uji ini menunjukkan kondisi saat serah terima; tidak menggantikan pemeriksaan desain atau sertifikasi rakitan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Titik berhenti: kapan penggantian harus dihentikan
 
-## Internal-link plan
+Bagian ini menerjemahkan risiko menjadi keputusan praktis. Penggantian perangkat keras tidak boleh diteruskan bila pekerjaan menyentuh bukti yang belum ada atau dapat mengubah fungsi panel dan kaca. Dengan titik henti yang jelas, pengelola dapat meminta peninjauan sebelum biaya dan kerusakan bertambah.
 
-### Existing local routes
+Hentikan pekerjaan dan minta peninjauan jika jenis kaca, dimensi lubang, kapasitas pengikat, arah beban, atau detail profil penyangga tidak dapat diverifikasi. Demikian pula bila ada retak, pecah, deformasi, korosi berat, atau sealant yang berfungsi sebagai bagian penahan. **[NEEDS GATE: penanggung jawab teknis harus memverifikasi kondisi kaca dan profil penyangga, kapasitas pengikat, detail produk, serta persetujuan sebelum penggantian final.]**
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kawan Kaca.co.id, jangan menganggap komponen “universal” menyelesaikan semua kasus. Universal hanya berarti klaim kompatibilitas dari pemasok pada kondisi tertentu; kondisi itu harus sama dengan sistem Anda dan dibuktikan dalam dokumen.
 
-### Planned sibling articles
+## Verifikasi hasil dan serah terima untuk servis berikutnya
 
-These are future routes. Do not link them as live until their HTML exists.
+Serah terima yang baik menjawab pertanyaan teknisi berikutnya tanpa membongkar ulang. Karena itu, bagian ini berfokus pada catatan yang dapat diperiksa, bukan kesan bahwa pintu sudah terasa lebih ringan.
 
-- `CUB-05-04` → `/artikel/kompatibilitas-hardware-kaca.html` — Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca
-- `CUB-05-05` → `/artikel/hardware-cubicle-area-basah.html` — Hardware Cubicle untuk Area Basah: Bukti yang Dicari
+Simpan daftar komponen terpasang, kode dan pemasok, foto sebelum-sesudah, tanggal pekerjaan, bagian yang tidak diganti, serta instruksi pembukaan untuk servis. Tambahkan catatan siapa yang menyetujui perubahan dan dokumen apa yang menjadi dasar keputusan.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Checklist penerimaan dapat memuat: akses alat tersedia; panel dan profil penyangga tidak rusak; pengikat sesuai; gerak dan pengunci diuji; tidak ada benturan; area dibersihkan; serta batas pekerjaan dijelaskan kepada pengelola. Jika satu butir gagal, tulis tindakan lanjut dan penanggung jawabnya, bukan menandai selesai.
 
-## Hasil akhir dan prasyarat
+Untuk memahami jenis sistem cubicle sebelum menyusun daftar komponen, Anda dapat melihat [pilihan cubicle toilet](/cubicle/toilet) dan [informasi cubicle kantor](/cubicle/kantor). Tautan itu membantu orientasi kategori; keputusan perangkat keras tetap mengikuti data proyek aktual.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Akses Servis dan Penggantian Hardware Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang sering gagal: membeli fitting berdasarkan foto
 
-## Langkah 1 — tetapkan scope
+Foto memang mempercepat identifikasi awal, tetapi tidak memperlihatkan sisi pengikat, ketebalan panel, kondisi lubang, atau beban yang diterima. Dua fitting yang tampak sama dapat memiliki antarmuka berbeda sehingga pemasangan memaksa kaca atau membuat frame bekerja di luar kondisi awal.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Akses Servis dan Penggantian Hardware Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatif yang lebih aman adalah mengirim foto bersama kode komponen, ukuran terukur, arah bukaan, detail profil penyangga, dan dokumen produk kepada pemasok atau perancang. Minta konfirmasi tertulis tentang kecocokan dan batas pemasangan. Bila jawaban bergantung pada data yang belum tersedia, perlakukan sebagai permintaan peninjauan, bukan persetujuan.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Kesimpulan: akses servis dimulai dari data, bukan dari perlengkapan pengganti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Akses Servis dan Penggantian Hardware Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Memilih perangkat keras cubicle yang mudah diservis berarti memastikan bukaan, profil penyangga, perlengkapan sambungan, kaca, dan pengikat memiliki antarmuka yang dapat dicapai serta dibuktikan cocok. Catat sistem, cocokkan bukti, lakukan pembongkaran terbatas, uji hasil, lalu serahkan rekamannya.
 
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Akses Servis dan Penggantian Hardware Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Akses Servis dan Penggantian Hardware Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Akses Servis dan Penggantian Hardware Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah Anda berikutnya: buat lembar identitas satu pintu atau panel, lampirkan foto dan ukuran aktual, kemudian minta peninjauan kompeten untuk setiap data yang belum terverifikasi. Aturan operasinya sederhana: jika penggantian memerlukan tebakan pada kaca, lubang, beban, atau sealant, berhenti sampai bukti dan persetujuan tersedia.

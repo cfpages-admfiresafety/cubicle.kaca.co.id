@@ -2,8 +2,9 @@
 article_id: CUB-03-04
 title: "Heat Treatment Kaca dan Dokumen yang Perlu Diverifikasi"
 slug: "dokumen-heat-treatment-kaca"
-description: "Menilai opsi kaca dan dokumen yang mendukung pemilihannya"
-status: outline
+description: "Panduan menilai pilihan perlakuan panas kaca melalui dokumen proses, mutu, dan penerimaan yang relevan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,217 +16,94 @@ final_route: "/artikel/dokumen-heat-treatment-kaca.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
   - "https://www.iso.org/standard/84945.html"
   - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
   - "https://store.astm.org/c1172-24e01.html"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://nfrc.org/"
-  - "https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-windows-doors-and-skylights"
-  - "https://windows.lbl.gov/window-software-downloads"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Heat Treatment Kaca dan Dokumen yang Perlu Diverifikasi
 
-## Assignment lock
+Halo, Teman Kaca.co.id! Ketika penyedia menyebut kaca sudah melalui *heat treatment* (perlakuan panas), jangan langsung menyamakan istilah itu dengan kaca tempered (kaca yang dikeraskan) yang pasti cocok untuk proyek Anda. Istilah tersebut baru menjelaskan adanya pengolahan panas; pilihan akhirnya tetap bergantung pada jenis kaca, ukuran, detail tepi dan lubang, fungsi panel, serta dokumen batch (kelompok produksi) yang dapat ditelusuri.
 
-- **Writer task:** Expand this file into one complete article answering: “Heat Treatment Kaca dan Dokumen yang Perlu Diverifikasi”
-- **Reader and situation:** Menilai opsi kaca dan dokumen yang mendukung pemilihannya
-- **Reader outcome:** Menilai opsi kaca dan dokumen yang mendukung pemilihannya
-- **Primary intent:** Menilai bukti proses pengolahan kaca
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak menyatakan tempered/heat-strengthened tanpa bukti batch.
-- **Final public route:** `/artikel/dokumen-heat-treatment-kaca.html`
-- **Appointed CMS date:** `2025-09-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: minta spesifikasi produk, rekaman proses atau identitas batch, dan dokumen pemeriksaan yang menjelaskan apa yang benar-benar dibuat. Data optik atau termal juga harus dibaca sesuai domain pengukurannya—nilai pada kaca saja bukan otomatis nilai seluruh jendela atau partisi. [ISO 9050](https://www.iso.org/standard/35062.html) membahas pengukuran sifat cahaya dan radiasi matahari, sedangkan pengujian akustik berada pada domain berbeda. Jika bukti batch dan persetujuan desain belum tersedia, tandai keputusan sebagai **[NEEDS GATE-01: verifikasi proyek dan review kompeten]**.
 
-## Opening instructions
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-009
+Source type: local
+Placement: after opening
+**Exact Markdown to insert:** `![Ilustrasi Cubicle Toilet Kaca Tempered](/wp-content/uploads/2022/07/Cubicle-Toilet-Kaca-Tempered.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies the asset; no pixels were inspected.
+Hard boundary: do not infer unseen visual details, ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: if unavailable, use [NEEDS IMAGE REVIEW: LOCAL-009].
+END MANAGED IMAGE PLAN -->
+![Ilustrasi Cubicle Toilet Kaca Tempered](/wp-content/uploads/2022/07/Cubicle-Toilet-Kaca-Tempered.jpg)
+Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
 
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Heat Treatment Kaca dan Dokumen yang Perlu Diverifikasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+## Definisikan kebutuhan perlakuan panas (heat treatment) sebelum meminta harga
 
+Bagian ini penting karena penawaran yang hanya berbunyi “kaca tempered” belum menjawab panel apa yang harus dibuat. Tulis fungsi panel, ukuran dan jumlah, kondisi tumpuan, posisi lubang atau cut-out, jenis tepi, serta hasil penerimaan yang diharapkan. Dengan begitu penyedia menilai benda yang sama, bukan sekadar istilah yang sama.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+Perlakuan panas dilakukan sebelum panel dipasang. Karena itu, perubahan ukuran, lubang, atau takikan setelah proses dapat memaksa pembuatan ulang; jangan mengandalkan pemotongan di lapangan. Pedoman NGA menempatkan perencanaan pengerjaan, kebersihan, tanda, keterlacakan, serta ekspektasi bow/warp dan roller-wave sebagai bagian dari ringkasan kebutuhan fabrikasi. [Panduan NGA](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf) membantu menyusun pertanyaan, tetapi bukan pengganti standar berlisensi atau persetujuan proyek.
 
-- **Image ID:** `LOCAL-009`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Cubicle Toilet Kaca Tempered](/wp-content/uploads/2022/07/Cubicle-Toilet-Kaca-Tempered.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Cubicle Toilet Kaca Tempered` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Pisahkan kebutuhan keselamatan dari kebutuhan tampilan. Kaca yang lebih kuat sebelum pecah tidak otomatis mempertahankan pecahan atau tetap memikul beban setelah pecah. Untuk rujukan produk keselamatan di Indonesia, cek dokumen lengkap SNI 9144-1:2022 untuk kaca laminasi dan SNI 9144-2:2022 untuk kaca pengaman tempered; halaman BSN hanya titik identifikasi, bukan isi seluruh persyaratan. [SNI 9144-1](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022) dan [SNI 9144-2](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022).
 
-## Evidence packet
+## Buat penawaran perlakuan panas yang benar-benar sebanding
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum membandingkan harga, pastikan setiap penawaran memakai lingkup dan asumsi yang sama. Dengan dasar yang sama, angka murah tidak tampak unggul hanya karena pekerjaan penting dipindahkan menjadi biaya tambahan.
 
-### KR-01
+Minta tabel yang memisahkan: kaca dasar dan ketebalan yang diusulkan; ukuran jadi; jumlah dan toleransi; pekerjaan tepi, lubang, serta cut-out; proses heat treatment; penandaan dan rekaman batch; kemasan dan pengiriman; pemasangan; pemeriksaan; eksklusi; serta cara menangani perubahan. Jangan menerima “sesuai standar” tanpa nama standar, edisi, dan bagian yang berlaku.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Dokumen ASTM C1036, C1048, dan C1172 dapat membantu mengidentifikasi ruang lingkup kaca dasar, kaca yang diperkuat panas, dan kaca laminasi. Halaman publiknya tidak menggantikan dokumen standar berlisensi atau laporan pengujian. [ASTM C1036](https://store.astm.org/c1036-25.html), [ASTM C1048](https://store.astm.org/c1048-25.html), [ASTM C1172](https://store.astm.org/c1172-24e01.html).
 
-### KR-10
+## Bedakan dokumen produk, proses, dan penerimaan
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Satu lembar sertifikat jarang membuktikan seluruh keputusan. Bagian ini mengurai fungsi tiap dokumen agar Anda tidak memakai bukti untuk kesimpulan yang tidak didukung.
 
-### KR-13
+**Data produk** menjawab apa yang dipesan: jenis kaca, lapisan, ukuran, dan identitas pemasok. **Rekaman proses** menjawab kapan dan pada batch mana panel diproses, termasuk tanda yang menghubungkan panel dengan catatan produksi. **Laporan tes** menjawab metode, sampel, dan hasil pada kondisi uji tertentu; ia tidak otomatis membuktikan semua panel terpasang memiliki kinerja sama.
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+**Gambar kerja dan persetujuan desain** menjawab apakah ukuran, tumpuan, lubang, dan sistemnya tepat. Pemilihan tebal kaca bergantung pada dimensi, rasio sisi, tumpuan, beban, durasi, kondisi tepi, lubang, lendutan, dan konsekuensi pecah. ASTM E1300 menyediakan ruang lingkup perhitungan, tetapi angka atau tabel tidak boleh disalin dari abstrak sebagai aturan praktis. [ASTM E1300](https://store.astm.org/e1300-24.html) dan review insinyur diperlukan untuk keputusan struktur **[NEEDS GATE-02]**.
 
-### KR-17
+Untuk sifat cahaya, panas, atau suara, minta definisi metrik dan objek ukurnya. Nilai *visible transmittance*, SHGC, U-factor, dan insulasi bunyi bukan hal yang sama; hasil *center-of-glass* tidak dapat diklaim sebagai nilai seluruh sistem terpasang. [ISO 22897](https://www.iso.org/standard/84945.html) menunjukkan bahwa pengukuran akustik memiliki domain tersendiri.
 
-- **Purpose for this article:** Give tempered-glass breakage articles a defensible distinction between risk reduction, diagnosis, and guarantees.
-- **Safe grounded facts:** A broken pane cannot be confidently diagnosed as nickel-sulfide inclusion from a casual photo or from “spontaneous” timing alone. Heat soaking does not create a zero-breakage guarantee.
-- **Limits:** Do not state a universal incidence rate or claim certainty without laboratory/forensic evidence and the relevant fabrication/testing records.
+## Pertanyaan wajib kepada penyedia heat treatment
 
-### KR-11
+Pertanyaan berikut mengubah percakapan dari janji umum menjadi bukti yang bisa diperiksa. Teman Kaca.co.id, minta jawaban tertulis sebelum produksi dimulai.
 
-- **Original sources:** [NFRC rating definitions](https://nfrc.org/), [US Department of Energy purchasing guidance](https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-windows-doors-and-skylights), [Berkeley Lab WINDOW capabilities](https://windows.lbl.gov/window-software-downloads)
-- **Purpose for this article:** Give writers a clear conceptual vocabulary for U-factor, solar heat gain coefficient, visible transmittance, air leakage, and condensation without turning it into an Indonesian product endorsement.
-- **Safe grounded facts:** Lower U-factor means less heat flow under the stated rating method; lower SHGC means less admitted solar heat; higher visible transmittance means more visible light. These values are not interchangeable, and the best combination depends on climate, orientation, shading, space use, and whole-system design.
-- **Limits:** Do not import US climate-zone thresholds, label ranges, or ENERGY STAR purchasing rules as Indonesian requirements.
+1. Jenis kaca dan proses apa yang akan dipakai, dan bagaimana identitasnya ditandai pada panel atau dokumen?
+2. Siapa yang menyetujui ukuran akhir, lubang, cut-out, dan pekerjaan tepi sebelum pemanasan?
+3. Dokumen batch apa yang diserahkan bersama barang, dan bagaimana nomor batch dicocokkan dengan daftar panel?
+4. Bagaimana penyedia menangani bow/warp, roller-wave, anisotropi, kebersihan, dan variasi tampilan yang disepakati?
+5. Apa saja yang termasuk pemeriksaan penerimaan, siapa pemeriksanya, dan kapan cacat atau ketidaksesuaian harus dilaporkan?
+6. Jika ada perubahan setelah persetujuan, apa dampaknya terhadap jadwal, biaya, dan kebutuhan pembuatan ulang?
 
-### KR-06
+Jawaban “bisa diatur” belum menjadi persetujuan. Minta revisi gambar, daftar pengecualian, dan nama penanggung jawab yang jelas. Jika kapasitas, metode, atau bukti batch tidak dapat diverifikasi, pertahankan status **[NEEDS GATE-03: bukti proyek dan review kompeten]**.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+## Tanda bahaya dan biaya yang sering tersembunyi
 
-### KR-12
+Tanda bahaya pertama adalah klaim “anti-pecah” atau “pasti aman” tanpa batas penggunaan. Heat soaking, misalnya, tidak boleh diterjemahkan menjadi jaminan nol pecah; penyebab pecah perlu pemeriksaan laboratorium dan rekaman fabrikasi, bukan foto kasual.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-03-02` → `/artikel/menilai-ketebalan-kaca-cubicle.html` — Ketebalan Kaca Cubicle: Cara Menilai Rekomendasi
-- `CUB-03-03` → `/artikel/tempered-vs-laminated-partisi-kaca.html` — Kaca Tempered, Laminated, dan Opsi Lain untuk Partisi
-- `CUB-03-05` → `/artikel/tepi-lubang-cutout-kaca-cubicle.html` — Tepi, Lubang, dan Cut-Out pada Panel Kaca Cubicle
-- `CUB-03-06` → `/artikel/distorsi-visual-panel-kaca.html` — Distorsi Visual dan Variasi Panel Kaca: Cara Menyetujui
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Definisikan kebutuhan sebelum meminta harga
-
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Heat Treatment Kaca dan Dokumen yang Perlu Diverifikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Buat penawaran benar-benar sebanding
-
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Heat Treatment Kaca dan Dokumen yang Perlu Diverifikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Dokumen yang membuktikan hal berbeda
-
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Heat Treatment Kaca dan Dokumen yang Perlu Diverifikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pertanyaan wajib kepada penyedia
-
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Heat Treatment Kaca dan Dokumen yang Perlu Diverifikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Red flag dan biaya yang sering tersembunyi
-
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Heat Treatment Kaca dan Dokumen yang Perlu Diverifikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tanda bahaya berikutnya adalah harga yang tidak menyebut akses, pengemasan, waktu tunggu, pemeriksaan ulang, atau pembuatan ulang bila ukuran berubah. Biaya-biaya itu bukan otomatis muncul pada setiap proyek, tetapi harus ditanyakan karena ruang lingkup yang kabur memindahkan risiko ke tahap akhir. Sobat Kaca.co.id, simpan semua asumsi ini dalam penawaran yang disetujui, bukan hanya percakapan lisan.
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Heat Treatment Kaca dan Dokumen yang Perlu Diverifikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Penerimaan bukan sekadar melihat kaca terpasang. Tetapkan siapa memeriksa identitas panel, ukuran, tanda, kondisi tepi, kecocokan lubang, dan kelengkapan dokumen. Cocokkan nomor panel dengan daftar batch dan gambar yang telah disetujui.
 
-## Objection or shortcut to address
+Pisahkan temuan visual dari klaim kinerja. Variasi tampilan harus dibandingkan dengan kriteria yang disepakati; kinerja termal, akustik, atau struktural memerlukan metode dan laporan yang sesuai. Jangan menandatangani penerimaan final ketika dokumen penting masih **[NEEDS GATE-04: verifikasi dokumen dan persetujuan profesional]**.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang tampak hemat tetapi berisiko
 
-## Required conclusion
+Jalan pintas yang sering dipilih adalah membandingkan dua harga hanya dari ketebalan dan jumlah panel. Cara itu gagal karena tidak memeriksa detail pra-pemanasan, keterlacakan batch, pengujian, tumpuan, dan tanggung jawab bila terjadi perubahan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih dapat dipertanggungjawabkan adalah menyamakan lembar kebutuhan, meminta bukti yang sama dari setiap penyedia, lalu meminta review kompeten untuk bagian desain dan penerimaan. Dengan urutan ini, Anda menilai pilihan kaca dan dokumennya, bukan sekadar memilih angka terendah.
 
-## Draft completion checklist
+## Kesimpulan: dokumen yang harus ada sebelum menyetujui heat treatment
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Heat treatment kaca layak dipertimbangkan setelah fungsi panel, detail fabrikasi, dan konteks sistem ditetapkan. Verifikasi setidaknya spesifikasi produk, gambar yang disetujui, rekaman batch, metode atau laporan tes yang relevan, daftar pemeriksaan, serta batas tanggung jawab penyedia. Untuk menyiapkan kebutuhan awal, Anda dapat memakai [halaman utama Kaca.co.id](/) sebagai titik menuju layanan dan informasi yang tersedia.
+
+Langkah berikutnya: kirim satu lembar kebutuhan dan daftar pertanyaan kepada penyedia, minta dokumen pendukung tertulis, lalu minta pemeriksaan profesional untuk keputusan desain yang memengaruhi keselamatan atau struktur. Aturan operasinya sederhana: tanpa bukti batch dan persetujuan yang dapat ditelusuri, jangan menyatakan panel tempered atau heat-strengthened sebagai fakta proyek.

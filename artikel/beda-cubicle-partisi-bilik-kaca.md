@@ -2,8 +2,9 @@
 article_id: CUB-01-03
 title: "Cubicle, Partisi, Bilik, dan Sekat Kaca: Apa Bedanya?"
 slug: "beda-cubicle-partisi-bilik-kaca"
-description: "Memahami komponen, istilah, dan batas sistem sebelum memilih"
-status: outline
+description: "Panduan membedakan cubicle, partisi, bilik, dan sekat kaca berdasarkan komponen, batas sistem, serta dokumen yang perlu diperiksa sebelum memilih."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,218 +16,99 @@ final_route: "/artikel/beda-cubicle-partisi-bilik-kaca.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
   - "https://www.iso.org/standard/84945.html"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
-  - "https://store.astm.org/c1172-24e01.html"
-  - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cubicle, Partisi, Bilik, dan Sekat Kaca: Apa Bedanya?
 
-## Assignment lock
+Halo, Kawan Kaca.co.id! Saat meminta penawaran, Anda mungkin menyebut “partisi kaca”, sementara vendor (penyedia) menawarkan cubicle atau bilik. Istilah yang terdengar mirip itu tidak selalu menunjuk benda dan batas pekerjaan yang sama. Jika salah menyebut objek, gambar kerja, akses pintu, perangkat keras (hardware), dan pemeriksaan keselamatan bisa ikut meleset.
 
-- **Writer task:** Expand this file into one complete article answering: “Cubicle, Partisi, Bilik, dan Sekat Kaca: Apa Bedanya?”
-- **Reader and situation:** Memahami komponen, istilah, dan batas sistem sebelum memilih
-- **Reader outcome:** Memahami komponen, istilah, dan batas sistem sebelum memilih
-- **Primary intent:** Membedakan istilah dan ruang lingkup
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Klasifikasi sistem; bukan perbandingan aplikasi kantor/toilet.
-- **Final public route:** `/artikel/beda-cubicle-partisi-bilik-kaca.html`
-- **Appointed CMS date:** `2025-07-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: **cubicle** biasanya menunjuk ruang kecil yang dibatasi beberapa panel; **partisi** adalah sistem pembagi ruang; **bilik** menekankan ruang atau kompartemen yang terbentuk; sedangkan **sekat kaca** menekankan elemen pemisahnya. Keempatnya dapat memakai kaca, tetapi nama saja tidak menentukan jenis kaca, rangka, sambungan, atau cara pemasangan. Keputusan akhir berubah ketika ukuran, tumpuan, bukaan, beban, privasi, dan aturan proyek sudah diketahui.
 
-## Opening instructions
+Artikel ini membantu Anda menyamakan istilah, memisahkan komponen dari fungsi ruang, lalu menyusun pertanyaan yang tepat sebelum memilih sistem. Untuk langkah berikutnya, Anda dapat melihat kategori [partisi](/partisi) atau [cubicle](/cubicle) sesuai objek yang hendak dibahas.
 
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cubicle, Partisi, Bilik, dan Sekat Kaca: Apa Bedanya?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-003
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi partisi kaca kantor](/wp-content/uploads/2022/07/partisi-kaca-kantor.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `partisi kaca kantor` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
+![Ilustrasi partisi kaca kantor](/wp-content/uploads/2022/07/partisi-kaca-kantor.jpg)
+Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
 
+## Apa yang dimaksud cubicle, partisi, bilik, dan sekat kaca?
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+Sebelum membandingkan, kita perlu menyepakati tingkat objeknya. Bagian ini mencegah Anda membandingkan nama ruang dengan nama komponen, lalu menjelaskan ciri yang dapat ditulis di gambar kerja atau permintaan penawaran.
 
-- **Image ID:** `LOCAL-003`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi partisi kaca kantor](/wp-content/uploads/2022/07/partisi-kaca-kantor.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `partisi kaca kantor` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+**Partisi kaca** adalah sistem pembagi area. Sistem berarti panel, profil atau titik tumpu, sambungan, seal, dan bukaan yang bekerja bersama. Ia dapat membentang dari lantai ke plafon atau berhenti pada ketinggian tertentu; batasnya harus ditunjukkan pada denah dan potongan.
 
-## Evidence packet
+**Sekat kaca** adalah sebutan praktis untuk elemen yang memisahkan dua sisi. Karena menyoroti elemen, istilah ini belum menjawab apakah ada pintu, rangka, sambungan ke lantai, atau tuntutan akustik. Tanyakan “sekat lengkap dengan apa?” sebelum menganggapnya satu paket.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+**Cubicle** menunjuk ruang kecil yang dibentuk oleh beberapa sisi pembatas. Cubicle dapat berisi panel kaca, panel lain, pintu, dan perangkat keras. Jadi, cubicle adalah konfigurasi ruang; kaca hanyalah salah satu material sistemnya.
 
-### KR-01
+**Bilik kaca** juga menekankan ruang yang terbentuk. Dalam percakapan proyek, bilik bisa berarti satu kompartemen dengan akses sendiri, tetapi istilah ini tetap perlu dilengkapi jumlah sisi, tinggi, dan posisi pintu. Jangan menganggap bilik otomatis kedap suara atau tahan api.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Untuk sifat cahaya, panas, dan suara, gunakan nama metriknya, bukan label ruang. ISO 9050 membahas karakteristik penerusan cahaya dan surya, sedangkan ISO 22897 membahas insulasi bunyi udara; nilai bagian kaca tidak otomatis menjadi nilai seluruh partisi terpasang ([ISO 9050](https://www.iso.org/standard/35062.html), [ISO 22897](https://www.iso.org/standard/84945.html)).
 
-### KR-19
+## Bagaimana istilah cubicle, partisi, bilik, dan sekat diterapkan pada sistem terpasang?
 
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
+Nama sudah jelas, sekarang lihat urutan kerjanya agar ruang lingkup tidak berhenti pada katalog. Kesalahan biasanya muncul ketika istilah diubah menjadi ukuran, bukaan, dan detail sambungan; karena itu, periksa perubahan tersebut satu per satu.
 
-### KR-03
+Mulailah dari fungsi batas: area mana yang dipisahkan, siapa yang melewati bukaan, dan sisi mana yang harus dapat dibersihkan atau dirawat. Dari sini dibuat denah, potongan, dan daftar pintu; barulah istilah cubicle, bilik, atau partisi memiliki arti operasional.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Berikutnya tetapkan komponen: panel kaca, profil atau fitting, alas dan kepala, sambungan sudut, pintu, engsel atau floor spring, serta seal. Setiap komponen memiliki antarmuka. Perubahan posisi outlet, sprinkler, atau plafon dapat mengubah detail, sehingga revisi harus dicatat sebelum fabrikasi.
 
-### KR-10
+Kaca juga bukan satu kategori tunggal. Kaca laminasi berlapis menyatukan pecahan pada lapisan antar; kaca tempered diproses agar perilaku pecahnya berbeda. Rujukan produk Indonesia SNI 9144-1:2022 dan SNI 9144-2:2022 membantu mengidentifikasi masing-masing jenis, tetapi kecocokan tetap bergantung pada aplikasi dan sistem lengkap ([SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)).
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Lubang, takikan, atau perubahan ukuran setelah pemesanan dapat memaksa pembuatan ulang. Karena itu, berikan gambar bukaan dan pekerjaan tepi (edgework) kepada pemroses sebelum perlakuan panas (heat treatment); spesifikasi proses dan toleransi harus dikonfirmasi pada standar serta fabrikator yang dipilih ([ASTM C1036](https://store.astm.org/c1036-25.html), [ASTM C1048](https://store.astm.org/c1048-25.html)).
 
-### KR-06
+## Faktor proyek apa yang mengubah pilihan sistem kaca?
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Istilah yang sama dapat berujung pada sistem berbeda ketika kondisi proyek berubah. Bagian ini membantu Anda memeriksa variabel sebelum mengunci spesifikasi.
 
-### KR-12
+Pertama, ukur geometri dan tumpuan: tinggi, lebar, rasio sisi, kondisi tepi, lubang, dan sambungan. Pemilihan ketebalan harus dihitung terhadap dimensi, beban, durasi beban, defleksi, dan konsekuensi pascapecah; satu ketebalan tidak universal untuk semua label cubicle ([ASTM E1300](https://store.astm.org/e1300-24.html)).
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Kedua, tentukan sasaran penggunaan. Privasi visual berbeda dari insulasi bunyi; penerusan cahaya berbeda dari perolehan panas surya. Tuliskan sasaran sebagai metrik atau kriteria pemeriksaan, bukan “kaca nyaman” yang sulit diverifikasi.
 
-### KR-13
+Ketiga, periksa antarmuka bangunan dan akses. Arah ayunan pintu, lebar pendekatan, visibilitas, dan sirkulasi adalah bagian dari sistem bangunan, bukan sifat kaca saja. Jika aturan lokal atau persetujuan teknis belum dibuka, tandai **[NEEDS GATE-03: verifikasi akses dan sirkulasi proyek]**.
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+Kawan Kaca.co.id, bila ada tuntutan kebakaran, jangan memakai istilah “kaca tahan api” sebagai jawaban tunggal. Ketahanan api, perlindungan api, kenaikan suhu, dan kinerja rakitan adalah klaim berbeda; dasar persetujuan Indonesia dan bukti uji rakitan harus diperiksa **[NEEDS GATE-01: verifikasi persyaratan kebakaran proyek]**.
 
-## Evidence gates
+## Bagaimana memilih istilah pada ringkasan kebutuhan dan penawaran?
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Contoh berikut bukan rekomendasi produk, melainkan cara menguji apakah bahasa Anda sudah cukup spesifik. Setiap skenario perlu dikonfirmasi dengan gambar dan penanggung jawab teknis.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+| Situasi yang ingin dijelaskan | Istilah awal | Pertanyaan pengunci |
+|---|---|---|
+| Membagi satu ruang menjadi dua area | Partisi kaca | Tinggi, garis batas, profil, dan pintu apa yang termasuk? |
+| Membentuk satu ruang kecil dengan akses | Cubicle/bilik kaca | Berapa sisi tertutup, bagaimana tumpuan, dan siapa pengguna bukaan? |
+| Menyebut panel pemisah saja | Sekat kaca | Apakah perangkat keras, seal, dan sambungan termasuk pekerjaan? |
 
-## Internal-link plan
+Gunakan satu istilah utama di judul brief, lalu tuliskan sinonimnya dalam definisi proyek. Misalnya, “bilik (konfigurasi cubicle) dengan partisi kaca” lebih mudah ditindaklanjuti daripada empat istilah tanpa batas. Untuk konteks yang lebih khusus, rute [cubicle kantor](/cubicle/kantor) hanya dipakai bila objeknya memang area kantor; jangan mengubah artikel ini menjadi perbandingan aplikasi.
 
-### Existing local routes
+## Kesalahan istilah yang sering membuat pekerjaan meleset
 
-- `/partisi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Bagian ini mengubah shortcut menjadi pemeriksaan sederhana. Tujuannya bukan mencari istilah paling benar, melainkan memastikan semua pihak membicarakan objek yang sama.
 
-### Planned sibling articles
+Kesalahan pertama adalah mengira “sekat kaca” sudah mencakup pintu dan perangkat keras. Periksa daftar komponen dan titik tumpu pada gambar, bukan hanya judul penawaran.
 
-These are future routes. Do not link them as live until their HTML exists.
+Kesalahan kedua adalah memilih ketebalan dari kebiasaan proyek lain. Minta dasar perhitungan dan data beban yang berlaku; jangan menerima angka tanpa dimensi dan kondisi tumpuan.
 
-- `CUB-01-01` → `/artikel/anatomi-sistem-cubicle-kaca.html` — Apa Itu Sistem Cubicle dan Partisi Kaca?
-- `CUB-01-02` → `/artikel/kamus-istilah-cubicle-kaca.html` — Kamus Istilah Cubicle Kaca untuk Tim Proyek
-- `CUB-01-04` → `/artikel/komponen-sistem-partisi-kaca.html` — Komponen Sistem Kaca: Panel, Frame, Hardware, dan Seal
-- `CUB-01-05` → `/artikel/siklus-proyek-cubicle-kaca.html` — Siklus Proyek Cubicle Kaca dari Brief hingga Pemeliharaan
+Kesalahan ketiga adalah menyamakan kaca lebih kuat sebelum pecah dengan kaca yang menahan pecahan setelah pecah. Sobat Kaca.co.id, minta jenis kaca, standar produk, dan konteks uji yang benar-benar berlaku pada rakitan Anda.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Shortcut “pakai istilah partisi saja” memang cepat, tetapi dapat menyembunyikan kebutuhan ruang, pintu, dan antarmuka. Alternatif yang lebih aman adalah membuat satu lembar brief berisi fungsi, denah, potongan, komponen, metrik sasaran, serta daftar bukti yang masih harus disetujui.
 
-## Jawaban singkat dan salah paham utama
+## Jadi, istilah mana yang sebaiknya dipakai?
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle, Partisi, Bilik, dan Sekat Kaca: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Cubicle dan bilik menjelaskan konfigurasi ruang; partisi menjelaskan sistem pembagi; sekat menjelaskan elemen pemisah. Tidak satu pun otomatis menetapkan jenis kaca, ketebalan, performa, atau kepatuhan. Setelah istilah dipilih, tulis batas komponen, kondisi tumpuan, bukaan, sasaran metrik, dan dokumen verifikasinya.
 
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle, Partisi, Bilik, dan Sekat Kaca: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle, Partisi, Bilik, dan Sekat Kaca: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle, Partisi, Bilik, dan Sekat Kaca: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle, Partisi, Bilik, dan Sekat Kaca: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle, Partisi, Bilik, dan Sekat Kaca: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah Anda berikutnya: minta denah-potongan, daftar komponen, jenis kaca, serta dasar perhitungan dari pihak terkait. Jika variabel akses, kebakaran, atau beban belum memiliki bukti proyek, pertahankan penanda **[NEEDS TECHNICAL REVIEW: GATE-01, GATE-03, GATE-06]** sampai kompeten meninjaunya. Aturan operasionalnya sederhana: nama boleh ringkas, tetapi batas sistem dan bukti tidak boleh samar.

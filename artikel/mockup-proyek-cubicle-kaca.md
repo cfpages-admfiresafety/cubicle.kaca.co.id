@@ -2,8 +2,9 @@
 article_id: CUB-14-03
 title: "Kapan Proyek Cubicle Kaca Memerlukan Mockup"
 slug: "mockup-proyek-cubicle-kaca"
-description: "Mengendalikan brief, visual, mockup, sampel, dan perubahan desain"
-status: outline
+description: "Panduan menentukan kapan contoh rakitan (mockup) cubicle kaca dibutuhkan untuk menyamakan ringkasan kebutuhan, visual, sampel, dan perubahan desain."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-31"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,224 +16,102 @@ final_route: "/artikel/mockup-proyek-cubicle-kaca.html"
 technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026"
-  - "https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key="
-  - "https://www.iso.org/standard/85237.html"
-  - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
   - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
   - "https://store.astm.org/c1172-24e01.html"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/13726-47562021"
   - "https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011"
-  - "https://pesta.bsn.go.id/produk/detail/14858-sni92372023"
-  - "https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+## Image plan
+- Image ID: `LOCAL-002`
+- Source type: `local`
+- Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi produk cubicle toilet](/wp-content/uploads/2022/07/produk-cubicle-toilet.jpeg)`
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies `produk cubicle toilet` as relevant content media; no pixels were inspected.
+- Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 # Kapan Proyek Cubicle Kaca Memerlukan Mockup
 
-## Assignment lock
+Halo, Sobat Kaca.co.id! Mockup (contoh rakitan) cubicle kaca diperlukan ketika gambar dan sampel kecil belum cukup untuk menyamakan keputusan yang akan memengaruhi ruang, sambungan, warna, atau cara pakai. Jika bentuk panel sederhana, detail sudah berulang, dan semua pihak memahami gambar kerja yang sama, mockup penuh mungkin tidak perlu. Sebaliknya, semakin banyak pertemuan antara kaca, rangka (frame), perangkat keras (hardware), pintu, dan dinding, semakin berharga satu contoh ukuran nyata sebelum fabrikasi.
 
-- **Writer task:** Expand this file into one complete article answering: “Kapan Proyek Cubicle Kaca Memerlukan Mockup”
-- **Reader and situation:** Mengendalikan brief, visual, mockup, sampel, dan perubahan desain
-- **Reader outcome:** Mengendalikan brief, visual, mockup, sampel, dan perubahan desain
-- **Primary intent:** Menentukan kebutuhan prototipe
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Keputusan mockup; pengujian privasi dimiliki CUB-04.
-- **Final public route:** `/artikel/mockup-proyek-cubicle-kaca.html`
-- **Appointed CMS date:** `2026-05-31` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mockup bukan sekadar pajangan. Ia adalah contoh terbatas untuk memeriksa apakah ringkasan kebutuhan, visual, sampel material, dan cara pemasangan benar-benar menunjuk pada benda yang sama. Jawaban akhirnya tetap bergantung pada gambar proyek, material yang disetujui, kondisi lapangan, serta telaah tenaga kompeten. [NEEDS PROJECT REVIEW: tetapkan kriteria kelulusan mockup, pihak penyetuju, dan batas perubahan sebelum fabrikasi.]
 
-## Opening instructions
+![Ilustrasi produk cubicle toilet](/wp-content/uploads/2022/07/produk-cubicle-toilet.jpeg)
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kapan Proyek Cubicle Kaca Memerlukan Mockup**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
 
+## Apa yang dimaksud mockup cubicle kaca dan apa batasnya?
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+Istilah ini sering tertukar dengan sampel. Sampel adalah potongan atau contoh material untuk melihat warna, tekstur, atau jenis permukaan. Mockup adalah rakitan contoh yang memperlihatkan hubungan beberapa komponen sekaligus—misalnya panel, tepi, profil, engsel, kunci, dan pertemuan dengan dinding. Perbedaan ini penting agar persetujuan warna tidak disalahartikan sebagai persetujuan fungsi atau pemasangan.
 
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi produk cubicle toilet](/wp-content/uploads/2022/07/produk-cubicle-toilet.jpeg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `produk cubicle toilet` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Mockup juga bukan pengganti gambar kerja, perhitungan, atau pemeriksaan lapangan. Ia membantu menemukan ketidakcocokan visual dan antarmuka, tetapi tidak otomatis membuktikan keselamatan, kekuatan, kedap suara, privasi, atau kinerja seluruh ruang. Rujukan BSN menegaskan bahwa istilah flat glass, heat-strengthened glass, dan tempered safety glass merujuk pada kategori berbeda; standar mutu bahan tidak dengan sendirinya membuktikan kecukupan sistem terpasang ([SNI 47:2018 Konfirmasi 2026](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026)).
 
-## Evidence packet
+## Kapan mockup cubicle kaca memberi keputusan paling berguna?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Bagian ini menjawab kondisi pemicunya, bukan menetapkan angka ambang yang berlaku untuk semua proyek. Mockup layak diprioritaskan jika keputusan sulit dibayangkan dari dua dimensi, kesalahan baru terlihat setelah banyak komponen terpasang, atau banyak pihak harus menyetujui hasil yang sama.
 
-### KR-01
+Pertama, buat mockup saat detail sambungan masih menjadi perdebatan: posisi profil, celah pintu, pertemuan panel dengan lantai, atau urutan pemasangan. Melihat satu sudut rakitan membantu tim menunjuk masalah yang sama, lalu mencatat revisi pada gambar dan daftar material.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Kedua, pertimbangkan mockup ketika hasil akhir (finish) kaca, lapisan, atau cermin menjadi bagian utama pengalaman ruang. Label “kaca” atau “cermin” belum menjelaskan sistem lapisan, sisi yang terbuka, perlindungan tepi, dan kriteria tampilan. Referensi BSN untuk cermin berlapis dan kaca berlapis menunjukkan bahwa identitas material serta cacat visual perlu dibaca bersama dokumen produk, bukan hanya nama dagang ([SNI ISO 25537:2011](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011)).
 
-### KR-05
+Ketiga, buat mockup jika perubahan ukuran atau bukaan mungkin terjadi setelah pemesanan. Pada kaca yang akan diproses panas, lubang dan potongan umumnya harus direncanakan sebelum perlakuan; perubahan terlambat dapat memerlukan pembuatan ulang, bukan pemotongan di lokasi ([ASTM C1036-25](https://store.astm.org/c1036-25.html), [ASTM C1048-25](https://store.astm.org/c1048-25.html), [NGA Heat-Treated Glass Surfaces](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)).
 
-- **Original sources:** [SNI 47:2018 Konfirmasi 2026 — BSN](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [SNI 6353:2024 listing — BSN](https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key=), [ISO 16293-2:2025 official abstract](https://www.iso.org/standard/85237.html)
-- **Purpose for this article:** Establish current terminology and quality-reference starting points for ordinary float/flat and heat-strengthened glass.
-- **Safe grounded facts:** “Flat glass,” “heat-strengthened glass,” and “fully tempered safety glass” are not interchangeable labels. A base-glass quality standard does not by itself prove safety suitability, structural adequacy, or whole-system performance.
-- **Limits:** Full standards are required for tolerances, defect limits, tests, and acceptance criteria.
+## Bagaimana urutan mockup mengendalikan ringkasan kebutuhan dan perubahan desain?
 
-### KR-10
+Urutan kerja mencegah mockup berubah menjadi diskusi tanpa catatan. Mulailah dengan lembar ringkasan kebutuhan: fungsi ruang, komponen yang termasuk, finish yang ingin dibandingkan, dan pertanyaan yang harus dijawab. Tandai mana yang sudah diputuskan dan mana yang masih terbuka.
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Berikutnya, pilih bagian yang paling berisiko menimbulkan bongkar ulang. Rakitan itu tidak harus seluruh ruangan; satu modul sudut, satu pintu, atau satu pertemuan panel dapat cukup bila mewakili antarmuka yang dipersoalkan. Catat ukuran rujukan dari gambar, material yang benar-benar akan dipakai, dan pihak yang hadir saat pemeriksaan.
 
-### KR-13
+Saat mockup diperiksa, pisahkan temuan menjadi tiga: sesuai, perlu revisi, atau belum dapat dinilai. Setiap revisi harus menunjuk objek dan dokumen yang berubah. Sobat Kaca.co.id, jangan menghapus versi lama tanpa jejak; simpan foto atau sketsa, tanggal, dan keputusan agar fabrikator tidak bekerja dari instruksi lisan yang berbeda.
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+Setelah disetujui, terbitkan lembar persetujuan yang menyatakan ruang lingkup persetujuan. Persetujuan tampilan tidak otomatis menyetujui ketebalan, jenis keselamatan kaca, atau kecukupan struktur. Untuk kaca laminated dan tempered safety glass, kesesuaian harus dikaitkan dengan aplikasi dan konteks sistem yang ditinjau ([SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)).
 
-### KR-08
+## Faktor proyek yang mengubah kebutuhan mockup
 
-- **Original sources:** [SNI 4756:2021 aluminium-coated sheet mirror — BSN](https://pesta.bsn.go.id/produk/detail/13726-47562021), [SNI ISO 25537:2011 silver-coated mirror — BSN](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011), [SNI 9237:2023 coated glass — BSN](https://pesta.bsn.go.id/produk/detail/14858-sni92372023), [SNI ISO 11479-1:2014 physical defects — BSN](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014)
-- **Purpose for this article:** Ground mirror, coated-glass, façade color, inspection, defect, and procurement content.
-- **Safe grounded facts:** A generic “mirror” or “coated glass” label omits backing/coating system, exposed surface, edge protection, visual criteria, and compatibility concerns. Aesthetic acceptance and functional performance are separate.
-- **Limits:** Full standards and manufacturer documents are required for viewing conditions, defect limits, processing restrictions, and cleaning compatibility.
+Mockup cenderung lebih penting pada ruang dengan banyak jenis pengguna, pandangan dekat, atau toleransi visual yang ketat. Namun keputusan tetap harus berangkat dari risiko spesifik, bukan dari ukuran proyek semata.
 
-### KR-03
+Periksa empat kelompok faktor: kerumitan sambungan; jumlah variasi panel, pintu, dan perangkat keras; dampak perubahan terhadap fabrikasi; serta jumlah pihak yang memberi persetujuan. Jika salah satu kelompok tinggi, mockup parsial dapat menghemat putaran revisi. Jika semuanya rendah dan dokumen sudah konsisten, sampel material plus pemeriksaan gambar mungkin memadai.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Jangan memakai mockup untuk menguji privasi secara menyeluruh. Pengujian privasi adalah cakupan CUB-04; di artikel ini cukup pastikan pertanyaan privasi dicatat sebagai kebutuhan yang harus ditinjau pada jalur tersebut.
 
-### KR-06
+## Contoh keputusan praktis sebelum pemesanan kaca
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Gunakan pertanyaan berikut dalam rapat singkat:
 
-## Evidence gates
+| Kondisi | Keputusan awal | Bukti yang harus dicatat |
+|---|---|---|
+| Satu modul berulang, finish jelas, sambungan standar | Sampel dan gambar mungkin cukup | Versi gambar dan sampel disetujui |
+| Pertemuan panel, pintu, dan profil belum disepakati | Buat mockup parsial | Sketsa sambungan dan daftar revisi |
+| Ada perubahan bukaan setelah pemrosesan direncanakan | Hentikan pemesanan sampai ditinjau | Ukuran final, proses, dan persetujuan |
+| Banyak pihak menilai warna atau cermin dari jarak dekat | Buat contoh tampilan terkontrol | Kondisi pencahayaan dan kriteria visual |
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Contoh itu adalah kerangka keputusan, bukan persetujuan otomatis. Kawan Kaca.co.id, minta penanggung jawab proyek menandatangani pertanyaan yang masih terbuka dan siapa yang berwenang menutupnya.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Kesalahan umum saat memilih mockup dan cara memeriksanya
 
-## Internal-link plan
+Kesalahan pertama adalah menganggap sampel kecil sudah mewakili seluruh rakitan. Periksa apakah sampel memperlihatkan tepi, profil, hardware, dan pertemuan dengan bidang lain yang benar-benar menentukan hasil.
 
-### Existing local routes
+Kesalahan kedua adalah menunggu sampai kaca dipesan baru membahas bukaan. Tanyakan kepada fabrikator bagian mana yang wajib final sebelum perlakuan panas dan bagaimana perubahan dicatat. Jangan mengisi batas proses dengan perkiraan.
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kesalahan ketiga adalah menyetujui mockup tanpa kriteria. Tulis apa yang dinilai: hubungan ukuran, urutan kerja, tampilan, atau kecocokan komponen. Hal yang tidak dinilai harus tetap berstatus terbuka dan diarahkan ke pemeriksaan profesional.
 
-### Planned sibling articles
+## Jalan pintas “langsung fabrikasi” dan kapan harus dihentikan
 
-These are future routes. Do not link them as live until their HTML exists.
+Langsung fabrikasi tampak cepat bila gambar terlihat rapi. Risikonya muncul ketika satu asumsi kecil—misalnya posisi engsel atau sisi lapisan—baru terlihat setelah panel dibuat. Karena perubahan pada kaca yang diproses panas dapat menuntut pembuatan ulang, waktu yang dihemat di awal dapat berubah menjadi pekerjaan tambahan ([ASTM C1172-24e1](https://store.astm.org/c1172-24e01.html)).
 
-- `CUB-14-01` → `/artikel/brief-desain-cubicle-custom.html` — Cara Menulis Brief Desain Cubicle Kaca Custom
-- `CUB-14-02` → `/artikel/referensi-finish-kaca-cubicle.html` — Menyiapkan Referensi Finish, Warna, dan Motif Kaca
-- `CUB-14-04` → `/artikel/approval-sample-cubicle-kaca.html` — Approval Sample Kaca, Frame, dan Hardware
-- `CUB-14-05` → `/artikel/design-freeze-panel-kaca.html` — Design Freeze sebelum Fabrikasi Panel Kaca
+Alternatif yang lebih aman adalah mockup secukupnya, dengan daftar pertanyaan dan batas persetujuan yang jelas. Hentikan pemesanan bila ukuran, jenis kaca, detail bukaan, atau pihak penyetuju belum tercatat sebagai keputusan final.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Langkah akhir untuk memutuskan mockup cubicle kaca
 
-## Jawaban singkat dan salah paham utama
+Proyek memerlukan mockup ketika sampel dan gambar belum mampu menyamakan keputusan tentang sambungan, tampilan, bukaan, atau urutan pemasangan—terutama saat perubahan terlambat akan mahal atau sulit diperbaiki. Jika detail sederhana dan seluruh dokumen konsisten, pemeriksaan sampel serta gambar dapat cukup.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Proyek Cubicle Kaca Memerlukan Mockup”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Langkah berikutnya: buat lembar ringkasan kebutuhan satu halaman, tandai tiga keputusan paling berisiko, lalu minta tim menentukan apakah mockup penuh atau parsial dapat menjawabnya. Untuk referensi jenis ruang, Anda dapat melihat [pilihan cubicle toilet](/cubicle/toilet) dan [cubicle kantor](/cubicle/kantor), lalu kembalikan keputusan material dan sistem kepada dokumen proyek serta review teknis yang berwenang.
 
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Proyek Cubicle Kaca Memerlukan Mockup”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Proyek Cubicle Kaca Memerlukan Mockup”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Proyek Cubicle Kaca Memerlukan Mockup”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Proyek Cubicle Kaca Memerlukan Mockup”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Proyek Cubicle Kaca Memerlukan Mockup”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasionalnya sederhana: jangan memesan kaca sebelum pertanyaan yang hendak dijawab mockup, kriteria lulus, dan batas perubahan tertulis. Mockup membantu keputusan; ia tidak menggantikan persetujuan profesional atau bukti proyek terkini.

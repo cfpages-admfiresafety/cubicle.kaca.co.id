@@ -2,8 +2,9 @@
 article_id: CUB-13-02
 title: "Kompatibilitas Pembersih dengan Kaca, Film, dan Hardware"
 slug: "kompatibilitas-pembersih-cubicle"
-description: "Menjalankan perawatan rutin serta mengenali kondisi yang perlu ditindaklanjuti"
-status: outline
+description: "Panduan menyaring bahan pembersih untuk kaca, film, dan perangkat keras cubicle sebelum perawatan rutin."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,222 +15,98 @@ reader_address: "Kawan Kaca.co.id"
 final_route: "/artikel/kompatibilitas-pembersih-cubicle.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
-  - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
-  - "https://pesta.bsn.go.id/produk/detail/13726-47562021"
-  - "https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011"
-  - "https://pesta.bsn.go.id/produk/detail/14858-sni92372023"
-  - "https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014"
-  - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
   - "https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://www.glass.org/architect"
+  - "https://pesta.bsn.go.id/produk/detail/14858-sni92372023"
+  - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
+  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c2430"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
   - "https://peraturan.bpk.go.id/Search?jenis=105&p=1"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-002
+Source type: local
+Placement: after opening answer, before first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi produk cubicle toilet](/wp-content/uploads/2022/07/produk-cubicle-toilet.jpeg)`
+Caption/credit: Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
+Selection basis: filename/source metadata identifies produk cubicle toilet; no pixels inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-002].
+END MANAGED IMAGE PLAN -->
 
 # Kompatibilitas Pembersih dengan Kaca, Film, dan Hardware
 
-## Assignment lock
+Halo, Kawan Kaca.co.id! Saat cubicle terlihat kusam, pilihan tercepat biasanya mengambil cairan pembersih yang sudah tersedia. Masalahnya, label “untuk kaca” belum menjawab apakah cairan itu cocok dengan film, lapisan kaca, sealant, engsel, atau lapisan pelindung perangkat keras yang ikut terkena semprotan.
 
-- **Writer task:** Expand this file into one complete article answering: “Kompatibilitas Pembersih dengan Kaca, Film, dan Hardware”
-- **Reader and situation:** Menjalankan perawatan rutin serta mengenali kondisi yang perlu ditindaklanjuti
-- **Reader outcome:** Menjalankan perawatan rutin serta mengenali kondisi yang perlu ditindaklanjuti
-- **Primary intent:** Menyaring bahan pembersih sebelum dipakai
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak memberi daftar aman universal; gunakan data komponen.
-- **Final public route:** `/artikel/kompatibilitas-pembersih-cubicle.html`
-- **Appointed CMS date:** `2026-04-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: jangan mencari satu bahan yang dianggap aman untuk semua komponen. Saring produk berdasarkan data komponen yang benar-benar terpasang, petunjuk pabrik, cara aplikasi, dan uji pada area kecil yang tidak mencolok. Pembersihan yang keliru dapat menggores atau menodai kaca, merusak lapisan, dan mengganggu tepi kaca laminasi; NGA juga menekankan bahwa permukaan kaca yang diberi perlakuan panas memerlukan perhatian berbeda ([panduan pembersihan kaca arsitektural](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf), [panduan permukaan kaca heat-treated](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)).
 
-## Opening instructions
+Artikel ini membantu Anda memutuskan tiga hal: bahan apa yang boleh masuk daftar uji, bagian mana yang harus dilindungi, dan kapan pekerjaan dihentikan untuk meminta data teknis atau pemeriksaan. Tidak ada daftar bahan aman universal di sini karena jenis kaca, film, sealant, dan perangkat keras tiap cubicle dapat berbeda.
 
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kompatibilitas Pembersih dengan Kaca, Film, dan Hardware**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi produk cubicle toilet](/wp-content/uploads/2022/07/produk-cubicle-toilet.jpeg)
 
+*Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+## Apa yang dimaksud kompatibilitas pembersih pada cubicle?
 
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi produk cubicle toilet](/wp-content/uploads/2022/07/produk-cubicle-toilet.jpeg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `produk cubicle toilet` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Sebelum memilih cairan, samakan dulu arti “kompatibel”. Kompatibilitas berarti bahan pembersih tidak menimbulkan perubahan yang merugikan pada permukaan dan sambungan selama dipakai sesuai petunjuk. Jadi, produk yang tidak membuat kaca buram tetap belum tentu cocok untuk film atau lapisan pada perangkat keras.
 
-## Evidence packet
+Objek yang perlu dicatat bukan hanya panel kaca. Tulis jenis kaca dan perlakuannya, keberadaan film atau coating (lapisan tambahan), jenis sealant dan kondisi tepi, serta bahan perangkat keras seperti aluminium, baja tahan karat, plastik, atau lapisan dekoratif. SNI tentang coated glass mengingatkan bahwa istilah umum “kaca berlapis” belum menjelaskan sistem lapisan, sisi yang terbuka, kriteria visual, dan persoalan kompatibilitas ([SNI 9237:2023](https://pesta.bsn.go.id/produk/detail/14858-sni92372023)).
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Batas ini penting agar masalah estetika tidak disamakan dengan kegagalan fungsi. Noda ringan mungkin perlu prosedur pembersihan, sedangkan lapisan terkelupas, sealant melunak, atau perangkat keras berubah warna memerlukan penanganan berbeda. Jika data komponen tidak tersedia, tandai **[NEEDS COMPONENT DATA AND MANUFACTURER INSTRUCTIONS]** sebelum memilih bahan.
 
-### KR-01
+## Bagaimana pembersih berinteraksi dengan kaca, film, sealant, dan perangkat keras?
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Bagian ini menjelaskan urutan sebab-akibat supaya Anda tidak berhenti pada nama merek. Cairan menyentuh permukaan, residu berpindah melalui kain dan air bilasan, lalu kontak berulang dapat memengaruhi lapisan, tepi, sambungan, atau finishing logam. Konsentrasi, waktu diam, suhu, tekanan gosok, dan kebersihan alat ikut mengubah hasil.
 
-### KR-06
+Pada kaca, partikel keras yang tertinggal di kain dapat menggores saat digosok. Pada kaca yang diberi perlakuan panas atau lapisan tertentu, permukaan dapat memiliki aturan pembersihan khusus; gunakan petunjuk produk, bukan asumsi dari kaca bening biasa ([NGA Heat-Treated Glass Surfaces Are Different](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)). Film menambah antarmuka baru: cairan dapat merembes ke tepi atau memengaruhi perekat bila prosedur dan bahan tidak disetujui pembuat film.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Sealant adalah bahan pengisi sambungan, bukan sekadar “silikon”. Kesesuaiannya dipengaruhi substrat, pembersihan atau primer, geometri sambungan, gerakan, waktu pengerasan, bahan yang bersentuhan, drainase, dan kendali mutu. Manual Dow dan daftar standar ASTM C24 menunjukkan bahwa nama produk saja tidak membuktikan kecocokan atau adhesi pada proyek tertentu ([Dow Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c2430)). Karena itu, jangan menyemprot sambungan secara berlebihan atau mengerok sealant tanpa persetujuan teknis.
 
-### KR-08
+Perangkat keras juga punya titik rentan: celah engsel, lubang drainase, ulir, dan lapisan permukaan. Cairan yang menggenang dapat membawa residu ke bagian bergerak atau membuat lapisan dekoratif berubah. Aplikasikan cairan ke kain bila petunjuk mengizinkan, jaga agar tidak masuk ke celah, lalu keringkan. Ini adalah keputusan operasi, bukan jaminan bahwa semua perangkat keras pasti tahan terhadap bahan tersebut.
 
-- **Original sources:** [SNI 4756:2021 aluminium-coated sheet mirror — BSN](https://pesta.bsn.go.id/produk/detail/13726-47562021), [SNI ISO 25537:2011 silver-coated mirror — BSN](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011), [SNI 9237:2023 coated glass — BSN](https://pesta.bsn.go.id/produk/detail/14858-sni92372023), [SNI ISO 11479-1:2014 physical defects — BSN](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014)
-- **Purpose for this article:** Ground mirror, coated-glass, façade color, inspection, defect, and procurement content.
-- **Safe grounded facts:** A generic “mirror” or “coated glass” label omits backing/coating system, exposed surface, edge protection, visual criteria, and compatibility concerns. Aesthetic acceptance and functional performance are separate.
-- **Limits:** Full standards and manufacturer documents are required for viewing conditions, defect limits, processing restrictions, and cleaning compatibility.
+## Faktor apa yang mengubah hasil pembersihan?
 
-### KR-14
+Setelah mekanismenya jelas, periksa kondisi yang dapat mengubah keputusan. Langkah ini mencegah Anda menerapkan prosedur yang sama pada lokasi dengan paparan dan komponen berbeda.
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+Pertama, identitas material. Pastikan apakah kaca berlapis, berfilm, laminasi, atau hanya kaca polos; catat sisi film dan tepi yang terbuka. Kedua, kondisi lingkungan: debu konstruksi, air sadah, residu sabun, kelembapan, dan frekuensi pemakaian menentukan jenis kotoran serta kebutuhan pembersihan. NGA menyarankan frekuensi mengikuti paparan lokasi, bukan kalender universal ([NGA Proper Procedures](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf)).
 
-### KR-16
+Ketiga, metode kerja. Kain, squeegee, air bilasan, tekanan, dan urutan dari bagian bersih ke bagian kotor dapat menentukan apakah partikel menjadi goresan atau residu. Keempat, bukti. Minta lembar data, petunjuk perawatan, dan persetujuan tertulis untuk permukaan yang dilapisi atau berfilm. Tanpa bukti itu, batasi pekerjaan pada penghilangan debu ringan dengan metode yang disetujui dan eskalasikan sisanya.
 
-- **Original sources:** [NGA Proper Procedures for Cleaning Architectural Glass Products (2023)](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf), [NGA Heat-Treated Glass Surfaces Are Different (2023)](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf), [NGA glass technical resources](https://www.glass.org/architect)
-- **Purpose for this article:** Ground maintenance and defect-prevention content without universal chemical recipes.
-- **Safe grounded facts:** Incorrect cleaning can permanently scratch, stain, remove/damage a coating, or harm laminated edges. Cleaning frequency should respond to site exposure rather than a universal calendar.
-- **Limits:** Do not publish a chemical as universally safe. Confirm the exact glass, coating, film, interlayer edge, sealants, hardware, and manufacturer instructions.
+## Bagaimana membuat keputusan sebelum memakai bahan?
 
-### KR-04
+Gunakan skenario berikut sebagai alat penyaringan, bukan resep tetap. Tujuannya memisahkan keputusan yang dapat dilakukan operator dari keputusan yang memerlukan peninjauan.
 
-- **Original sources:** [Permenaker No. 9 Tahun 2016 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), [Permenaker No. 11 Tahun 2026 status and amendment record — BPK](https://peraturan.bpk.go.id/Search?jenis=105&p=1)
-- **Purpose for this article:** Ground installation, façade access, cleaning, inspection, and replacement articles in current Indonesian worker-safety context.
-- **Safe grounded facts:** A writer must not rely on an old copy of the 2016 rule alone. Work-at-height content needs a current consolidated legal check, competent planning, safe access, and task-specific controls.
-- **Limits:** This research does not interpret the amended clauses or create a method statement. Legal/HSE review is required before prescriptive publication.
+| Situasi yang ditemukan | Keputusan awal | Pemeriksaan lanjutan |
+|---|---|---|
+| Jenis kaca dan film terdokumentasi, petunjuk pembersih tersedia | Ikuti petunjuk tersebut dan uji area kecil | Catat perubahan warna, kabut, atau residu setelah kering |
+| Kaca diketahui, tetapi film atau coating tidak jelas | Jangan memilih bahan berdasarkan label umum | Minta identitas film/coating dan persetujuan pemasok |
+| Sealant retak, melunak, atau terangkat | Hentikan penggosokan dan penyemprotan pada sambungan | Minta inspeksi teknis; jangan mengganti dengan “silikon” sembarang |
+| Perangkat keras berubah warna atau gerakannya seret | Bersihkan permukaan luar secara terbatas dan keringkan | Periksa celah, pengikat, dan petunjuk perangkat keras |
+| Pekerjaan dilakukan di ketinggian atau akses sulit | Jangan improvisasi akses | Lakukan perencanaan dan pemeriksaan K3 yang berlaku; aturan perlu dicek pada sumber resmi terbaru ([Permenaker No. 9 Tahun 2016](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), [status/amendemen BPK](https://peraturan.bpk.go.id/Search?jenis=105&p=1)) |
 
-### KR-17
+Kawan Kaca.co.id, simpan catatan produk, tanggal uji, lokasi panel, dan hasil setelah kering. Catatan sederhana itu membantu membedakan masalah bahan dari masalah permukaan yang sudah ada.
 
-- **Purpose for this article:** Give tempered-glass breakage articles a defensible distinction between risk reduction, diagnosis, and guarantees.
-- **Safe grounded facts:** A broken pane cannot be confidently diagnosed as nickel-sulfide inclusion from a casual photo or from “spontaneous” timing alone. Heat soaking does not create a zero-breakage guarantee.
-- **Limits:** Do not state a universal incidence rate or claim certainty without laboratory/forensic evidence and the relevant fabrication/testing records.
+## Kesalahan umum saat memilih dan mengaplikasikan pembersih
 
-## Evidence gates
+Bagian ini menyoroti jalan pintas yang sering terasa praktis, tetapi dapat menutup sumber masalah. Memeriksa kesalahan sebelum bekerja biasanya lebih murah daripada memperbaiki lapisan atau perangkat keras.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Kesalahan pertama adalah menganggap “pH netral” otomatis aman. Nilai pH tidak menjelaskan seluruh bahan tambahan, pelarut, waktu kontak, atau kecocokan dengan perekat dan finishing. Kesalahan kedua adalah memakai spons atau kain yang pernah mengambil pasir; alat yang kotor dapat menggores walau cairannya sesuai.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kesalahan ketiga adalah menyemprot langsung ke seluruh panel dan membiarkan cairan mengalir ke tepi. Cara itu memperbesar peluang cairan masuk ke film, sealant, atau celah perangkat keras. Kesalahan keempat adalah menggosok noda membandel dengan tekanan lebih kuat sebelum mengetahui apakah noda tersebut kerak, kerusakan coating, atau cacat lama.
 
-## Internal-link plan
+Periksa dengan pertanyaan singkat: material apa yang disentuh, bukti kompatibilitasnya di mana, apakah alat bersih, berapa lama cairan dibiarkan, dan tanda apa yang membuat pekerjaan harus berhenti? Jika salah satu jawaban tidak ada, jangan naikkan agresivitas bahan atau tekanan gosok.
 
-### Existing local routes
+## Jalan pintas “satu cairan untuk semua” dan batas aman keputusan
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Jalan pintas satu cairan memang menghemat waktu persiapan, tetapi menghapus perbedaan antara kaca, film, sealant, dan perangkat keras. Dampaknya bisa muncul sebagai perubahan kilap, residu, tepi film terangkat, atau sambungan yang terganggu—gejala yang tidak selalu terlihat saat panel masih basah.
 
-### Planned sibling articles
+Alternatif yang lebih dapat dipertanggungjawabkan adalah membuat daftar komponen, mencocokkannya dengan instruksi pabrikan, melakukan uji kecil, lalu mencatat hasil. Untuk pekerjaan di ketinggian, pekerjaan sambungan, atau kondisi kerusakan, minta peninjauan kompeten. Jangan mengubah panduan umum menjadi jaminan performa proyek.
 
-These are future routes. Do not link them as live until their HTML exists.
+Jika Anda masih mengumpulkan kebutuhan ruang, lihat contoh [cubicle toilet](/cubicle/toilet/) untuk memahami komponen yang biasanya perlu dicatat sebelum menyusun prosedur perawatan. Tautan itu bukan pengganti data material pada unit yang sedang Anda rawat.
 
-- `CUB-13-01` → `/artikel/rencana-pembersihan-cubicle-kaca.html` — Rencana Pembersihan Cubicle dan Partisi Kaca
-- `CUB-13-03` → `/artikel/jadwal-inspeksi-hardware-cubicle.html` — Jadwal Inspeksi Pintu, Hinge, Clamp, dan Seal
-- `CUB-13-04` → `/artikel/tanda-hardware-cubicle-bermasalah.html` — Tanda Hardware Cubicle Perlu Disetel atau Diganti
+## Kesimpulan: saring berdasarkan komponen, bukan label botol
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kompatibilitas pembersih cubicle ditentukan oleh kombinasi kaca, film, coating, sealant, perangkat keras, metode aplikasi, dan bukti dari pembuatnya. Mulailah dari identitas komponen, lindungi tepi dan celah, uji area kecil, serta hentikan pekerjaan ketika data atau kondisi lapangan tidak jelas.
 
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kompatibilitas Pembersih dengan Kaca, Film, dan Hardware”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kompatibilitas Pembersih dengan Kaca, Film, dan Hardware”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kompatibilitas Pembersih dengan Kaca, Film, dan Hardware”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kompatibilitas Pembersih dengan Kaca, Film, dan Hardware”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kompatibilitas Pembersih dengan Kaca, Film, dan Hardware”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kompatibilitas Pembersih dengan Kaca, Film, dan Hardware”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Kaca.co.id, langkah berikutnya adalah meminta lembar petunjuk perawatan dan mencatat hasil uji pada panel yang teridentifikasi. Jika ada [NEEDS COMPONENT DATA AND MANUFACTURER INSTRUCTIONS], perubahan permukaan, sambungan bermasalah, atau akses kerja berisiko, teruskan ke peninjauan teknis dan K3 sebelum melanjutkan. Aturan operasinya sederhana: tanpa data komponen dan persetujuan yang sesuai, jangan menyebut suatu bahan “aman untuk semua”.

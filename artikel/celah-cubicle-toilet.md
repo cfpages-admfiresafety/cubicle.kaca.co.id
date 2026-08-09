@@ -2,8 +2,9 @@
 article_id: CUB-09-03
 title: "Celah Bawah, Atas, dan Samping pada Cubicle Toilet"
 slug: "celah-cubicle-toilet"
-description: "Merencanakan privasi, celah, hardware, air, ventilasi, dan pembersihan toilet"
-status: outline
+description: "Panduan menimbang celah cubicle toilet untuk privasi, ventilasi, aliran air, perangkat keras, dan pembersihan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,221 +16,101 @@ final_route: "/artikel/celah-cubicle-toilet.html"
 technical_review: required
 sources:
   - "https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf"
-  - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://www.glass.org/architect"
-  - "https://www.iso.org/standard/75536.html"
-  - "https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf"
-  - "https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN"
-  - "https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?jenis=105&p=1"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
-  - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Celah Bawah, Atas, dan Samping pada Cubicle Toilet
 
-## Assignment lock
+Halo, Teman Kaca.co.id! Saat memesan cubicle toilet, orang sering meminta “celah sekecil mungkin” agar privasi terasa penuh. Di lapangan, celah bawah, atas, dan samping bukan sekadar sisa ukuran. Masing-masing memengaruhi pandangan, aliran udara, air yang harus dikendalikan, ruang untuk membersihkan, dan cara engsel atau kunci bekerja.
 
-- **Writer task:** Expand this file into one complete article answering: “Celah Bawah, Atas, dan Samping pada Cubicle Toilet”
-- **Reader and situation:** Merencanakan privasi, celah, hardware, air, ventilasi, dan pembersihan toilet
-- **Reader outcome:** Merencanakan privasi, celah, hardware, air, ventilasi, dan pembersihan toilet
-- **Primary intent:** Mengoordinasikan privasi, ventilasi, dan pembersihan
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak memberi dimensi universal; gunakan kriteria proyek.
-- **Final public route:** `/artikel/celah-cubicle-toilet.html`
-- **Appointed CMS date:** `2026-01-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: tidak ada satu dimensi celah yang aman untuk semua toilet. Rencanakan celah sebagai keputusan proyek: tentukan kebutuhan privasi, jalur ventilasi, kemungkinan cipratan dan genangan, alat pembersih, serta ruang gerak perangkat keras. Setelah itu, minta ukuran dan detail sambungan ditinjau pada gambar kerja. Artikel ini membantu Anda mengajukan pertanyaan yang tepat, bukan menggantikan pengukuran atau persetujuan profesional.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Celah Bawah, Atas, dan Samping pada Cubicle Toilet**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
-
-- **Image ID:** `LOCAL-007`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- Image ID: `LOCAL-007`
+- Source type: `local`
+- Placement: after opening
 - **Exact Markdown to insert:** `![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
+- Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
 
-### KR-01
+## Apa yang dimaksud celah bawah, atas, dan samping pada cubicle toilet?
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Sebelum memilih angka, samakan istilahnya. Celah bawah adalah jarak panel atau pintu dari lantai; celah atas adalah ruang antara panel dan plafon atau balok; celah samping adalah jarak panel ke dinding, panel lain, atau tiang. Ketiganya mengubah apa yang dapat terlihat dan bagaimana udara serta air bergerak.
 
-### KR-16
+Batas objek ini penting agar diskusi tidak melebar menjadi spesifikasi seluruh kamar mandi. Kita membahas hubungan celah dengan privasi, ventilasi, air, hardware, dan pembersihan. Ketebalan kaca, jenis rangka, atau detail penahan beban tetap harus dipilih dari dimensi dan beban proyek, bukan dari label “cubicle” saja. ASTM menjelaskan bahwa pemilihan kaca bergantung pada dimensi, tumpuan tepi, jenis kaca, beban, dan perilaku sistem; karena itu satu ukuran tidak otomatis cocok untuk semua susunan ([ruang lingkup ASTM E1300-24](https://store.astm.org/e1300-24.html)).
 
-- **Original sources:** [NGA Proper Procedures for Cleaning Architectural Glass Products (2023)](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf), [NGA Heat-Treated Glass Surfaces Are Different (2023)](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf), [NGA glass technical resources](https://www.glass.org/architect)
-- **Purpose for this article:** Ground maintenance and defect-prevention content without universal chemical recipes.
-- **Safe grounded facts:** Incorrect cleaning can permanently scratch, stain, remove/damage a coating, or harm laminated edges. Cleaning frequency should respond to site exposure rather than a universal calendar.
-- **Limits:** Do not publish a chemical as universally safe. Confirm the exact glass, coating, film, interlayer edge, sealants, hardware, and manufacturer instructions.
+## Bagaimana setiap celah memengaruhi privasi dan ventilasi toilet?
 
-### KR-21
+Bagian ini menjelaskan sebab-akibatnya supaya Anda tidak menganggap semua celah bekerja dengan cara sama. Kita telaah satu per satu, lalu menghubungkannya dengan fungsi ruang.
 
-- **Original sources:** [ISO 18543:2021 electrochromic glazing](https://www.iso.org/standard/75536.html), [NGA Dynamic Glazing for High Performance Buildings](https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf), [NGA Decorative Glass handling/cleaning record (2025)](https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN), [NGA decorative durability guidance](https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf)
-- **Purpose for this article:** Distinguish privacy switching, solar/visible modulation, decorative appearance, and durability.
-- **Safe grounded facts:** “Smart glass” is not one mechanism. Power-off state, switching method, optical state range, controls, wiring, heat, edge seals, UV/moisture exposure, cycle/ageing evidence, replacement, and cleaning can all matter.
-- **Limits:** Manufacturer claims are product-specific. Do not infer energy savings, sound/privacy performance, service life, or safety class from the technology name.
+### Celah bawah: pandangan, air, dan alat pembersih
 
-### KR-04
+Celah bawah memberi jalur pandangan dari luar dan jalur lewatnya udara di dekat lantai. Semakin terbuka jalur pandang dari posisi pengguna di koridor, semakin besar kebutuhan penghalang visual tambahan. Namun menutupnya tanpa memikirkan lantai dapat menjebak air di sudut atau menyulitkan alat pel lantai masuk.
 
-- **Original sources:** [Permenaker No. 9 Tahun 2016 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), [Permenaker No. 11 Tahun 2026 status and amendment record — BPK](https://peraturan.bpk.go.id/Search?jenis=105&p=1)
-- **Purpose for this article:** Ground installation, façade access, cleaning, inspection, and replacement articles in current Indonesian worker-safety context.
-- **Safe grounded facts:** A writer must not rely on an old copy of the 2016 rule alone. Work-at-height content needs a current consolidated legal check, competent planning, safe access, and task-specific controls.
-- **Limits:** This research does not interpret the amended clauses or create a method statement. Legal/HSE review is required before prescriptive publication.
+Tanyakan posisi floor drain, kemiringan lantai, dan arah semprotan sebelum menetapkan detail bawah. Jika toilet dibersihkan dengan selang, air harus punya jalur menuju drain tanpa mengikis tepi panel atau membebani sambungan. Keputusan akhirnya adalah kompromi yang terdokumentasi: privasi yang diminta, rute air, dan akses pembersihan.
 
-### KR-12
+### Celah atas: pertukaran udara dan garis pandang
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Ruang di atas panel dapat membantu udara berpindah menuju sistem ventilasi, tetapi juga dapat membuka garis pandang dari lantai atau area yang lebih tinggi. Karena itu, periksa posisi kisi-kisi, plafon, dan arah pandangan nyata pada denah serta potongan, bukan hanya tampak depan.
 
-### KR-14
+Jika ventilasi mekanis dipakai, tanyakan kepada perencana HVAC bagaimana udara masuk dan keluar dari bilik. Celah atas tidak membuktikan kapasitas ventilasi tertentu. Ia hanya salah satu bagian dari jalur udara; performa akhir perlu dihitung dan diuji oleh tim proyek.
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+### Celah samping: toleransi, dinding, dan hardware
 
-### KR-17
+Celah samping menampung toleransi dinding yang tidak benar-benar tegak dan ruang gerak pintu. Terlalu rapat dapat membuat tepi panel menyentuh dinding saat bangunan bergerak atau ketika engsel disetel. Terlalu lebar dapat mengurangi privasi dan membuat cipratan mencapai dinding di luar bilik.
 
-- **Purpose for this article:** Give tempered-glass breakage articles a defensible distinction between risk reduction, diagnosis, and guarantees.
-- **Safe grounded facts:** A broken pane cannot be confidently diagnosed as nickel-sulfide inclusion from a casual photo or from “spontaneous” timing alone. Heat soaking does not create a zero-breakage guarantee.
-- **Limits:** Do not state a universal incidence rate or claim certainty without laboratory/forensic evidence and the relevant fabrication/testing records.
+Pastikan detail menunjukkan garis ukur yang dipakai: muka dinding jadi, sumbu panel, posisi engsel, dan sapuan daun pintu. Mintalah sampel atau mock-up bila arah bukaan sulit dibayangkan. Hardware harus dapat diperiksa dan dikencangkan tanpa membongkar panel yang tidak terkait.
 
-## Evidence gates
+## Faktor proyek apa yang dapat mengubah keputusan celah?
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Kini kita pindah dari mekanisme ke kondisi nyata. Periksa lingkungan dan pola penggunaan sebelum menjadikan ukuran proyek lain sebagai pembanding.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Pertama, petakan pengguna dan sudut pandang. Toilet umum, fasilitas keluarga, dan ruang dengan pengawasan berbeda dapat membutuhkan tingkat privasi berbeda. Catat posisi mata yang mungkin melihat dari koridor, urinoir, atau bilik sebelah; gunakan catatan itu untuk menilai celah atas dan bawah.
 
-## Internal-link plan
+Kedua, petakan air dan kotoran. Tandai drain, area basah, sambungan lantai, dan alat semprot. Bahan pembersih yang salah dapat menggores atau menodai kaca, merusak lapisan, dan mengganggu tepi laminasi. NGA menyarankan prosedur pembersihan yang sesuai produk dan paparan lokasi, bukan jadwal atau bahan kimia yang dianggap universal ([panduan pembersihan kaca arsitektural NGA](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf)).
 
-### Existing local routes
+Ketiga, cocokkan celah dengan konstruksi. Dinding berlapis, lantai yang belum final, dan plafon bergelombang mengubah ukuran bersih. Ukur kondisi jadi atau tetapkan toleransi yang akan diterima sebelum panel dipotong. Jangan menganggap sealant dapat menutup semua kesalahan; kecocokan permukaan, geometri sambungan, gerak, waktu curing, dan pemeriksaan adhesi adalah kendali terpisah.
 
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Terakhir, siapkan bukti serah terima. Gambar detail, daftar hardware, catatan bahan, dan metode pembersihan membuat keputusan dapat diperiksa saat pemeliharaan. [NEEDS PROJECT REVIEW: ukuran celah, detail sambungan, ventilasi, dan drain belum ditetapkan dalam paket ini.]
 
-### Planned sibling articles
+## Bagaimana membuat keputusan praktis tanpa memakai ukuran universal?
 
-These are future routes. Do not link them as live until their HTML exists.
+Gunakan tabel sederhana berikut sebagai urutan tanya, bukan sebagai pengganti desain. Tujuannya memperjelas keputusan yang harus dibawa ke rapat koordinasi.
 
-- `CUB-09-01` → `/artikel/brief-cubicle-toilet-kaca.html` — Cara Membuat Brief Cubicle Toilet Kaca
-- `CUB-09-02` → `/artikel/layout-cubicle-toilet.html` — Layout Pintu, Bilik, dan Sirkulasi Cubicle Toilet
-- `CUB-09-04` → `/artikel/bukti-wet-area-cubicle-kaca.html` — Cubicle Kaca di Area Basah: Bukti Kesesuaian Sistem
-- `CUB-09-05` → `/artikel/ventilasi-pengeringan-cubicle-toilet.html` — Ventilasi dan Pengeringan di Sekitar Cubicle Toilet
+| Pertanyaan proyek | Jika jawabannya demikian | Tindakan koordinasi |
+|---|---|---|
+| Apakah garis pandang dari koridor mengarah langsung ke pengguna? | Ya | Uji ulang tinggi panel, posisi pintu, dan celah bawah/atas pada potongan. |
+| Apakah air semprot atau pel membasahi tepi panel? | Ya | Pastikan kemiringan ke drain, perlindungan tepi, dan akses pembersihan. |
+| Apakah dinding atau lantai belum selesai? | Ya | Tetapkan datum dan toleransi; jangan potong panel dari ukuran kasar. |
+| Apakah pintu perlu disetel atau diganti? | Ya | Sisakan akses hardware dan catat urutan bongkar-pasang. |
+| Apakah kaca memiliki lapisan, film, atau laminasi? | Ya | Konfirmasi instruksi pembersihan dan kompatibilitas bahan kepada pemasok. |
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kawan Kaca.co.id, bila jawaban pada satu baris belum jelas, itu tanda keputusan celah belum siap dibekukan di gambar kerja. Anda dapat membandingkan kebutuhan ruang dan akses dengan [contoh kategori cubicle toilet](/cubicle/toilet), lalu melihat [contoh halaman toilet berdasarkan lokasi](/toilet-yogyakarta.html) untuk menyiapkan pertanyaan ruang dan akses. Jangan menganggap keduanya sebagai persetujuan ukuran untuk proyek Anda.
 
-## Jawaban singkat dan salah paham utama
+## Kesalahan umum saat menentukan celah cubicle toilet
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Celah Bawah, Atas, dan Samping pada Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Heading ini menyoroti jalan pintas yang tampak praktis tetapi sering menyembunyikan masalah. Setiap kesalahan diubah menjadi pemeriksaan yang bisa dilakukan sebelum produksi.
 
-## Definisi dan batas objek
+**Menyalin celah dari foto atau proyek lama.** Foto tidak menunjukkan ukuran, toleransi, arah pandang, atau jalur drain. Minta denah, potongan, dan ukuran kondisi jadi.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Celah Bawah, Atas, dan Samping pada Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Menutup semua celah dengan sealant.** Sealant bukan pengganti rancangan sambungan dan tidak otomatis cocok dengan semua substrat atau lapisan. Periksa kompatibilitas, geometri, curing, dan bukti adhesi dari sistem yang dipilih.
 
-## Cara kerjanya
+**Menganggap celah atas pasti menyelesaikan ventilasi.** Jalur udara tetap bergantung pada bukaan masuk-keluar dan sistem mekanis. Minta perencana ventilasi menjelaskan jalurnya dan cara verifikasi.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Celah Bawah, Atas, dan Samping pada Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Membersihkan kaca dengan bahan serbaguna.** Permukaan heat-treated, coating, film, dan tepi laminasi dapat merespons berbeda. Ikuti instruksi produk dan hentikan pekerjaan bila muncul goresan, noda, atau kerusakan tepi; minta pemeriksaan pemasok.
 
-## Faktor yang mengubah hasil
+Teman Kaca.co.id, pemeriksaan terakhir sebaiknya dilakukan di lokasi: ukur celah terhadap datum, buka-tutup pintu, lihat dari sudut pandang pengguna, alirkan air sesuai prosedur fasilitas, lalu catat temuan dan siapa yang menyetujuinya.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Celah Bawah, Atas, dan Samping pada Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: tetapkan celah berdasarkan fungsi dan bukti proyek
 
-## Contoh keputusan praktis
+Celah bawah, atas, dan samping pada cubicle toilet harus ditetapkan bersama-sama dengan privasi, ventilasi, air, hardware, dan pembersihan. Tidak ada dimensi universal yang dapat dipindahkan begitu saja. Langkah berikutnya adalah meminta gambar denah-potongan, peta drain dan ventilasi, daftar hardware, serta instruksi perawatan; tandai semua ukuran yang masih [NEEDS PROJECT REVIEW].
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Celah Bawah, Atas, dan Samping pada Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Celah Bawah, Atas, dan Samping pada Cubicle Toilet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasionalnya sederhana: jangan izinkan panel diproduksi sebelum datum, toleransi, arah pandang, jalur air, akses hardware, dan instruksi pembersihan disetujui oleh penanggung jawab proyek yang kompeten.

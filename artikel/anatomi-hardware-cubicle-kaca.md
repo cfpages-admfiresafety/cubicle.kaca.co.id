@@ -2,8 +2,9 @@
 article_id: CUB-05-01
 title: "Anatomi Hardware Cubicle Kaca dan Fungsi Tiap Komponen"
 slug: "anatomi-hardware-cubicle-kaca"
-description: "Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya"
-status: outline
+description: "Memilih sistem bukaan, frame, fitting, dan kecocokan antar komponennya"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,216 +15,94 @@ reader_address: "Sobat Kaca.co.id"
 final_route: "/artikel/anatomi-hardware-cubicle-kaca.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Exact Markdown to insert:** `![Ilustrasi toilet cubicle kaca](/wp-content/uploads/2022/07/toilet-cubicle-kaca.jpg)`
+- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Selection basis:** filename/source metadata identifies the assigned local asset; no pixels were inspected.
+- **Hard boundary:** jangan mengarang detail visual, lokasi, orang, merek, kondisi, performa, atau hasil proyek.
+END MANAGED IMAGE PLAN -->
 
 # Anatomi Hardware Cubicle Kaca dan Fungsi Tiap Komponen
 
-## Assignment lock
+Halo, Sobat Kaca.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Anatomi Hardware Cubicle Kaca dan Fungsi Tiap Komponen”
-- **Reader and situation:** Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya
-- **Reader outcome:** Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya
-- **Primary intent:** Memahami hinge, clamp, handle, dan fitting
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fondasi hardware; kapasitas wajib merujuk data sistem.
-- **Final public route:** `/artikel/anatomi-hardware-cubicle-kaca.html`
-- **Appointed CMS date:** `2025-10-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Saat memilih hardware (perangkat keras) cubicle kaca, orang sering mulai dari bentuk handle (pegangan) atau warna finishing (lapisan akhir). Kebingungan biasanya muncul ketika pintu terasa berat, kaca tidak lagi sejajar, atau clamp (penjepit) dan sealant ternyata tidak cocok. Komponen-komponen itu bukan daftar aksesori terpisah: hinge (engsel) memindahkan beban dan mengatur gerak, penjepit menahan posisi kaca, pegangan memberi titik tarik, sedangkan frame (profil penyangga), gasket, dan sealant menjaga antarmuka tetap terkendali.
 
-## Opening instructions
+Jawaban singkatnya, anatomi perangkat keras harus dibaca sebagai satu sistem bukaan. Pilih jenis bukaan dan kaca lebih dulu, lalu cocokkan kapasitas engsel, posisi penjepit, ukuran pegangan, serta detail profil dan sambungan. Nilai kapasitas tidak boleh ditebak dari nama komponen; ia harus merujuk data sistem, dimensi, tumpuan, beban, dan peninjauan kompeten. Artikel ini membantu Anda mengenali fungsi tiap komponen dan menyusun pertanyaan verifikasi sebelum memesan.
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Anatomi Hardware Cubicle Kaca dan Fungsi Tiap Komponen**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi toilet cubicle kaca](/wp-content/uploads/2022/07/toilet-cubicle-kaca.jpg)
 
+Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+## Komponen perangkat keras cubicle kaca: apa yang sebenarnya dibahas?
 
-- **Image ID:** `LOCAL-010`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi toilet cubicle kaca](/wp-content/uploads/2022/07/toilet-cubicle-kaca.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `toilet cubicle kaca` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-010]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Sebelum memilih merek atau finishing, batas objek perlu jelas agar kaca tidak diperlakukan sebagai benda yang berdiri sendiri. Bagian ini memetakan komponen yang langsung mengatur bukaan dan sambungan, sekaligus menjelaskan hal yang harus ditangani oleh desain bangunan atau tenaga ahli.
 
-## Evidence packet
+Perangkat keras utama terdiri dari hinge (engsel), clamp (penjepit), handle (pegangan), dan elemen antarmuka seperti frame (profil), gasket, serta sealant. Engsel menghubungkan daun pintu dengan panel atau tiang dan mengubah tarikan menjadi putaran. Penjepit mendistribusikan jepitan ke tepi atau sudut kaca. Pegangan memberi gaya yang nyaman untuk membuka atau menutup. Profil dan gasket membantu menjaga garis, celah, dan perlindungan tepi; sealant mengisi sambungan tertentu, bukan menggantikan perhitungan atau tumpuan mekanis.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Yang tidak boleh disimpulkan dari peta ini adalah kapasitas universal. Pemilihan ketebalan dan dukungan kaca bergantung pada ukuran, rasio sisi, kondisi tepi, lubang atau takikan, beban, durasi beban, lendutan, serta perilaku sistem. ASTM E1300-24 menempatkan faktor-faktor itu sebagai bagian dari penentuan penggunaan kaca, sehingga satu ketebalan tidak otomatis aman untuk semua cubicle ([ruang lingkup ASTM E1300-24](https://store.astm.org/e1300-24.html)).
 
-### KR-01
+Untuk kaca keselamatan, istilah “lebih kuat” juga bukan jawaban lengkap. Kaca ter-temper dan kaca laminasi memiliki perilaku pecah yang berbeda; kesesuaian ditentukan oleh aplikasi dan konteks desain yang lengkap. Rujuk daftar standar BSN untuk kaca keselamatan laminasi dan tempered sebelum menetapkan spesifikasi ([SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+## Cara kerja engsel, penjepit, pegangan, frame, dan sealant dalam satu bukaan
 
-### KR-03
+Heading ini penting karena kerusakan sering muncul di antarmuka, bukan pada satu komponen tunggal. Ikuti aliran gaya dan gerak dari tangan pengguna sampai tumpuan, lalu Anda dapat memeriksa sambungan yang paling menentukan.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Ketika handle ditarik, gaya masuk ke daun pintu. Hinge menerima momen dari berat daun dan gaya buka-tutup, kemudian meneruskannya ke clamp, frame, atau tiang. Karena itu jarak antarhinge, arah bukaan, dan posisi tumpuan harus berasal dari data sistem yang dipilih. Jangan mengubah jumlah atau posisi hinge hanya karena lubang terlihat mudah dibuat.
 
-### KR-10
+Clamp bekerja dengan menjepit kaca melalui bidang kontak dan bantalan yang sesuai. Permukaan kontak, torsi pengencangan, dan perlindungan tepi menentukan apakah gaya tersebar atau terkonsentrasi. Pemeriksaan lapangan perlu memastikan kaca tidak terjepit langsung oleh logam, bantalan tidak bergeser, dan tidak ada retak atau serpihan di sekitar lubang.
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Handle bukan sekadar aksesori visual. Bentuk dan posisi menentukan arah gaya, jarak tangan dari bidang kaca, serta ruang gerak pengguna. Catat ukuran dan pola lubang dari gambar hardware; jangan mengebor berdasarkan sampel handle yang belum dipastikan cocok dengan kaca dan clamp.
 
-### KR-19
+Frame atau tiang memberi garis acuan dan tumpuan. Gasket memisahkan material dan membantu mengendalikan celah. Sealant, yaitu bahan perekat atau pengisi sambungan, bekerja melalui daya lekat, geometri sambungan, gerakan, dan waktu pengerasan. Manual Dow tentang pemasangan kaca dengan sealant struktural menekankan bahwa produk sealant saja tidak membuktikan kecocokan; pembersihan, primer, material kontak, drainase, dan kontrol mutu juga harus diperiksa ([manual Dow](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf)).
 
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
+## Faktor yang mengubah kecocokan perangkat keras cubicle kaca
 
-### KR-06
+Setelah mekanisme dipahami, keputusan perlu diuji terhadap kondisi nyata. Bagian ini mencegah asumsi bahwa perangkat keras yang cocok pada satu ukuran pintu akan otomatis cocok pada konfigurasi lain.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Pertama, catat ukuran daun, posisi engsel, arah bukaan, dan jumlah sisi yang ditumpu. Kedua, identifikasi jenis kaca dan detail lubang atau takikan. Ketiga, periksa lingkungan basah, bahan yang bersentuhan, kebutuhan pembersihan, dan kemungkinan gerakan sambungan. Keempat, cocokkan semua data itu dengan lembar kapasitas dan gambar pemasangan dari produsen.
 
-### KR-12
+Kawan Kaca.co.id, jika salah satu data belum tersedia, keputusan yang aman adalah menahan pemesanan dan meminta klarifikasi, bukan memilih ukuran “umum”. Kapasitas hinge atau clamp yang tercetak pada katalog belum tentu berlaku setelah dikombinasikan dengan kaca, tumpuan, dan pola penggunaan proyek Anda. **[NEEDS GATE: penanggung jawab desain harus mengonfirmasi data sistem, dimensi, beban, dan hasil peninjauan sebelum kapasitas dipakai.]**
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+## Contoh keputusan praktis untuk memilih rangkaian komponen
 
-### KR-14
+Skenario berikut bukan resep ukuran, melainkan cara mengurutkan pertanyaan. Tujuannya agar penawaran perangkat keras dapat dibandingkan berdasarkan kecocokan, bukan penampilan.
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+| Situasi yang diketahui | Yang perlu dicocokkan | Keputusan sementara |
+|---|---|---|
+| Pintu berputar pada satu sisi | Data hinge, tumpuan, arah bukaan, dan massa daun | Minta gambar sistem dan kapasitas; jangan menetapkan jumlah hinge dari kebiasaan |
+| Panel bertemu tiang atau panel lain | Clamp, gasket, celah, dan perlindungan tepi | Pastikan bidang jepit dan bantalan sesuai detail kaca |
+| Sambungan memakai sealant | Bahan dasar (substrat), pembersihan, primer, gerakan, pengerasan, dan pengendalian mutu | Minta persetujuan khusus produk serta catatan uji daya lekat bila dipersyaratkan |
+| Kaca memiliki lubang handle atau hinge | Pola lubang, jarak tepi, jenis kaca, dan gambar fabrikasi | Tahan pengeboran sampai gambar disetujui dan ditinjau kompeten |
 
-## Evidence gates
+Untuk langkah berikutnya, Anda dapat melihat [pilihan sistem cubicle](/cubicle) sebagai konteks ruang, lalu kembali ke gambar detail untuk mencocokkan hardware. Tautan itu bukan bukti bahwa konfigurasi tertentu pasti sesuai; keputusan akhir tetap berada pada data proyek.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+## Kesalahan umum saat memasang hardware dan cara memeriksanya
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kesalahan paling mahal biasanya terlihat sebagai jalan pintas kecil. Dengan menjadikannya pertanyaan pemeriksaan, Anda dapat menemukannya sebelum kaca dipasang.
 
-## Internal-link plan
+Mengganti hinge tanpa memeriksa massa dan tumpuan dapat membuat daun turun atau tidak menutup. Periksa lembar kapasitas, posisi tumpuan, dan hasil pemeriksaan kelurusan setelah pemasangan.
 
-### Existing local routes
+Mengencangkan clamp sekuat mungkin dapat memusatkan tegangan di tepi kaca. Periksa bantalan, torsi sesuai instruksi produsen, dan kondisi tepi; hentikan pekerjaan bila ada retak atau kerusakan.
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Menganggap sealant sebagai pengganti frame atau clamp mengabaikan daya lekat, gerakan, dan pengerasan. Pastikan detail sambungan, material kontak, metode pembersihan, serta catatan kontrol mutu tersedia. **[NEEDS GATE: peninjauan sambungan dan kecocokan material oleh pihak kompeten sebelum pemasangan.]**
 
-### Planned sibling articles
+Memilih kaca hanya berdasarkan label “safety glass” juga terlalu umum. Tanyakan apakah kebutuhan proyek berkaitan dengan perilaku pecah, retensi fragmen, atau fungsi lain, lalu minta standar dan bukti desain yang tepat. Jangan mengambil angka ketebalan atau kelas dampak dari ringkasan katalog.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Mengapa anggapan “semua perangkat keras bisa dipasangkan” berisiko?
 
-- `CUB-05-02` → `/artikel/memilih-bukaan-pintu-cubicle.html` — Memilih Pintu Swing, Sliding, atau Konfigurasi Lain
-- `CUB-05-03` → `/artikel/membandingkan-frame-cubicle-kaca.html` — Frame Aluminium, Stainless, dan Sistem Minim Frame
+Anggapan ini menarik karena daftar komponen tampak modular. Namun, engsel, penjepit, kaca, frame, dan sealant membentuk rantai gaya serta antarmuka material. Satu bagian yang tidak serasi dapat memindahkan masalah ke bagian lain: lubang tidak cocok, bantalan tertekan, pintu bergeser, atau sambungan kehilangan kendali gerak.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Alternatif yang lebih dapat ditelusuri adalah membuat satu lembar kecocokan: jenis bukaan, ukuran dan jenis kaca, detail tumpuan, daftar perangkat keras, data kapasitas, instruksi pemasangan, serta siapa yang menyetujui. Jika lembar itu belum lengkap, tandai **[NEEDS GATE: persetujuan desain dan data pabrikan sebelum pekerjaan berlanjut.]**
 
-## Jawaban singkat dan salah paham utama
+## Kesimpulan: baca hardware sebagai sistem, lalu verifikasi sebelum memesan
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Hardware Cubicle Kaca dan Fungsi Tiap Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Anatomi perangkat keras cubicle kaca terdiri dari jalur yang saling bergantung: pegangan memberi gaya, engsel memandu putaran, penjepit dan profil menyalurkan tumpuan, sementara gasket dan sealant mengendalikan antarmuka. Fungsinya baru dapat dinilai setelah ukuran, jenis kaca, beban, detail lubang, lingkungan, dan cara pemasangan dicocokkan.
 
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Hardware Cubicle Kaca dan Fungsi Tiap Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Hardware Cubicle Kaca dan Fungsi Tiap Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Hardware Cubicle Kaca dan Fungsi Tiap Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Hardware Cubicle Kaca dan Fungsi Tiap Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Hardware Cubicle Kaca dan Fungsi Tiap Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Kaca.co.id, langkah praktis Anda adalah meminta gambar sistem, lembar kapasitas, detail kaca, dan rencana inspeksi; kemudian minta peninjauan kompeten untuk kondisi proyek yang belum terjawab. Aturan kerjanya sederhana: jangan menganggap hardware universal, dan jangan mengubah detail tanpa bukti sistem yang sesuai.

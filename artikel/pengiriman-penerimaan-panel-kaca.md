@@ -2,8 +2,9 @@
 article_id: CUB-15-04
 title: "Kemasan, Pengiriman, dan Penerimaan Panel Kaca"
 slug: "pengiriman-penerimaan-panel-kaca"
-description: "Menyiapkan RFQ, membandingkan biaya, mengatur pengiriman, dan membaca garansi"
-status: outline
+description: "Panduan menyiapkan permintaan penawaran, membandingkan biaya logistik, mengatur pengiriman, dan memeriksa panel kaca saat diterima."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,217 +15,94 @@ reader_address: "Sobat Kaca.co.id"
 final_route: "/artikel/pengiriman-penerimaan-panel-kaca.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/294700"
-  - "https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014"
-  - "https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020"
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key="
-  - "https://pesta.bsn.go.id/produk/detail/13726-47562021"
-  - "https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011"
-  - "https://pesta.bsn.go.id/produk/detail/14858-sni92372023"
-  - "https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014"
+  - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
+  - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
   - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
   - "https://store.astm.org/c1172-24e01.html"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
-  - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Kemasan, Pengiriman, dan Penerimaan Panel Kaca
 
-## Assignment lock
+Halo, Sobat Kaca.co.id! Panel kaca bisa tiba dalam keadaan utuh tetapi tetap menyulitkan proyek bila identitas, jumlah, atau kondisi tepinya tidak pernah dicatat. Kesalahan yang sering terjadi adalah menganggap tanda tangan surat jalan sebagai bukti bahwa barang sudah diterima tanpa catatan. Padahal, keputusan menerima, menahan, atau menolak kiriman perlu didasarkan pada pemeriksaan yang disepakati sejak permintaan penawaran (RFQ).
 
-- **Writer task:** Expand this file into one complete article answering: “Kemasan, Pengiriman, dan Penerimaan Panel Kaca”
-- **Reader and situation:** Menyiapkan RFQ, membandingkan biaya, mengatur pengiriman, dan membaca garansi
-- **Reader outcome:** Menyiapkan RFQ, membandingkan biaya, mengatur pengiriman, dan membaca garansi
-- **Primary intent:** Merencanakan logistik serta inspeksi barang
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus serah barang; proteksi konstruksi dimiliki CUB-12.
-- **Final public route:** `/artikel/pengiriman-penerimaan-panel-kaca.html`
-- **Appointed CMS date:** `2026-06-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: minta penawaran yang memisahkan spesifikasi panel, cara kemasan, tanggung jawab angkut, titik serah, prosedur inspeksi, dan dokumen garansi. Saat tiba, cocokkan label dan jumlah, periksa kemasan sebelum dibuka, lalu dokumentasikan kondisi panel dan setiap ketidaksesuaian. Status produk kaca keselamatan tetap harus mengikuti dokumen produk dan standar yang berlaku; halaman BSN untuk SNI 9144-1:2022 dan SNI 9144-2:2022 dapat menjadi titik verifikasi identitas standar, bukan pengganti teks standar atau persetujuan proyek ([SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)).
 
-## Opening instructions
+![Ilustrasi produk cubicle toilet](/wp-content/uploads/2022/07/produk-cubicle-toilet.jpeg)
+Ilustrasi umum dari aset lokal Kaca.co.id; gambar ini bukan dokumentasi proyek tertentu.
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kemasan, Pengiriman, dan Penerimaan Panel Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Exact Markdown to insert:** `![Ilustrasi produk cubicle toilet](/wp-content/uploads/2022/07/produk-cubicle-toilet.jpeg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `produk cubicle toilet` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Selection basis:** filename/source metadata identifies the assigned local asset; no pixels were inspected.
+- **Hard boundary:** jangan mengarang detail visual, lokasi, orang, merek, kondisi, performa, atau hasil proyek.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Menentukan objek, kondisi, dan tahap serah barang
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum membahas peti atau truk, tentukan dulu apa yang sebenarnya diserahterimakan. Bagian ini mencegah panel, aksesori, dan dokumen tercampur dalam satu istilah “kaca”. Anda akan menyusun daftar yang dapat diperiksa sejak fabrikasi sampai lokasi.
 
-### KR-01
+Tuliskan pada RFQ: jenis produk, susunan atau olahan yang disetujui, ukuran menurut gambar, jumlah, lubang atau takikan yang harus sudah selesai, tepi yang dikerjakan, penandaan, serta tujuan pemasangan. Kaca yang dipotong atau dilubangi setelah proses perlakuan panas mungkin harus dibuat ulang; karena itu perubahan ukuran bukan pekerjaan lapangan biasa. Panduan NGA menjelaskan bahwa riwayat pemrosesan, tepi, kebersihan, penandaan, dan keterlacakan perlu masuk dalam catatan kebutuhan fabrikasi ([NGA, Heat-Treated Glass Surfaces](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Pisahkan tahap “siap dikirim”, “tiba di lokasi”, dan “diterima bersyarat”. Panel yang belum diperiksa bukan berarti rusak, tetapi juga belum layak dinyatakan sesuai. Minta pemasok menyebutkan siapa yang bertanggung jawab atas kemasan, pembongkaran, pemindahan internal, dan penyimpanan setelah titik serah.
 
-### KR-09
+## Menjelaskan mekanisme kerusakan selama kemasan dan pengiriman
 
-- **Original sources:** [Permenperin No. 12 Tahun 2024 — BPK](https://peraturan.bpk.go.id/Details/294700), [SNI ISO 20492-1:2014 edge-seal climate durability — BSN](https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014), [SNI ISO 20492-2:2014 fogging test — BSN](https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020), [BSN listing for Parts 1–4](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key=)
-- **Purpose for this article:** Ground double/insulating-glass, internal fogging, gas, edge seal, procurement, and replacement articles in Indonesian requirements.
-- **Safe grounded facts:** An insulating glass unit is a fabricated sealed product, not simply two independent panes. Internal fogging, gas retention, seal durability, edge construction, glazing compatibility, and structural-glazing suitability are distinct issues.
-- **Limits:** Verify the regulation's exact product scope, exceptions, certification route, and transition provisions from the full text before stating that a particular unit must bear a specific mark.
+Kemasan bukan sekadar pembungkus; ia mengendalikan kontak antarpanel, gerakan, air, dan benturan selama perjalanan. Memahami mekanismenya membantu Anda membandingkan penawaran yang tampak murah tetapi memindahkan risiko ke proyek.
 
-### KR-22
+Minta penjelasan tertulis tentang penyangga, pemisah antarpanel, pelindung sudut dan tepi, arah tegak, pengikatan, serta perlindungan dari hujan. Jangan menebak bahan atau jarak penyangga karena rincian itu bergantung pada produk dan petunjuk pembuat. Yang perlu dibandingkan adalah apakah metode tersebut menjaga panel tetap terpisah, tidak menerima beban titik, dan dapat diperiksa tanpa merusak barang.
 
-- **Purpose for this article:** Turn research into auditable RFQ, submittal, installation, inspection, and handover inputs rather than descriptive prose only.
-- **Safe grounded facts:** Durable quality depends on preserving product identity and condition from fabrication through handover. Labels, delivery inspection, storage orientation/support, edge protection, setting materials, cleaning, photographs, nonconformance records, test reports, and as-built information are evidence.
-- **Limits:** It is an industry manual, not a project specification or Indonesian law. Manufacturer instructions and project documents take precedence where more specific. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `CUB-01` | KR-01, KR-19, KR-03, KR-10, KR-06, KR-12, KR-13 | Dasar sistem cubicle dan partisi kaca; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-02` | KR-01, KR-09, KR-22, KR-08, KR-03, KR-06, KR-12 | Brief dan pemilihan sistem; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-03` | KR-01, KR-10, KR-13, KR-17, KR-11, KR-06, KR-12 | Jenis, ketebalan, dan olahan kaca; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-04` | KR-01, KR-08, KR-10, KR-21, KR-05, KR-13, KR-03 | Privasi, cahaya, dan pengalaman ruang; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-05` | KR-01, KR-03, KR-10, KR-19, KR-06, KR-12, KR-14 | Hardware, frame, dan konektor; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-06` | KR-01, KR-02, KR-12, KR-14, KR-05, KR-06, KR-07 | Dukungan, beban, dan koordinasi struktur; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-07` | KR-01, KR-06, KR-17, KR-08, KR-12, KR-13, KR-16 | Pecah, keselamatan, dan respons insiden; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-08` | KR-01, KR-03, KR-19, KR-10, KR-06, KR-12, KR-13 | Cubicle dan partisi kantor; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-09` | KR-01, KR-16, KR-21, KR-04, KR-12, KR-14, KR-17 | Cubicle toilet dan area basah; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-10` | KR-01, KR-03, KR-06, KR-12, KR-13, KR-14, KR-16 | Aksesibilitas dan penggunaan inklusif; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-11` | KR-01, KR-03, KR-06, KR-12, KR-13, KR-14, KR-16 | Survei, dimensi, dan toleransi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-12` | KR-01, KR-04, KR-15, KR-22, KR-03, KR-02, KR-05 | Pemasangan dan antarmuka bangunan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-13` | KR-01, KR-06, KR-08, KR-14, KR-16, KR-04, KR-17 | Pembersihan, inspeksi, dan pemeliharaan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-14` | KR-01, KR-05, KR-10, KR-13, KR-08, KR-03, KR-06 | Desain custom, sampel, dan persetujuan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-15` | KR-01, KR-09, KR-22, KR-08, KR-13, KR-03, KR-06 | Pengadaan, harga, logistik, dan garansi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-16` | KR-01, KR-09, KR-02, KR-05, KR-03, KR-22, KR-04 | Standar, sertifikasi, QA, dan dokumentasi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank These are reusable propositions supported by the register. Writers should still cite the underlying source. 1. Glass product type, processed makeup, and installed-system performance are three different layers. 2. Tempered, heat-strengthened, and laminated glass solve different pre-breakage and post-breakage questions. 3. “Laminated,” “tempered,” “double,” “smart,” “fire-rated,” and “security” are not complete specifications. 4. Center-of-glass performance cannot automatically be claimed for the complete window, partition, door, or façade. 5. Thickness cannot be selected safely from application name alone. 6. Holes, notches, edges, dimensions, coatings, and decoration must be coordinated before heat treatment where applicable. 7. Sealant suitability requires joint design plus substrate adhesion and material compatibility evidence. 8. Internal IGU fogging and external surface condensation are different symptoms. 9. Cleaning method depends on glass, coating, film, interlayer edge, contaminants, and manufacturer guidance. 10. Heat-soak testing reduces a specific tempered-glass breakage risk; it does not guarantee zero breakage. 11. Skylights and sloped glazing are not walking surfaces unless specifically engineered as such. 12. Fire, ballistic, blast, forced-entry, impact safety, acoustic, privacy, and solar-control claims each need their own evidence. 13. A test result belongs to the tested method, specimen, configuration, conditions, and acceptance basis. 14. Procurement quality improves when evidence, inclusions, exclusions, interfaces, samples, QC, and handover documents are made comparable. 15. Current legal and standards status must be rechecked; changes discovered in 2026 show why old article memory is unsafe. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `GATE-01` Licensed SNI text | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Obtain/read the applicable current SNI before exact requirements, tolerances, classes, or tests enter an outline | | `GATE-02` Indonesian application rules | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Identify applicable national/local building, fire, accessibility, and project rules for the actual application | | `GATE-03` Structural design | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Qualified engineer verifies loads, support, makeup, deflection, post-breakage consequences, and interfaces | | `GATE-04` Product/system reports | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Obtain current datasheets, test reports, certification/listing, limitations, and exact configuration | | `GATE-05` Manufacturer compatibility | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Written adhesion/compatibility, cleaning, processing, and installation guidance for selected materials | | `GATE-06` Site facts | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Survey dimensions, exposure, substrate/frame condition, access, drainage, existing defects, and user risk | | `GATE-07` HSE/legal consolidation | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Review current Permenaker provisions including the 2026 amendment; approve task-specific safe method | | `GATE-08` Specialist threat/rating definition | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Define fire/security/ballistic/blast/privacy/smart-glass objective and governing evidence before selection | ## Source-refresh triggers Recheck a record immediately when any of these occurs: - BSN confirms, revises, replaces, or withdraws a listed SNI. - A ministry regulation is amended, partially revoked, or replaced. - ISO/ASTM/UL publishes a new edition used by the article. - A manufacturer changes formulation, substrate approval, warranty, or installation guidance. - An article introduces a number, rating, test class, compliance statement, service-life claim, price, or safety procedure. - The real project configuration falls outside the public source's stated scope. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+Periksa juga efek perubahan jadwal. Kemasan yang aman saat berangkat dapat menjadi masalah bila dibongkar lalu dibiarkan di area terbuka. Kondisi penyimpanan, alas, orientasi, dan akses angkat harus ditetapkan dalam RFQ dan disesuaikan dengan instruksi manufaktur. [NEEDS GATE-04: datasheet dan instruksi kemasan/penyimpanan produk terpilih belum tersedia.]
 
-### KR-08
+Untuk kaca yang diberi perlakuan panas, penampilan permukaan, riwayat proses, dan kemungkinan variasi optik merupakan bagian dari pembicaraan penerimaan, bukan alasan untuk mengubah panel di lokasi. Referensi ASTM C1036, C1048, dan C1172 membantu mengidentifikasi cakupan spesifikasi kaca datar, kaca yang diberi perlakuan panas, dan kaca laminasi; halaman publiknya tidak menggantikan dokumen berlisensi atau kriteria proyek ([ASTM C1036-25](https://store.astm.org/c1036-25.html), [ASTM C1048-25](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1](https://store.astm.org/c1172-24e01.html)).
 
-- **Original sources:** [SNI 4756:2021 aluminium-coated sheet mirror — BSN](https://pesta.bsn.go.id/produk/detail/13726-47562021), [SNI ISO 25537:2011 silver-coated mirror — BSN](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011), [SNI 9237:2023 coated glass — BSN](https://pesta.bsn.go.id/produk/detail/14858-sni92372023), [SNI ISO 11479-1:2014 physical defects — BSN](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014)
-- **Purpose for this article:** Ground mirror, coated-glass, façade color, inspection, defect, and procurement content.
-- **Safe grounded facts:** A generic “mirror” or “coated glass” label omits backing/coating system, exposed surface, edge protection, visual criteria, and compatibility concerns. Aesthetic acceptance and functional performance are separate.
-- **Limits:** Full standards and manufacturer documents are required for viewing conditions, defect limits, processing restrictions, and cleaning compatibility.
+## Membuat inspeksi penerimaan dan data yang perlu dicatat
 
-### KR-13
+Pemeriksaan yang baik dimulai sebelum peti dibuka. Cara ini penting karena kerusakan kemasan, label yang hilang, dan jumlah yang tidak cocok sering menjadi bukti paling jelas untuk menelusuri kejadian.
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+Gunakan urutan berikut sebagai lembar penerimaan:
 
-### KR-03
+1. Catat tanggal, kendaraan, nomor surat jalan, nama pengirim, dan kondisi kemasan saat tiba.
+2. Foto setiap sisi kemasan, label panel, segel, dan bagian yang tampak penyok, basah, atau terbuka.
+3. Cocokkan kode panel, ukuran pada label, jumlah, aksesori, dan gambar revisi yang dirujuk RFQ.
+4. Buka kemasan dengan cara yang tidak menambah risiko, lalu amati permukaan, sudut, tepi, dan tanda benturan.
+5. Catat temuan per panel—bukan hanya “satu peti bermasalah”—dan beri status diterima, diterima bersyarat, atau ditahan.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Sobat Kaca.co.id, jangan menghapus label ketika membersihkan panel. Label dan foto menjadi penghubung antara barang, dokumen fabrikasi, dan klaim. Jika ada retak, pecah, gores yang dipersoalkan, atau ketidaksesuaian ukuran, hentikan pemindahan panel tersebut dan minta keputusan tertulis dari pihak yang berwenang. Jangan menyatakan sebab kerusakan sebelum bukti cukup.
 
-### KR-06
+## Memilih tindakan: terima, tahan, perbaiki, atau ganti
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Setelah data terkumpul, keputusan harus mengikuti konsekuensi dan kewenangan, bukan tekanan jadwal. Bagian ini membedakan tindakan administratif dari tindakan teknis sehingga panel bermasalah tidak terpasang hanya karena truk berikutnya sudah menunggu.
 
-## Evidence gates
+Terima tanpa catatan hanya bila identitas, jumlah, kemasan, dan pemeriksaan visual sesuai dokumen penerimaan. Terima bersyarat bila ada hal yang masih menunggu dokumen atau pemeriksaan lanjutan, dengan batas waktu dan penanggung jawab yang jelas. Tahan bila identitas tidak cocok, kemasan menunjukkan kejadian yang belum dipahami, atau panel memiliki kerusakan yang dapat memengaruhi keselamatan dan pemasangan.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Perbaikan lapangan tidak boleh diasumsikan sebagai pilihan untuk kaca yang salah ukuran, salah olahan, atau rusak. Minta pemasok menilai apakah panel harus dibuat ulang, diganti, atau hanya dilengkapi dokumen. Kesesuaian “kaca keselamatan” juga harus dinilai terhadap aplikasi dan konfigurasi lengkap; produk yang lebih kuat sebelum pecah tidak otomatis mempertahankan pecahan atau memikul beban setelah pecah ([SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Menentukan prioritas dan membandingkan biaya logistik
 
-## Internal-link plan
+Harga angkut paling rendah belum tentu biaya total paling rendah. Perbandingan ini membantu Anda melihat biaya yang muncul ketika kemasan, pembongkaran, inspeksi, dan risiko kerusakan tidak ditulis terpisah.
 
-### Existing local routes
+Bandingkan RFQ dengan tabel sederhana: harga panel; jenis dan jumlah kemasan; pengangkutan sampai titik serah; alat bongkar; tenaga pemindahan internal; waktu tunggu; asuransi bila disepakati; penanganan barang tidak sesuai; serta dokumen yang disertakan. Jangan mengisi angka yang belum diberikan. Minta setiap penawar menandai inklusi dan pengecualian agar perbandingan tidak menukar layanan yang berbeda.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Prioritaskan barang yang berdampak pada jalur kerja atau keselamatan, tetapi jangan mengorbankan pemeriksaan. Kawan Kaca.co.id, lebih baik menahan satu panel dengan identitas meragukan daripada memasangnya lalu kehilangan jejak ketika masalah muncul. Keputusan akhir untuk dimensi, dukungan, dan antarmuka tetap memerlukan pemeriksaan profesional serta fakta lokasi ([NEEDS GATE-03 dan GATE-06]).
 
-### Planned sibling articles
+## Menyusun rekaman, serah terima, dan pemicu pemeriksaan ulang
 
-These are future routes. Do not link them as live until their HTML exists.
+Serah terima belum lengkap jika yang berpindah hanya panel. Rekaman yang rapi memberi pemilik dan peninjau berikutnya dasar untuk membedakan cacat awal, kerusakan pengiriman, dan perubahan setelah pemasangan.
 
-- `CUB-15-02` → `/artikel/komponen-harga-cubicle-kaca.html` — Komponen Harga Cubicle Kaca yang Perlu Dibandingkan
-- `CUB-15-03` → `/artikel/membandingkan-penawaran-partisi-kaca.html` — Cara Membandingkan Penawaran Partisi Kaca
-- `CUB-15-05` → `/artikel/spare-part-hardware-cubicle.html` — Spare Part dan Rencana Pengadaan Hardware Cubicle
-- `CUB-15-06` → `/artikel/membaca-garansi-cubicle-kaca.html` — Cara Membaca Garansi Cubicle dan Partisi Kaca
+Kumpulkan RFQ dan penawaran terpilih, gambar atau daftar panel, surat jalan, foto sebelum dan sesudah membuka kemasan, lembar inspeksi, daftar ketidaksesuaian, keputusan pemasok, serta dokumen produk dan garansi. Tulis dengan jelas apa yang dijamin, masa berlaku menurut dokumen pemasok, pengecualian, cara mengajukan klaim, dan bukti yang diminta. Jangan mengubah garansi menjadi janji performa yang tidak tertulis. Untuk konteks langkah berikutnya, Anda dapat melihat [halaman utama Kaca.co.id](/) dan kembali ke dokumen proyek yang sedang diperiksa.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Tetapkan pemicu pemeriksaan ulang: kemasan dibuka lebih lama dari rencana, panel dipindahkan ke lokasi lain, ditemukan label yang tidak cocok, terjadi benturan, atau dokumen produk berubah. Bila salah satu pemicu terjadi, ulangi pencatatan kondisi sebelum pekerjaan berlanjut.
 
-## Tentukan objek, kondisi, dan tahap siklus hidup
+## Jalan pintas yang sering gagal saat menerima panel kaca
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Kemasan, Pengiriman, dan Penerimaan Panel Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang paling menggoda adalah menandatangani surat jalan dengan catatan “baik” lalu memeriksa panel beberapa hari kemudian. Cara ini memutus hubungan waktu antara kondisi kemasan dan kondisi barang. Saat masalah ditemukan, pihak-pihak dapat berbeda pendapat tentang kapan kerusakan terjadi.
 
-## Mekanisme perubahan atau penurunan kinerja
+Alternatif yang lebih aman adalah tanda tangan bersyarat sesuai prosedur proyek, foto berurutan, daftar panel yang diperiksa, dan eskalasi tertulis untuk temuan terbuka. Jika prosedur kontrak belum jelas, [NEEDS TECHNICAL REVIEW] harus diselesaikan sebelum pengiriman berikutnya.
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Kemasan, Pengiriman, dan Penerimaan Panel Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: ubah pengiriman menjadi keputusan yang dapat diaudit
 
-## Inspeksi dan data yang perlu dicatat
+Kemasan, pengiriman, dan penerimaan panel kaca sebaiknya diperlakukan sebagai satu alur: tetapkan identitas dan tanggung jawab di RFQ, minta mekanisme kemasan serta titik serah yang jelas, periksa label dan kondisi sebelum menerima, lalu simpan bukti dan keputusan. Teman Kaca.co.id, langkah berikutnya adalah membuat lembar penerimaan untuk proyek Anda dan meminta pemasok mengisi bagian kemasan, penyimpanan, dokumen produk, dan garansi sebelum harga dibandingkan.
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Kemasan, Pengiriman, dan Penerimaan Panel Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan perawatan atau intervensi
-
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Kemasan, Pengiriman, dan Penerimaan Panel Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara menentukan prioritas
-
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kemasan, Pengiriman, dan Penerimaan Panel Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Rekaman, handover, dan pemicu pemeriksaan ulang
-
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Kemasan, Pengiriman, dan Penerimaan Panel Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jangan menutup kekosongan data dengan asumsi. Dimensi, metode angkat, kecocokan material, dan keputusan keselamatan harus ditinjau berdasarkan dokumen proyek, petunjuk manufaktur, fakta lokasi, dan kompetensi yang sesuai.

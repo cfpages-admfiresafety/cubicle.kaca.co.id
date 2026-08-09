@@ -2,8 +2,9 @@
 article_id: CUB-09-06
 title: "Uji Operasi Cubicle Toilet sebelum Dibuka"
 slug: "uji-operasi-cubicle-toilet"
-description: "Merencanakan privasi, celah, hardware, air, ventilasi, dan pembersihan toilet"
-status: outline
+description: "Panduan pemeriksaan pintu, kunci, celah, air, ventilasi, dan kebersihan cubicle toilet sebelum dibuka."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,218 +17,92 @@ technical_review: required
 sources:
   - "https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://www.glass.org/architect"
-  - "https://www.iso.org/standard/75536.html"
   - "https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf"
-  - "https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN"
-  - "https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?jenis=105&p=1"
-  - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
-  - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Uji Operasi Cubicle Toilet sebelum Dibuka
 
-## Assignment lock
+Halo, Kawan Kaca.co.id! Cubicle yang tampak rapi belum otomatis siap dipakai. Sebelum area toilet dibuka, periksa apakah pintu bergerak normal, kunci benar-benar menahan, celah menjaga privasi, dan area siap menerima air serta pembersihan.
 
-- **Writer task:** Expand this file into one complete article answering: “Uji Operasi Cubicle Toilet sebelum Dibuka”
-- **Reader and situation:** Merencanakan privasi, celah, hardware, air, ventilasi, dan pembersihan toilet
-- **Reader outcome:** Merencanakan privasi, celah, hardware, air, ventilasi, dan pembersihan toilet
-- **Primary intent:** Memeriksa pintu, lock, celah, dan kondisi akhir
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Acceptance lokal; bukan sertifikasi fasilitas toilet.
-- **Final public route:** `/artikel/uji-operasi-cubicle-toilet.html`
-- **Appointed CMS date:** `2026-02-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: lakukan uji berurutan, catat setiap temuan, lalu tahan pembukaan bila fungsi dasar belum konsisten. Ini penerimaan lokal terhadap pemasangan, bukan sertifikasi fasilitas toilet. Gambar kerja, instruksi produsen, dan review penanggung jawab proyek tetap dapat mengubah keputusan.
 
-## Opening instructions
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-004; sumber lokal; penempatan setelah pembuka.
+**Exact Markdown to insert:** `![Ilustrasi glass cubicle](/wp-content/uploads/2022/07/glass-cubicle.jpg)`
+Caption: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+END MANAGED IMAGE PLAN -->
+![Ilustrasi glass cubicle](/wp-content/uploads/2022/07/glass-cubicle.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Uji Operasi Cubicle Toilet sebelum Dibuka**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
 
+## Apa yang diuji sebelum cubicle toilet dibuka?
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+Mulailah dengan batas pemeriksaan agar tim tidak hanya mengejar tampilan rapi. Uji operasi memeriksa hubungan antarbagian saat dipakai, bukan sekadar tampilan. Periksa pintu, engsel, kunci, panel, celah, lantai, sambungan, dan akses pembersihan sebagai satu rangkaian agar noda kecil tidak disamakan dengan kegagalan fungsi.
 
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi glass cubicle](/wp-content/uploads/2022/07/glass-cubicle.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `glass cubicle` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Privasi berasal dari posisi panel, celah pandang, dan perilaku pintu tertutup; jangan menyimpulkannya dari warna kaca. Bila memakai kaca yang dapat berubah tampilan, mekanisme, keadaan saat daya padam, kendali, dan ketahanannya bersifat khusus produk ([NGA dynamic glazing](https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf)).
 
-## Evidence packet
+## Batas penerimaan lokal dan dokumen pendukung
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum menguji, sepakati dulu apa yang boleh dinyatakan “siap”. Penerimaan lokal menjawab apakah rakitan bekerja sesuai dokumen proyek hari ini. Ia bukan pengganti sertifikasi atau persetujuan bangunan. Kumpulkan gambar terpasang, daftar hardware, instruksi pembersihan, dan catatan perubahan lapangan; tandai data yang belum ada sebagai `[NEEDS PROJECT EVIDENCE]`.
 
-### KR-01
+Metode pembersihan harus mengikuti tipe kaca, lapisan, film, sealant, dan hardware. Pembersihan yang salah dapat menggores, menodai, atau merusak lapisan dan tepi laminasi; frekuensi mengikuti paparan lokasi, bukan kalender universal ([NGA cleaning guidance](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+## Urutan pemeriksaan pintu, kunci, celah, dan panel
 
-### KR-16
+Urutan membantu penguji menemukan penyebab sebelum menyimpulkan ada cacat. Mulai dari kondisi aman, lalu lakukan buka-tutup dengan tenaga normal. Amati apakah daun pintu bergerak tanpa menyeret lantai, berhenti pada posisi yang dirancang, dan kembali tanpa membentur panel.
 
-- **Original sources:** [NGA Proper Procedures for Cleaning Architectural Glass Products (2023)](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf), [NGA Heat-Treated Glass Surfaces Are Different (2023)](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf), [NGA glass technical resources](https://www.glass.org/architect)
-- **Purpose for this article:** Ground maintenance and defect-prevention content without universal chemical recipes.
-- **Safe grounded facts:** Incorrect cleaning can permanently scratch, stain, remove/damage a coating, or harm laminated edges. Cleaning frequency should respond to site exposure rather than a universal calendar.
-- **Limits:** Do not publish a chemical as universally safe. Confirm the exact glass, coating, film, interlayer edge, sealants, hardware, and manufacturer instructions.
+“Lock” adalah mekanisme yang menahan pintu tertutup. Periksa kait masuk penuh, indikator terbaca, dan pelepasan darurat sesuai dokumen; jangan membuat ambang gaya atau ukuran baru tanpa data proyek.
 
-### KR-21
+Periksa celah di sisi engsel, sisi kunci, bawah pintu, dan pertemuan panel. Catat kondisi saat celah terlihat karena posisi pintu memengaruhinya. Jika privasi dipersoalkan, minta kriteria penerimaan tertulis, bukan kesimpulan “pasti privat” dari pengamatan singkat.
 
-- **Original sources:** [ISO 18543:2021 electrochromic glazing](https://www.iso.org/standard/75536.html), [NGA Dynamic Glazing for High Performance Buildings](https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf), [NGA Decorative Glass handling/cleaning record (2025)](https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN), [NGA decorative durability guidance](https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf)
-- **Purpose for this article:** Distinguish privacy switching, solar/visible modulation, decorative appearance, and durability.
-- **Safe grounded facts:** “Smart glass” is not one mechanism. Power-off state, switching method, optical state range, controls, wiring, heat, edge seals, UV/moisture exposure, cycle/ageing evidence, replacement, and cleaning can all matter.
-- **Limits:** Manufacturer claims are product-specific. Do not infer energy savings, sound/privacy performance, service life, or safety class from the technology name.
+## Air, ventilasi, dan kesiapan pembersihan
 
-### KR-04
+Bagian ini menjawab kesiapan ruang setelah fungsi pintu dinyatakan normal. Lingkungan basah mengubah cara uji dilakukan. Pastikan air tidak diarahkan ke sambungan yang tidak dirancang menerimanya dan lantai dapat dibersihkan tanpa operator memegang panel secara berisiko.
 
-- **Original sources:** [Permenaker No. 9 Tahun 2016 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), [Permenaker No. 11 Tahun 2026 status and amendment record — BPK](https://peraturan.bpk.go.id/Search?jenis=105&p=1)
-- **Purpose for this article:** Ground installation, façade access, cleaning, inspection, and replacement articles in current Indonesian worker-safety context.
-- **Safe grounded facts:** A writer must not rely on an old copy of the 2016 rule alone. Work-at-height content needs a current consolidated legal check, competent planning, safe access, and task-specific controls.
-- **Limits:** This research does not interpret the amended clauses or create a method statement. Legal/HSE review is required before prescriptive publication.
+Ventilasi dan pengeringan memengaruhi kesiapan penggunaan, tetapi artikel ini tidak menetapkan kapasitas kipas atau waktu kering. Minta bukti sistem mekanikal proyek dan tandai area yang tetap lembap. Untuk kaca heat-treated, permukaan dan cara perawatannya dapat berbeda dari kaca biasa ([NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)).
 
-### KR-12
+## Faktor yang mengubah hasil uji operasi
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Lantai yang belum pada elevasi akhir, hardware yang belum disetel, atau perubahan aksesori dapat mengubah gerak pintu dan celah. Pisahkan temuan fungsi gagal dari kondisi proyek belum siap karena tindakannya berbeda.
 
-### KR-14
+Simulasikan pemakaian yang diizinkan: beberapa pintu berdekatan, lantai basah, atau petugas membawa alat kebersihan. Jangan memaksa komponen. Bila bahan atau sealant berubah, minta konfirmasi kompatibilitas tertulis; nama bahan saja tidak membuktikan kecocokan.
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+Perhatikan juga urutan pekerjaan di sekitar cubicle. Pengecatan, pemasangan aksesori, atau pembersihan akhir dapat menyentuh panel setelah uji pertama. Tetapkan siapa yang memeriksa ulang dan kapan, lalu bandingkan kondisi sebelum dan sesudah pekerjaan tersebut. Catatan ini membantu membedakan kerusakan saat pemasangan dari perubahan setelah area dinyatakan siap.
 
-### KR-17
+Jika pintu memakai penahan, stopper, atau engsel dengan arah tertentu, pastikan komponen itu sesuai daftar hardware. Jangan menukar komponen hanya karena bentuknya serupa. Perbedaan kecil pada posisi atau bahan dapat mengubah ayunan pintu, bunyi benturan, dan kemampuan kunci menutup. Bila identitas komponen tidak jelas, hentikan keputusan dan minta konfirmasi pemasok atau penanggung jawab desain.
 
-- **Purpose for this article:** Give tempered-glass breakage articles a defensible distinction between risk reduction, diagnosis, and guarantees.
-- **Safe grounded facts:** A broken pane cannot be confidently diagnosed as nickel-sulfide inclusion from a casual photo or from “spontaneous” timing alone. Heat soaking does not create a zero-breakage guarantee.
-- **Limits:** Do not state a universal incidence rate or claim certainty without laboratory/forensic evidence and the relevant fabrication/testing records.
+Simpan pula foto atau sketsa posisi temuan bila aturan proyek mengizinkan. Dokumentasi bukan pengganti pengukuran atau persetujuan, tetapi membantu penguji berikutnya menemukan lokasi yang sama. Hindari memotret orang yang sedang menggunakan toilet dan ikuti aturan privasi lokasi.
 
-## Evidence gates
+## Contoh keputusan praktis berdasarkan temuan
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+| Temuan | Keputusan |
+|---|---|
+| Pintu, kunci, dan celah konsisten; dokumen lengkap | Ajukan penerimaan lokal untuk ditinjau. |
+| Kait tidak selalu masuk | Tahan pembukaan dan periksa penyetelan hardware. |
+| Celah mengganggu privasi | Minta kriteria tertulis dan perbaikan terukur. |
+| Bahan pembersih belum terverifikasi | Jangan menetapkan cairan; konfirmasi produsen. |
+| Ventilasi atau pengeringan belum terbukti | Tandai `[NEEDS PROJECT EVIDENCE]`. |
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Untuk konteks jenis produk, lihat [informasi cubicle toilet](/cubicle/toilet); halaman itu bukan bukti penerimaan pemasangan proyek Anda.
 
-## Internal-link plan
-
-### Existing local routes
-
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-09-04` → `/artikel/bukti-wet-area-cubicle-kaca.html` — Cubicle Kaca di Area Basah: Bukti Kesesuaian Sistem
-- `CUB-09-05` → `/artikel/ventilasi-pengeringan-cubicle-toilet.html` — Ventilasi dan Pengeringan di Sekitar Cubicle Toilet
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Uji Operasi Cubicle Toilet sebelum Dibuka”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Uji Operasi Cubicle Toilet sebelum Dibuka”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Uji Operasi Cubicle Toilet sebelum Dibuka”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Uji Operasi Cubicle Toilet sebelum Dibuka”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Uji Operasi Cubicle Toilet sebelum Dibuka”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Catat juga waktu pengujian, kondisi lantai, dan siapa yang hadir. Bila unit diuji setelah pekerjaan lain selesai, bandingkan catatan sebelum dan sesudahnya agar perubahan dapat ditelusuri dan tidak dianggap sebagai cacat awal.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Uji Operasi Cubicle Toilet sebelum Dibuka”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Menguji sekali saja menyembunyikan pola. Lakukan beberapa siklus wajar dan catat hasilnya. Jangan mengubah hardware di tempat tanpa persetujuan karena perubahan kecil dapat memindahkan posisi pintu dan celah.
 
-## Objection or shortcut to address
+Jangan memakai cairan yang kebetulan tersedia. Sobat Kaca.co.id, cocokkan material dan petunjuk resminya sebelum pembersihan. Jangan pula menganggap inspeksi sebagai jaminan bebas pecah atau bebas cacat; diagnosis kerusakan kaca memerlukan bukti yang sesuai, bukan foto kasual.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan lain adalah menghapus temuan setelah perbaikan tanpa menyimpan kondisi awal. Pertahankan nomor temuan, tanggal, dan bukti penutupan agar orang berikutnya mengetahui apa yang pernah berubah. Untuk setiap unit, jawab tiga pertanyaan: apa yang diuji, apa hasilnya, dan siapa yang menyetujui. Jika salah satu jawaban kosong, statusnya belum siap ditutup.
 
-## Required conclusion
+Jangan menutupi celah dengan sealant tambahan sebagai solusi cepat. Sealant memerlukan kecocokan bahan, persiapan permukaan, geometri sambungan, waktu pemeraman, dan pemeriksaan mutu. Produk bernama sama pun tidak otomatis cocok untuk semua substrat. Perubahan seperti ini harus masuk daftar koreksi dan ditinjau sesuai tanggung jawab desain.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Mengapa “sudah rapi” bukan alasan membuka area?
 
-## Draft completion checklist
+Tampilan mengabaikan masalah yang baru muncul saat pintu dipakai berulang, kunci menerima posisi nyata, atau air mengenai sambungan. Buat lembar uji per unit berisi identitas cubicle, tanggal, penguji, kondisi, temuan, tindakan koreksi, dan tanda review. Itu lebih mudah ditelusuri daripada ingatan lisan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Langkah akhir sebelum meminta pembukaan
+
+Uji operasi berarti memastikan pintu, kunci, celah, panel, air, ventilasi, dan pembersihan telah diperiksa terhadap dokumen proyek, lalu menahan bagian yang buktinya belum lengkap. Teman Kaca.co.id, serahkan lembar uji dan daftar `[NEEDS PROJECT EVIDENCE]` kepada penanggung jawab untuk keputusan tertulis.
+
+Aturan kerjanya: jangan membuka berdasarkan tampilan saja. Buka setelah fungsi konsisten, instruksi material tersedia, dan review teknis menyatakan batas penerimaan lokal terpenuhi. Technical review tetap diperlukan.

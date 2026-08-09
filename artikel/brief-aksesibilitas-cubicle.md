@@ -2,8 +2,9 @@
 article_id: CUB-10-01
 title: "Brief Aksesibilitas untuk Cubicle dan Partisi Kaca"
 slug: "brief-aksesibilitas-cubicle"
-description: "Mengidentifikasi kebutuhan ruang gerak, pintu, hardware, dan koordinasi fasilitas"
-status: outline
+description: "Panduan ringkas untuk mengumpulkan kebutuhan ruang gerak, pintu, perangkat keras, dan koordinasi fasilitas agar cubicle serta partisi kaca mudah digunakan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,218 +17,97 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
-  - "https://store.astm.org/c1036-25.html"
-  - "https://store.astm.org/c1048-25.html"
-  - "https://store.astm.org/c1172-24e01.html"
-  - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
   - "https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf"
-  - "https://www.glass.org/architect"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Brief Aksesibilitas untuk Cubicle dan Partisi Kaca
 
-## Assignment lock
+Halo, Teman Kaca.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Brief Aksesibilitas untuk Cubicle dan Partisi Kaca”
-- **Reader and situation:** Mengidentifikasi kebutuhan ruang gerak, pintu, hardware, dan koordinasi fasilitas
-- **Reader outcome:** Mengidentifikasi kebutuhan ruang gerak, pintu, hardware, dan koordinasi fasilitas
-- **Primary intent:** Mengumpulkan kebutuhan pengguna inklusif
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Gerbang desain; bukan deklarasi kepatuhan.
-- **Final public route:** `/artikel/brief-aksesibilitas-cubicle.html`
-- **Appointed CMS date:** `2026-02-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Ketika cubicle atau partisi kaca terasa “sudah rapi”, kebutuhan pengguna yang sulit menjangkau pintu, berputar, melihat daun pintu, atau mengoperasikan kunci sering belum tercatat. Kesalahan yang umum adalah menganggap aksesibilitas selesai setelah memilih kaca pengaman. Padahal, aksesibilitas menyangkut hubungan ruang, bukaan, perangkat keras, dan cara fasilitas dikelola.
 
-## Opening instructions
+Jawaban singkatnya: buat brief (ringkasan kebutuhan) yang mencatat siapa pengguna ruangnya, bagaimana mereka mendekati dan melewati pintu, perangkat apa yang harus dioperasikan, serta siapa yang memeriksa hasilnya. Kaca hanya salah satu bagian. Jenis kaca tetap perlu dipilih sesuai penerapan dan konteks sistem; halaman BSN untuk kaca pengaman berlaminasi dan kaca pengaman dikeraskan membantu memeriksa identitas rujukan produk, bukan menggantikan penilaian desain proyek ([SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)).
 
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Brief Aksesibilitas untuk Cubicle dan Partisi Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ringkasan kebutuhan ini adalah gerbang desain, bukan pernyataan bahwa proyek telah memenuhi ketentuan. Dimensi aktual, aturan bangunan yang berlaku, dan kondisi pengguna harus dikonfirmasi melalui gambar, pengukuran lapangan, serta peninjauan pihak kompeten.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi cubicle partisi kaca](/wp-content/uploads/2022/07/cubicle-partisi-kaca.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `cubicle partisi kaca` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies cubicle partisi kaca as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi cubicle partisi kaca](/wp-content/uploads/2022/07/cubicle-partisi-kaca.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
 
-### KR-01
+## Apa yang dimaksud ringkasan aksesibilitas untuk cubicle dan partisi kaca?
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Istilah “brief aksesibilitas” berarti lembar keputusan awal yang menerjemahkan kebutuhan penggunaan menjadi masukan desain. Ini bukan sertifikat dan bukan daftar ukuran yang bisa disalin ke semua lokasi. Dengan batas ini, tim dapat membedakan kebutuhan pengguna dari keputusan material.
 
-### KR-03
+Mulailah dari skenario: siapa yang masuk, dari arah mana, dengan alat bantu apa, dan aktivitas apa yang dilakukan di dalam cubicle. Catat pula pengguna yang membawa barang, membutuhkan privasi visual, atau memerlukan bantuan petugas. Pertanyaan tersebut mengubah fokus dari “kaca apa?” menjadi “alur penggunaan mana yang harus berjalan?”
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Ruang gerak, pendekatan ke pintu, arah bukaan, ambang, visibilitas, pegangan, kunci, dan area tunggu dicatat sebagai satu rangkaian. Partisi, lantai, plafon, dinding, pencahayaan, alarm, dan jalur evakuasi bisa memengaruhi keputusan yang sama. Jangan menyatakan patuh sebelum aturan setempat dan gambar terkoordinasi diperiksa.
 
-### KR-06
+## Bagaimana menyusun alur akses dari pendekatan sampai keluar?
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Bagian ini penting karena hambatan sering muncul sebelum pengguna menyentuh pintu. Periksa urutan pendekatan, operasi, lintasan, dan keluar agar daun pintu yang ringan tidak otomatis dianggap mudah dipakai.
 
-### KR-12
+Pertama, gambarkan jalur menuju cubicle: permukaan lantai, perubahan elevasi, ruang untuk berhenti, dan kemungkinan dua orang berpapasan. Kedua, tandai posisi daun pintu ketika terbuka dan tertutup. Ketiga, tulis tindakan yang dibutuhkan—meraih handle, menekan tombol, memutar kunci, atau menarik daun—beserta tangan dan posisi tubuh yang mungkin digunakan.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Untuk setiap tindakan, tentukan pemeriksa: arsitek atau konsultan akses memeriksa geometri dan aturan; pengguna fasilitas menguji kemudahan operasi; kontraktor memeriksa pemasangan; pengelola fasilitas menyiapkan prosedur perawatan. Bila salah satu antarmuka belum jelas, beri penanda `[NEEDS REVIEW: detail akses dan aturan proyek]` daripada mengisi angka perkiraan.
 
-### KR-13
+Kaca perlu diperlakukan sebagai bagian dari sistem. Pemilihan ketebalan dan penyangga dipengaruhi ukuran, rasio bidang, tumpuan tepi, jenis kaca, beban, kondisi tepi, lubang atau takikan, lendutan, serta konsekuensi setelah pecah. ASTM E1300-24 menegaskan bahwa pemilihan kaca bukan aturan satu ukuran untuk semua; gunakan standar berlisensi dan tenaga ahli untuk desain aktual ([ASTM E1300-24](https://store.astm.org/e1300-24.html)).
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+## Faktor pintu, perangkat keras, dan kaca yang mengubah keputusan
 
-### KR-14
+Sebelum memilih produk, hubungkan setiap faktor dengan akibatnya. Dengan cara ini, setiap spesifikasi memiliki pemilik keputusan dan cara pemeriksaan.
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+**Pintu dan ruang pendekatan.** Tulis arah ayunan, posisi engsel, ruang untuk mendekat, serta kondisi ketika pintu dibuka sebagian. Hindari menyimpulkan lebar atau radius tertentu tanpa gambar dan aturan proyek yang berlaku. Uji apakah pengguna dapat melihat daun pintu dan orang di sisi lain; bila tidak, pertimbangkan kebutuhan penanda visual yang akan ditentukan pada desain.
 
-### KR-16
+**Perangkat keras.** Handle (pegangan), pengunci, penahan, dan akses kontrol harus dapat diidentifikasi, dijangkau, dan dioperasikan dalam skenario penggunaan yang dicatat. Nama produk saja tidak membuktikan kemudahan. Minta lembar data, arah operasi, gaya yang diperlukan menurut dokumen pabrikan, serta rencana pengujian di lokasi.
 
-- **Original sources:** [NGA Proper Procedures for Cleaning Architectural Glass Products (2023)](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf), [NGA Heat-Treated Glass Surfaces Are Different (2023)](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf), [NGA glass technical resources](https://www.glass.org/architect)
-- **Purpose for this article:** Ground maintenance and defect-prevention content without universal chemical recipes.
-- **Safe grounded facts:** Incorrect cleaning can permanently scratch, stain, remove/damage a coating, or harm laminated edges. Cleaning frequency should respond to site exposure rather than a universal calendar.
-- **Limits:** Do not publish a chemical as universally safe. Confirm the exact glass, coating, film, interlayer edge, sealants, hardware, and manufacturer instructions.
+**Kaca pengaman dan detail fabrikasi.** Kaca yang lebih kuat sebelum pecah belum tentu menahan pecahan atau beban sesudah pecah. Karena itu, pilih kaca berdasarkan penerapan lengkap dan konteks sistem, lalu pastikan lubang, cutout, dan pekerjaan tepi ditetapkan sebelum perlakuan panas. Perubahan terlambat dapat memerlukan pembuatan ulang, bukan pengeboran di lapangan.
 
-## Evidence gates
+**Sambungan dan pemeliharaan.** Sealant memerlukan kecocokan substrat, pembersihan, primer bila ditentukan, geometri sambungan, pergerakan, waktu pengerasan, dan pemeriksaan daya lekat. “Pakai silikon” bukan spesifikasi yang cukup. Instruksi pembersihan juga harus cocok dengan jenis kaca, lapisan, film, tepi laminasi, sealant, dan hardware; prosedur NGA memperingatkan bahwa cara yang salah dapat menggores atau merusak permukaan ([Proper Procedures for Cleaning Architectural Glass Products](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf)).
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+## Contoh keputusan praktis saat membuat ringkasan kebutuhan
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Contoh berikut menunjukkan cara berpikir, bukan ukuran baku. Gunakan untuk menguji kelengkapan pertanyaan sebelum gambar diterbitkan.
 
-## Internal-link plan
+| Situasi yang dicatat | Keputusan yang perlu diminta | Bukti pemeriksaan |
+|---|---|---|
+| Pengguna perlu berhenti sebelum pintu | Sisakan area pendekatan sesuai gambar dan aturan proyek | Denah terukur dan simulasi penggunaan |
+| Pintu sering dilewati sambil membawa barang | Tentukan jenis pegangan, arah ayunan, dan cara menahan pintu | Lembar data perangkat keras dan uji operasi |
+| Partisi berada di jalur pandang | Tentukan penanda visual tanpa mengurangi tujuan privasi | Detail desain dan pemeriksaan lapangan |
+| Ada lubang untuk engsel atau aksesori | Bekukan posisi sebelum proses kaca | Gambar fabrikasi yang disetujui |
+| Fasilitas dekat area kotor atau lembap | Tetapkan metode pembersihan dan inspeksi berkala berdasarkan paparan | Instruksi pabrikan dan catatan pemeliharaan |
 
-### Existing local routes
+Kawan Kaca.co.id, bila satu jawaban mengubah jawaban lain—misalnya arah pintu memengaruhi posisi handle dan jalur—catat dependensinya. Minta tim menyetujui urutan keputusan, bukan hanya daftar produk.
 
-- `/partisi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Kesalahan umum dalam ringkasan aksesibilitas dan cara memeriksanya
 
-### Planned sibling articles
+Kesalahan pertama adalah memakai label “aksesibel” sebagai pengganti pengujian. Periksa siapa yang menetapkan label itu, dokumen apa yang mendukungnya, dan apakah kondisi pemasangan sama dengan kondisi yang diuji.
 
-These are future routes. Do not link them as live until their HTML exists.
+Kesalahan kedua adalah menyalin ukuran dari proyek lain. Ukuran ruang, tumpuan, beban, dan aturan dapat berbeda. Tandai semua angka sebagai hasil gambar proyek atau aturan yang telah ditinjau; jika belum ada, pertahankan `[NEEDS PROJECT DIMENSIONS AND COMPETENT REVIEW]`.
 
-- `CUB-10-02` → `/artikel/ruang-gerak-pintu-cubicle.html` — Ruang Gerak dan Pendekatan Pintu Cubicle
-- `CUB-10-03` → `/artikel/hardware-aksesibel-cubicle.html` — Handle, Lock, dan Hardware yang Mudah Dioperasikan
+Kesalahan ketiga adalah merencanakan lubang atau kunci setelah kaca dipesan. Cocokkan gambar arsitektur, perangkat keras, dan fabrikasi dalam satu sesi koordinasi sebelum pelepasan produksi.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kesalahan keempat adalah menganggap perawatan sebagai urusan setelah serah terima. Masukkan bahan pembersih yang diizinkan, pihak yang bertanggung jawab, frekuensi berbasis paparan, dan cara mencatat kerusakan. Jangan menjadikan satu bahan kimia sebagai aman untuk semua permukaan.
 
-## Jawaban singkat dan salah paham utama
+## Jalan pintas “cukup pilih kaca pengaman” dan mengapa tidak memadai
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Brief Aksesibilitas untuk Cubicle dan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas ini tampak praktis karena spesifikasi kaca mudah ditulis. Namun, ia gagal ketika pengguna tidak bisa mendekat atau mengoperasikan pintu, ketika perangkat keras berbenturan dengan jalur, atau ketika detail fabrikasi berubah setelah perlakuan panas. Rujukan BSN membantu mengenali standar produk kaca pengaman, tetapi tidak menyatakan seluruh sistem cubicle telah sesuai.
 
-## Definisi dan batas objek
+Alternatif yang lebih aman adalah mengunci brief penggunaan terlebih dahulu, lalu meminta desain, fabrikasi, pemasangan, dan pemeliharaan menanggapi butir yang sama. Jika proyek Anda membutuhkan gambaran jenis ruang, Anda dapat meninjau [contoh kategori partisi](/partisi) dan [kategori cubicle](/cubicle) sebagai langkah awal, lalu kembali ke dokumen proyek untuk keputusan teknis.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Brief Aksesibilitas untuk Cubicle dan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya setelah ringkasan selesai
 
-## Cara kerjanya
+Ringkasan aksesibilitas yang baik berisi skenario pengguna, jalur pendekatan, operasi pintu dan perangkat keras, koordinasi kaca serta sambungan, rencana pemeliharaan, pemilik pemeriksaan, dan daftar hal yang masih harus dibuktikan. Ia membantu tim mengajukan pertanyaan yang tepat; ia tidak mengeluarkan deklarasi kepatuhan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Brief Aksesibilitas untuk Cubicle dan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Brief Aksesibilitas untuk Cubicle dan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Brief Aksesibilitas untuk Cubicle dan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Brief Aksesibilitas untuk Cubicle dan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Kaca.co.id, serahkan brief bersama denah, detail pintu, gambar fabrikasi, lembar data produk, dan rencana inspeksi kepada tenaga kompeten yang ditunjuk proyek. Minta setiap `[NEEDS ...]` ditutup dengan bukti yang dapat ditinjau. Aturan kerjanya sederhana: jangan menganggap cubicle aksesibel karena bahannya benar—pastikan seluruh alur penggunaan telah digambar, diuji, dan disetujui.

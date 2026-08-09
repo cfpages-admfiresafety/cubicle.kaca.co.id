@@ -2,8 +2,9 @@
 article_id: CUB-03-02
 title: "Ketebalan Kaca Cubicle: Cara Menilai Rekomendasi"
 slug: "menilai-ketebalan-kaca-cubicle"
-description: "Menilai opsi kaca dan dokumen yang mendukung pemilihannya"
-status: outline
+description: "Panduan menilai rekomendasi ketebalan kaca cubicle berdasarkan kondisi ruang, sistem, dan bukti dokumen."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,222 +15,97 @@ reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/menilai-ketebalan-kaca-cubicle.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
+  - "https://store.astm.org/e1300-24.html"
   - "https://store.astm.org/c1036-25.html"
-  - "https://store.astm.org/c1048-25.html"
-  - "https://store.astm.org/c1172-24e01.html"
-  - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://nfrc.org/"
-  - "https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-windows-doors-and-skylights"
-  - "https://windows.lbl.gov/window-software-downloads"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
-  - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
+  - "https://www.iso.org/standard/35062.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Ketebalan Kaca Cubicle: Cara Menilai Rekomendasi
 
-## Assignment lock
+Halo, Teman Kaca.co.id! Saat menerima usulan “pakai kaca sekian milimeter”, banyak orang langsung membandingkan angka. Padahal, ketebalan bukan jawaban yang berdiri sendiri. Ukuran bidang, cara kaca ditopang, jenis kaca, lubang atau takikan, beban, dan akibat bila pecah ikut menentukan apakah rekomendasi itu masuk akal.
 
-- **Writer task:** Expand this file into one complete article answering: “Ketebalan Kaca Cubicle: Cara Menilai Rekomendasi”
-- **Reader and situation:** Menilai opsi kaca dan dokumen yang mendukung pemilihannya
-- **Reader outcome:** Menilai opsi kaca dan dokumen yang mendukung pemilihannya
-- **Primary intent:** Memahami faktor pemilihan ketebalan
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Tidak memberi angka universal; verifikasi sistem dan perhitungan aktual.
-- **Final public route:** `/artikel/menilai-ketebalan-kaca-cubicle.html`
-- **Appointed CMS date:** `2025-09-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Ketebalan Kaca Cubicle: Cara Menilai Rekomendasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Jadi, cara menilainya adalah meminta dasar pemilihan, bukan mencari angka universal. Artikel ini membantu Anda menyusun data proyek, mencocokkannya dengan dokumen produk dan metode perhitungan, lalu mengetahui kapan keputusan harus berhenti untuk ditinjau tenaga kompeten. Nilai pencahayaan, panas, privasi, dan suara juga jangan disamakan dengan ketebalan; itu metrik berbeda. [ISO 9050](https://www.iso.org/standard/35062.html) membahas domain pengukuran cahaya dan surya, bukan tabel ketebalan cubicle.
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)
 
-- **Image ID:** `LOCAL-007`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Aset lokal proyek; bukan dokumentasi proyek tertentu.
 
-## Evidence packet
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-007
+Source type: local
+Placement: after opening, before first H2
+**Exact Markdown to insert:** `![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)`
+Caption: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies cubicle toilet as relevant content media.
+Hard boundary: do not infer unseen visual details, ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image; if unavailable, use [NEEDS IMAGE REVIEW: LOCAL-007].
+END MANAGED IMAGE PLAN -->
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+## Apa hasil yang harus tersedia sebelum memilih ketebalan kaca cubicle?
 
-### KR-01
+Bagian ini penting karena rekomendasi yang baik harus menghasilkan jejak keputusan. Anda perlu memiliki gambar ukuran bidang, detail tumpuan dan profil, jenis kaca yang diusulkan, lokasi lubang atau takikan, beban yang dipertimbangkan, serta siapa yang menyetujui perhitungan. Tanpa itu, angka ketebalan baru sebatas tebakan.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Hasil akhirnya bukan hanya “kaca X mm”, melainkan paket yang menjelaskan mengapa pilihan itu sesuai untuk sistem tertentu. Minta lembar spesifikasi, gambar kerja, metode analisis yang dipakai, dan catatan batasan. Jika data ukuran atau tumpuan belum final, tandai sebagai prasyarat dan jangan menganggap rekomendasi sudah disetujui.
 
-### KR-10
+## Bagaimana menetapkan ruang lingkup bidang dan sistem cubicle?
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Sebelum membaca tabel, pastikan objek yang dinilai jelas: daun pintu, panel tetap, sekat toilet, atau partisi kantor. Masing-masing dapat memiliki bentang, sambungan, dan pola penggunaan berbeda. Tulis dimensi bersih, arah bentang, jenis penahan tepi, sambungan ke lantai atau plafon, serta komponen yang menembus kaca.
 
-### KR-13
+Ketebalan memengaruhi perilaku panel, tetapi panel bekerja bersama engsel, klem, seal, dan rangka. Karena itu, hasil satu lembar kaca tidak otomatis mewakili sistem terpasang. Untuk gambaran penggunaan ruang, Anda dapat melihat kategori [cubicle toilet](/cubicle/toilet) atau [cubicle kantor](/cubicle/kantor), lalu kembali ke gambar kerja proyek Anda sendiri.
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+Bedakan juga tujuan: menahan beban, mengendalikan lendutan, mengurangi risiko cedera, atau mencapai tampilan tertentu. Satu tujuan tidak menggantikan tujuan lain. “Lebih tebal” belum tentu menyelesaikan masalah tumpuan atau detail sambungan yang keliru.
 
-### KR-17
+## Bukti apa yang perlu dicocokkan dengan rekomendasi?
 
-- **Purpose for this article:** Give tempered-glass breakage articles a defensible distinction between risk reduction, diagnosis, and guarantees.
-- **Safe grounded facts:** A broken pane cannot be confidently diagnosed as nickel-sulfide inclusion from a casual photo or from “spontaneous” timing alone. Heat soaking does not create a zero-breakage guarantee.
-- **Limits:** Do not state a universal incidence rate or claim certainty without laboratory/forensic evidence and the relevant fabrication/testing records.
+Setelah scope jelas, cocokkan tiga lapis bukti. Pertama, identitas produk: kaca dasar, proses perlakuan, tepi, lubang, dan penandaan. ASTM C1036 menjelaskan ruang lingkup kaca datar dasar; halaman publiknya membantu mengenali objek standar, tetapi bukan pengganti dokumen lengkap [ASTM C1036](https://store.astm.org/c1036-25.html).
 
-### KR-11
+Kedua, bukti keselamatan produk. Kaca laminated (berlapis, dengan interlayer yang membantu menahan pecahan) dan tempered (diperkuat melalui perlakuan panas) memiliki perilaku pecah berbeda. SNI 9144-1:2022 dan SNI 9144-2:2022 adalah rujukan produk keselamatan yang perlu dibaca sesuai aplikasi, bukan alasan untuk menyalin angka minimum dari ringkasan katalog ([laminated](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [tempered](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)).
 
-- **Original sources:** [NFRC rating definitions](https://nfrc.org/), [US Department of Energy purchasing guidance](https://www.energy.gov/cmei/femp/purchasing-energy-efficient-residential-windows-doors-and-skylights), [Berkeley Lab WINDOW capabilities](https://windows.lbl.gov/window-software-downloads)
-- **Purpose for this article:** Give writers a clear conceptual vocabulary for U-factor, solar heat gain coefficient, visible transmittance, air leakage, and condensation without turning it into an Indonesian product endorsement.
-- **Safe grounded facts:** Lower U-factor means less heat flow under the stated rating method; lower SHGC means less admitted solar heat; higher visible transmittance means more visible light. These values are not interchangeable, and the best combination depends on climate, orientation, shading, space use, and whole-system design.
-- **Limits:** Do not import US climate-zone thresholds, label ranges, or ENERGY STAR purchasing rules as Indonesian requirements.
+Ketiga, bukti desain. Minta perhitungan yang memasukkan dimensi, rasio sisi, tumpuan, beban dan durasinya, kondisi tepi, lubang, lendutan, serta konsekuensi pascapecahan. ASTM E1300 menerangkan bahwa pemakaian kaca untuk beban harus dinilai dengan konteks tersebut; abstraknya tidak boleh dipakai sebagai tabel desain [ASTM E1300](https://store.astm.org/e1300-24.html).
 
-### KR-06
+## Urutan kerja menilai rekomendasi ketebalan kaca
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Urutan berikut menjaga Anda tidak melompat dari label ruangan ke angka. Mulai dari data yang dapat diperiksa, lanjutkan ke mekanisme, lalu catat keputusan.
 
-### KR-12
+1. **Bekukan data proyek yang sudah disepakati.** Tandai ukuran, tumpuan, detail tepi, lubang, dan kondisi penggunaan. Jika satu data berubah, minta penilaian ulang.
+2. **Tanyakan beban dan skenario.** Bedakan beban tetap, dorongan sesaat, benturan, dan pengaruh perangkat keras. Jangan mengganti beban aktual dengan asumsi yang tidak tertulis.
+3. **Periksa kecocokan jenis kaca.** Pastikan nama produk, proses, edgework, dan penandaan pada penawaran sama dengan gambar dan spesifikasi. Lubang atau cutout yang baru diketahui setelah perlakuan panas dapat memaksa pembuatan ulang, bukan modifikasi di lapangan.
+4. **Baca hasil analisis sebagai hasil sistem.** Perhatikan syarat tumpuan, lendutan, dan basis penerimaan. Jika dokumen hanya menyebut ketebalan tanpa kondisi batas, minta penjelasan tertulis.
+5. **Catat keputusan dan pengubahnya.** Simpan versi gambar, lembar produk, perhitungan, dan nama peninjau. Dengan begitu, perubahan pintu, engsel, atau ukuran tidak lolos tanpa pemeriksaan.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Sobat Kaca.co.id, bila pemasok menjawab “ukuran ini biasa dipakai”, anggap itu informasi awal, bukan persetujuan teknis. Minta hubungan antara ukuran bidang, tumpuan, beban, dan hasil analisis.
 
-## Evidence gates
+## Kapan rekomendasi harus dihentikan untuk ditinjau?
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Ada kondisi yang tidak aman untuk ditebak: ukuran belum final, tumpuan berubah, lubang belum ditentukan, fungsi panel berisiko bagi orang, atau dokumen produk tidak dapat ditelusuri. Hentikan pemesanan dan minta review kompeten bila salah satu kondisi itu terjadi. [NEEDS GATE-01 sampai GATE-08: bukti proyek dan persetujuan peninjau belum tersedia.]
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Foto pecahan juga bukan diagnosis. Waktu pecah atau tampilan kasatmata saja tidak cukup untuk menyimpulkan penyebab material. Perlakuan tambahan tidak boleh dijanjikan sebagai jaminan nol pecah tanpa rekaman proses dan penilaian yang relevan.
 
-## Internal-link plan
+Perhatikan pula antarmuka pekerjaan. Perubahan pada engsel, klem, seal, atau lantai dapat mengubah cara gaya diteruskan ke kaca. Karena itu, gambar arsitektur saja belum cukup bila tidak disertai detail perangkat keras dan toleransi pemasangan. Mintalah pihak yang menghitung menjelaskan asumsi antarmuka tersebut dalam bahasa yang dapat diperiksa di lapangan.
 
-### Existing local routes
+Nilai seperti transmisi cahaya, panas, dan suara memiliki tujuan pengukuran masing-masing. Jangan menggunakan angka pada brosur energi untuk menyimpulkan ketahanan panel, dan jangan memakai hasil satu panel untuk menjamin kinerja seluruh partisi. Bila kebutuhan ruang mencakup privasi atau kenyamanan termal, tulis kebutuhan itu sebagai kriteria terpisah agar tidak memaksa ketebalan memikul semua tujuan.
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Checklist serah-terima dokumen ketebalan kaca
 
-### Planned sibling articles
+Sebelum pekerjaan diteruskan, periksa apakah berkas memuat:
 
-These are future routes. Do not link them as live until their HTML exists.
+- gambar ukuran dan tumpuan versi terakhir;
+- jenis kaca, proses perlakuan, edgework, lubang, dan penandaan;
+- beban, skenario penggunaan, lendutan, dan asumsi analisis;
+- rujukan standar atau metode yang benar-benar digunakan;
+- batas penerapan hasil pada sistem terpasang;
+- nama dan tanggal peninjau yang berwenang;
+- catatan perubahan serta pemicu perhitungan ulang.
 
-- `CUB-03-01` → `/artikel/bukti-jenis-kaca-cubicle.html` — Jenis Kaca untuk Cubicle: Bukti Apa yang Harus Diminta?
-- `CUB-03-03` → `/artikel/tempered-vs-laminated-partisi-kaca.html` — Kaca Tempered, Laminated, dan Opsi Lain untuk Partisi
-- `CUB-03-04` → `/artikel/dokumen-heat-treatment-kaca.html` — Heat Treatment Kaca dan Dokumen yang Perlu Diverifikasi
+Jika daftar itu belum lengkap, statusnya adalah “menunggu data”, bukan “sudah aman”. Kawan Kaca.co.id dapat memakai catatan ini saat meminta klarifikasi pemasok atau tim desain.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Jalan pintas “pilih yang paling tebal” dan mengapa tidak cukup
 
-## Hasil akhir dan prasyarat
+Memilih panel paling tebal yang tersedia terasa mudah, tetapi tidak menjawab apakah tepi, engsel, klem, dan substrat mampu menerima gaya. Berat dan detail sambungan dapat berubah, sementara masalah utama mungkin justru tumpuan atau lubang. Alternatif yang lebih dapat dipertanggungjawabkan adalah membandingkan opsi berdasarkan data proyek dan hasil analisis sistem.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Ketebalan Kaca Cubicle: Cara Menilai Rekomendasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: ketebalan kaca cubicle dinilai dari konteks dan bukti
 
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Ketebalan Kaca Cubicle: Cara Menilai Rekomendasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Ketebalan Kaca Cubicle: Cara Menilai Rekomendasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Ketebalan Kaca Cubicle: Cara Menilai Rekomendasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Ketebalan Kaca Cubicle: Cara Menilai Rekomendasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Ketebalan Kaca Cubicle: Cara Menilai Rekomendasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Rekomendasi ketebalan kaca cubicle layak dipertimbangkan bila ukuran, tumpuan, beban, jenis kaca, detail fabrikasi, dan konsekuensi pecah tercatat serta ditinjau. Tidak ada angka universal yang dapat menggantikan perhitungan aktual. Langkah berikutnya: minta paket gambar, spesifikasi, dan perhitungan tertulis; cocokkan versinya; lalu minta persetujuan tenaga kompeten sebelum fabrikasi. Aturan operasinya sederhana: ketika data atau batas sistem berubah, rekomendasi lama tidak otomatis berlaku.

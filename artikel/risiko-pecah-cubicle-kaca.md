@@ -2,8 +2,9 @@
 article_id: CUB-07-01
 title: "Risiko Pecah pada Cubicle Kaca dan Cara Mengelolanya"
 slug: "risiko-pecah-cubicle-kaca"
-description: "Mengurangi paparan risiko dan menyiapkan respons bila kaca rusak"
-status: outline
+description: "Panduan mengenali sumber risiko pecah pada cubicle kaca, mengurangi paparannya, dan menyiapkan respons yang aman saat kaca rusak."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,219 +17,89 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
-  - "https://pesta.bsn.go.id/produk/detail/13726-47562021"
-  - "https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011"
-  - "https://pesta.bsn.go.id/produk/detail/14858-sni92372023"
-  - "https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
   - "https://store.astm.org/c1172-24e01.html"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
   - "https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf"
-  - "https://www.glass.org/architect"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Risiko Pecah pada Cubicle Kaca dan Cara Mengelolanya
 
-## Assignment lock
+Halo, Kawan Kaca.co.id! Ketika panel cubicle tiba-tiba retak atau pecah, reaksi yang sering muncul adalah langsung menyalahkan jenis kacanya. Padahal, ukuran dan tumpuan panel, lubang atau takikan, kondisi tepi, riwayat pengolahan, benturan, serta cara membersihkan kaca dapat saling memengaruhi. Label “kaca pengaman” pun tidak otomatis berarti panel akan tetap menjadi penghalang setelah pecah.
 
-- **Writer task:** Expand this file into one complete article answering: “Risiko Pecah pada Cubicle Kaca dan Cara Mengelolanya”
-- **Reader and situation:** Mengurangi paparan risiko dan menyiapkan respons bila kaca rusak
-- **Reader outcome:** Mengurangi paparan risiko dan menyiapkan respons bila kaca rusak
-- **Primary intent:** Memahami sumber risiko dan kontrol
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Edukasi risiko; tidak menjamin kaca tidak akan pecah.
-- **Final public route:** `/artikel/risiko-pecah-cubicle-kaca.html`
-- **Appointed CMS date:** `2025-12-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban praktisnya: kelola risiko melalui tiga hal—tetapkan kondisi pemakaian, cocokkan spesifikasi dan rekaman fabrikasi dengan kondisi itu, lalu siapkan titik henti (hold point) ketika penyebab atau keamanan belum jelas. Tujuannya mengurangi paparan dan membuat respons tertib, bukan menjanjikan kaca tidak akan pecah. Kecocokan akhir tetap memerlukan data proyek dan tinjauan kompeten.
 
-## Opening instructions
+![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Risiko Pecah pada Cubicle Kaca dan Cara Mengelolanya**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
 
+## Hasil pengelolaan risiko dan prasyarat keputusan
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+Sebelum memeriksa panel, samakan dulu hasil yang hendak dicapai. Pengelolaan yang baik menghasilkan catatan tentang panel yang diperiksa, kondisi tumpuan dan perangkatnya, bukti produk serta fabrikasi, dan keputusan apakah area boleh digunakan. Tanpa data itu, penggantian panel hanya memindahkan ketidakpastian ke panel berikutnya.
 
-- **Image ID:** `LOCAL-007`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Orang yang berwenang perlu ditetapkan sejak awal: pengelola fasilitas mengendalikan akses dan area, sedangkan penilai teknis yang kompeten menilai kecocokan desain atau kerusakan. Siapkan gambar atau ukuran aktual, jenis kaca yang tercatat, detail lubang dan tepi, riwayat benturan atau perubahan, serta instruksi pabrikan bila tersedia. Jika data penting tidak ada, tandai `[NEEDS PROJECT EVIDENCE: jenis kaca, dimensi, tumpuan, dan riwayat fabrikasi]`.
 
-## Evidence packet
+## Menetapkan ruang lingkup risiko pecah pada cubicle
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Heading ini berarti memisahkan pertanyaan “mengapa bisa pecah” dari “apa yang aman dilakukan sekarang”. Pemisahan tersebut mencegah foto retak dipakai sebagai diagnosis pasti dan mencegah artikel ini berubah menjadi perhitungan struktur. Ruang lingkupnya adalah panel cubicle, sambungan, tepi, perangkat penahan, penggunaan, pembersihan, dan respons awal; bukan penetapan ketebalan atau persetujuan proyek.
 
-### KR-01
+Mulailah dari antarmuka dan cocokkan contoh kategori [cubicle toilet](/cubicle/toilet) hanya sebagai konteks ruang, bukan bukti teknis proyek. Catat siapa yang memakai ruang, apakah panel memiliki pintu atau lubang perangkat, bagaimana panel ditumpu, dan apakah ada pekerjaan lanjutan yang dapat menyentuh kaca. Pemilihan ketebalan dan perilaku sistem tidak dapat ditentukan hanya dari nama “cubicle”. ASTM menjelaskan bahwa penilaian kaca bergantung pada dimensi, rasio, tumpuan tepi, jenis kaca, beban, kondisi tepi, lubang atau takikan, lendutan, dan konsekuensi setelah pecah ([ruang lingkup ASTM E1300-24](https://store.astm.org/e1300-24.html)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Batasi pula dugaan penyebab. Benturan, cacat tepi, perubahan ukuran di lapangan, pemasangan yang memberi tekanan, atau paparan pembersihan yang keliru adalah hipotesis yang perlu diuji dengan bukti. Pecah yang tampak “spontan” tidak cukup untuk menyimpulkan inklusi nikel-sulfida; foto kasual juga tidak menggantikan pemeriksaan laboratorium dan rekaman produksi.
 
-### KR-06
+## Mencocokkan jenis kaca, desain, dan bukti fabrikasi
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Bagian ini penting karena istilah produk sering terdengar lebih pasti daripada buktinya. Kaca laminasi adalah kaca dengan lapisan antar-kaca yang menahan pecahan tetap terikat pada sistem tertentu, sedangkan kaca temper mengalami perlakuan panas yang mengubah cara pecahnya. Keduanya memiliki fungsi berbeda; “lebih kuat sebelum pecah” bukan berarti otomatis menahan beban setelah pecah.
 
-### KR-17
+Untuk keputusan produk, gunakan rujukan identitas yang benar dan minta dokumen lengkap. BSN mencantumkan SNI 9144-1:2022 untuk kaca pengaman laminasi dan SNI 9144-2:2022 untuk kaca pengaman temper ([laminasi](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [temper](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)). Halaman tersebut membantu mengenali standar, bukan membuktikan bahwa satu panel terpasang telah memenuhi seluruh kebutuhan proyek.
 
-- **Purpose for this article:** Give tempered-glass breakage articles a defensible distinction between risk reduction, diagnosis, and guarantees.
-- **Safe grounded facts:** A broken pane cannot be confidently diagnosed as nickel-sulfide inclusion from a casual photo or from “spontaneous” timing alone. Heat soaking does not create a zero-breakage guarantee.
-- **Limits:** Do not state a universal incidence rate or claim certainty without laboratory/forensic evidence and the relevant fabrication/testing records.
+Periksa apakah gambar kerja dan pesanan sudah memuat ukuran final, lubang, takikan, penghalusan tepi, penandaan, dan kebutuhan pelacakan. ASTM C1036, C1048, dan C1172 menyediakan ruang lingkup produk kaca dasar serta kaca yang diproses; panduan NGA mengingatkan bahwa lubang atau perubahan ukuran yang terlambat dapat memerlukan pembuatan ulang, bukan pemotongan di lapangan ([C1036](https://store.astm.org/c1036-25.html), [C1048](https://store.astm.org/c1048-25.html), [C1172](https://store.astm.org/c1172-24e01.html), [panduan permukaan kaca perlakuan panas](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)).
 
-### KR-08
+Kawan Kaca.co.id, cocokkan bukti sebelum menyetujui penggantian: spesifikasi, label, dokumen fabrikator, dan kondisi panel harus menunjuk ke objek yang sama. Jika satu unsur tidak cocok, hentikan keputusan “aman” sampai peninjauan kompeten dilakukan.
 
-- **Original sources:** [SNI 4756:2021 aluminium-coated sheet mirror — BSN](https://pesta.bsn.go.id/produk/detail/13726-47562021), [SNI ISO 25537:2011 silver-coated mirror — BSN](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011), [SNI 9237:2023 coated glass — BSN](https://pesta.bsn.go.id/produk/detail/14858-sni92372023), [SNI ISO 11479-1:2014 physical defects — BSN](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014)
-- **Purpose for this article:** Ground mirror, coated-glass, façade color, inspection, defect, and procurement content.
-- **Safe grounded facts:** A generic “mirror” or “coated glass” label omits backing/coating system, exposed surface, edge protection, visual criteria, and compatibility concerns. Aesthetic acceptance and functional performance are separate.
-- **Limits:** Full standards and manufacturer documents are required for viewing conditions, defect limits, processing restrictions, and cleaning compatibility.
+## Urutan kerja untuk mengurangi paparan dan merespons kerusakan
 
-### KR-12
+Urutan berikut menjelaskan keputusan, bukan instruksi membongkar kaca. Setiap langkah menjawab satu pertanyaan agar orang di lokasi tidak melompat langsung ke pembersihan atau pemakaian ulang.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+1. **Amankan penggunaan dan amati dari jarak aman.** Batasi akses bila ada pecahan, retak yang berkembang, panel goyah, atau perangkat terlepas. Jangan menekan, mengetuk, atau mencoba merapikan pecahan sebelum orang kompeten menentukan cara penanganannya.
+2. **Catat kondisi sebelum dipindahkan.** Tulis waktu diketahui, lokasi panel, kejadian yang dilaporkan, perubahan pekerjaan terakhir, dan foto konteks tanpa menyentuh kaca. Catatan ini membantu membedakan fakta pengamatan dari dugaan sebab.
+3. **Periksa kecocokan sistem secara visual terbatas.** Lihat apakah tumpuan, gasket, sekrup, engsel, dan tepi menunjukkan gesekan atau perubahan. Jangan menganggap tidak terlihatnya kerusakan berarti sistem aman untuk dipakai.
+4. **Cocokkan dokumen dan produk.** Bandingkan jenis kaca, ukuran, detail tepi, lubang, serta riwayat perlakuan dengan gambar dan pesanan. Perubahan lapangan tanpa persetujuan menjadi alasan untuk titik henti.
+5. **Tentukan tindakan bersama penilai kompeten.** Pilih antara pengamanan sementara, penggantian, atau pemeriksaan lanjutan berdasarkan konsekuensi pecah dan perilaku sistem. Artikel ini tidak menetapkan ukuran, beban, atau metode pemasangan pengganti.
 
-### KR-13
+Pembersihan juga bagian dari pengurangan risiko. Produk pembersih atau alat yang keliru dapat menggores, menodai, merusak lapisan, atau mengganggu tepi laminasi. NGA menyarankan prosedur yang disesuaikan dengan jenis kaca, lapisan, film, sealant, dan petunjuk pabrikan; frekuensi mengikuti paparan lokasi, bukan kalender universal ([prosedur pembersihan kaca arsitektural](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf)).
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+## Titik berhenti: kapan cubicle tidak boleh langsung dipakai
 
-### KR-16
+Heading ini menandai kondisi berhenti. Jika penyebab pecah tidak jelas, panel masih menahan akses, ada bagian tajam atau longgar, jenis kaca tidak terbukti, atau tumpuan berubah, penggunaan tidak boleh dilanjutkan hanya karena retak tampak kecil. `[NEEDS COMPETENT REVIEW: keputusan kelayakan pakai dan metode pengamanan/penggantian]` harus tetap terlihat sampai pihak berwenang menutupnya dengan bukti.
 
-- **Original sources:** [NGA Proper Procedures for Cleaning Architectural Glass Products (2023)](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf), [NGA Heat-Treated Glass Surfaces Are Different (2023)](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf), [NGA glass technical resources](https://www.glass.org/architect)
-- **Purpose for this article:** Ground maintenance and defect-prevention content without universal chemical recipes.
-- **Safe grounded facts:** Incorrect cleaning can permanently scratch, stain, remove/damage a coating, or harm laminated edges. Cleaning frequency should respond to site exposure rather than a universal calendar.
-- **Limits:** Do not publish a chemical as universally safe. Confirm the exact glass, coating, film, interlayer edge, sealants, hardware, and manufacturer instructions.
+Jangan menjadikan heat soak sebagai janji bebas pecah. Panduan kaca perlakuan panas menjelaskan perbedaan permukaan dan kebutuhan pengendalian proses, tetapi tidak mengubahnya menjadi jaminan nol kegagalan. Demikian pula, label “safety glass” tidak menggantikan penilaian aplikasi dan sistem lengkap.
 
-## Evidence gates
+## Verifikasi, serah-terima, dan tindak lanjut
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Pada saat area diserahkan kembali, gunakan daftar yang bisa ditelusuri: identitas panel dan lokasi; kondisi tumpuan, tepi, serta perangkat; dokumen jenis dan proses kaca; foto sebelum dan sesudah; keputusan penggunaan; nama penilai; dan pemicu pemeriksaan ulang. Tanda tangan penerimaan tidak boleh menghapus catatan ketidakpastian.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Jika panel diganti, simpan bukti bahwa ukuran dan detailnya berasal dari data yang disetujui, bukan hasil ukur terburu-buru setelah pecah. Pantau keluhan baru, benturan, perubahan perangkat, dan kerusakan tepi. Temuan berulang adalah alasan meninjau kembali desain dan proses, bukan alasan menyalahkan pengguna tanpa pemeriksaan.
 
-## Internal-link plan
+## Jalan pintas yang sering dipilih dan mengapa gagal
 
-### Existing local routes
+Jalan pintas yang tampak murah adalah mengganti dengan panel “ketebalan sama” lalu membuka area kembali. Cara itu gagal bila ukuran, tumpuan, lubang, kondisi tepi, atau konsekuensi setelah pecah berbeda. ASTM E1300 menegaskan bahwa pemilihan kaca tidak berdiri pada satu angka ketebalan saja. Alternatif yang lebih dapat dipertanggungjawabkan adalah mengulang pencocokan data dan meminta tinjauan kompeten sebelum pemesanan.
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Kesimpulan: kelola paparan, bukan menjanjikan kaca tak pecah
 
-### Planned sibling articles
+Sobat Kaca.co.id, risiko pecah pada cubicle dikelola dengan memahami pemakaian, mencocokkan kaca dan fabrikasi, menjaga tumpuan serta pembersihan, lalu menghentikan penggunaan ketika bukti belum cukup. Langkah berikutnya adalah mengumpulkan rekaman panel yang aktual dan meminta penilaian kompeten untuk keputusan pengamanan atau penggantian. Batasnya jelas: edukasi ini membantu menyusun pertanyaan dan kontrol, tetapi tidak menggantikan persetujuan desain, pemeriksaan lapangan, atau bukti proyek.
 
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-07-02` → `/artikel/pola-pecah-kaca-diagnosis.html` — Pola Pecah Kaca dan Batas Diagnosis Visual
-- `CUB-07-03` → `/artikel/respons-panel-cubicle-retak.html` — Apa yang Harus Dilakukan saat Panel Cubicle Retak
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Risiko Pecah pada Cubicle Kaca dan Cara Mengelolanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Risiko Pecah pada Cubicle Kaca dan Cara Mengelolanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Risiko Pecah pada Cubicle Kaca dan Cara Mengelolanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Risiko Pecah pada Cubicle Kaca dan Cara Mengelolanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Risiko Pecah pada Cubicle Kaca dan Cara Mengelolanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Risiko Pecah pada Cubicle Kaca dan Cara Mengelolanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-007
+Source type: local
+Placement: after opening
+Exact Markdown to insert:
+![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)
+**Exact Markdown to insert:** `![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata
+Hard boundary: do not infer unseen details
+Substitution rule: if unavailable, use [NEEDS IMAGE REVIEW: LOCAL-007].
+END MANAGED IMAGE PLAN -->

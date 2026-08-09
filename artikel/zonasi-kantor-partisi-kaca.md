@@ -2,8 +2,9 @@
 article_id: CUB-08-02
 title: "Zonasi Fokus, Kolaborasi, dan Meeting dengan Partisi Kaca"
 slug: "zonasi-kantor-partisi-kaca"
-description: "Merencanakan zonasi, sirkulasi, pintu, dan perubahan layout kantor"
-status: outline
+description: "Panduan membagi zona fokus, kolaborasi, dan meeting dengan mempertimbangkan alur kerja, sirkulasi, pintu, serta perubahan layout kantor."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,217 +16,97 @@ final_route: "/artikel/zonasi-kantor-partisi-kaca.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
   - "https://www.iso.org/standard/84945.html"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
   - "https://store.astm.org/c1172-24e01.html"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Zonasi Fokus, Kolaborasi, dan Meeting dengan Partisi Kaca
 
-## Assignment lock
+Halo, Sobat Kaca.co.id! Saat kantor dibagi dengan partisi kaca, keputusan terpenting bukan memilih kaca paling bening, melainkan menempatkan fungsi ruang pada alur yang masuk akal. Area fokus membutuhkan gangguan rendah, zona kolaborasi perlu mudah dicapai, sedangkan ruang meeting harus mudah ditemukan tanpa memotong jalur kerja utama.
 
-- **Writer task:** Expand this file into one complete article answering: “Zonasi Fokus, Kolaborasi, dan Meeting dengan Partisi Kaca”
-- **Reader and situation:** Merencanakan zonasi, sirkulasi, pintu, dan perubahan layout kantor
-- **Reader outcome:** Merencanakan zonasi, sirkulasi, pintu, dan perubahan layout kantor
-- **Primary intent:** Membagi fungsi kerja dalam layout
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Fokus zonasi; bukan perhitungan okupansi atau egress.
-- **Final public route:** `/artikel/zonasi-kantor-partisi-kaca.html`
-- **Appointed CMS date:** `2026-01-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: mulai dari peta aktivitas dan sirkulasi, lalu tempatkan partisi sebagai batas antar-fungsi. Jangan menganggap satu bidang kaca otomatis membuat ruang fleksibel. Posisi pintu, arah bukaan, pandangan, privasi, dan kemungkinan perubahan meja dapat mengubah hasil. Artikel ini membantu menyusun keputusan zonasi; ukuran okupansi, jalur evakuasi, dan persetujuan proyek tetap memerlukan peninjauan kompeten.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Zonasi Fokus, Kolaborasi, dan Meeting dengan Partisi Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
-
-- **Image ID:** `LOCAL-003`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- Image ID: LOCAL-003
+- Source type: local
+- Placement: after opening
 - **Exact Markdown to insert:** `![Ilustrasi partisi kaca kantor](/wp-content/uploads/2022/07/partisi-kaca-kantor.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `partisi kaca kantor` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata only.
+- Hard boundary: do not infer unseen details.
+END MANAGED IMAGE PLAN -->
+![Ilustrasi partisi kaca kantor](/wp-content/uploads/2022/07/partisi-kaca-kantor.jpg)
 
-## Evidence packet
+*Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.*
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+## Zonasi kantor: fungsi apa yang sebenarnya dipisahkan?
 
-### KR-01
+Sebelum menggambar garis partisi, tetapkan fungsi yang ingin dilindungi. Zonasi kantor berarti mengelompokkan aktivitas yang memiliki kebutuhan serupa, bukan sekadar membagi luas lantai menjadi kotak. Zona fokus melindungi pekerjaan hening; zona kolaborasi menampung percakapan; zona meeting menyediakan pembahasan yang perlu privasi lebih tinggi. Ketiganya dapat memakai kaca, tetapi tingkat keterbukaan dan posisi pintunya tidak harus sama.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Pisahkan keputusan zonasi dari perhitungan okupansi dan egress. Keduanya berada di luar batas artikel ini, namun hasil rancangan harus dibawa ke peninjau proyek agar tidak bertentangan dengan aturan bangunan yang berlaku.
 
-### KR-03
+## Cara menyusun urutan fokus, kolaborasi, dan meeting
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Urutan kerja mencegah Anda memulai dari ukuran panel yang telanjur dipilih. Catat aktivitas dan tingkat gangguannya, tandai jalur orang, lalu tempatkan kolaborasi pada titik temu tanpa menjadikan meja fokus sebagai lorong. Setelah hubungan antarzona jelas, tentukan posisi partisi dan pintu.
 
-### KR-19
+Pintu mengatur siapa masuk, dari arah mana, dan apakah daun pintu mengganggu meja atau jalur lewat. Tandai arah bukaan pada denah dan uji dengan furnitur yang direncanakan. Jika layout mungkin berubah, catat sambungan dan panel yang perlu ditinjau ulang.
 
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
+Gunakan sesi berjalan di denah: ikuti rute dari meja fokus ke ruang meeting, kemudian kembali ke area kerja. Catat titik ketika orang harus berbalik, berbagi ambang pintu, atau melewati percakapan. Catatan sederhana ini sering menunjukkan konflik yang tidak terlihat pada garis dinding saja dan memberi dasar untuk meminta revisi sebelum gambar diteruskan.
 
-### KR-10
+Kaca bening membantu pandangan, tetapi pandangan bukan ukuran privasi. Transmisi cahaya dan perolehan panas surya merupakan metrik berbeda; ISO 9050 membahas domain cahaya dan surya, bukan keputusan privasi otomatis ([ISO 9050](https://www.iso.org/standard/35062.html)). Pasangkan kebutuhan aktivitas dengan tirai, film, atau pola bidang yang disetujui proyek.
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+## Faktor yang mengubah hasil zonasi dan partisi kaca
 
-### KR-06
+Denah dapat gagal ketika meja, lemari, perangkat rapat, atau arus orang berubah. Periksa pendekatan ke pintu dan pergerakan perabot sesuai rancangan; jangan menyimpulkan jalur aman hanya karena terlihat lebar. Pemeriksaan dimensi dan egress memerlukan data proyek.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Insulasi bunyi udara adalah pemisahan suara melalui sistem, bukan sinonim kaca tebal. ISO 22897 memberi kerangka pengukuran, tetapi hasil kaca tunggal tidak otomatis mewakili partisi terpasang ([ISO 22897](https://www.iso.org/standard/84945.html)). Mintalah spesifikasi sistem lengkap bila meeting membutuhkan privasi suara.
 
-### KR-12
+Pilihan kaca keselamatan mengikuti aplikasi dan sistem. Rujukan laminasi dan tempered tersedia pada SNI 9144-1:2022 dan SNI 9144-2:2022 ([laminasi](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [tempered](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)); satu jenis tidak selalu cocok untuk semua pintu atau partisi.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Lubang, takikan, atau perubahan ukuran setelah pemrosesan dapat memaksa pembuatan ulang. ASTM C1036, C1048, dan C1172 serta panduan kaca heat-treated menekankan perencanaan pekerjaan tepi dan bukaan sebelum perlakuan panas ([C1036](https://store.astm.org/c1036-25.html), [C1048](https://store.astm.org/c1048-25.html), [C1172](https://store.astm.org/c1172-24e01.html), [panduan](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)). Masukkan engsel, handle, dan penetrasi kabel ke brief fabrikasi sejak awal.
 
-### KR-13
+## Contoh keputusan praktis berdasarkan aktivitas
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+Contoh ini bukan resep ukuran, melainkan cara menguji hubungan fungsi dan konsekuensi. Ganti asumsi dengan data proyek sebelum menyetujui.
 
-## Evidence gates
+| Situasi | Keputusan awal | Pemeriksaan |
+|---|---|---|
+| Pekerjaan konsentrasi dominan | Jauhkan zona fokus dari jalur meeting | Uji suara, pandangan, dan akses |
+| Kolaborasi spontan sering | Dekatkan kolaborasi ke titik temu | Pastikan arus orang tidak memotong meja |
+| Meeting perlu privasi | Gunakan batas dan pintu yang dapat dikendalikan | Verifikasi sistem terpasang |
+| Layout mungkin berubah | Pilih modul yang dapat ditinjau ulang | Catat sambungan dan bukaan |
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Kawan Kaca.co.id, bila satu ruang harus melayani fungsi yang bertentangan, tanyakan fungsi mana yang menjadi prioritas pada jam sibuk dan bukti apa yang diperlukan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Kesalahan umum saat membagi kantor dengan partisi kaca
 
-## Internal-link plan
+Menentukan ukuran kaca sebelum memetakan aktivitas membuat material memimpin keputusan. ASTM E1300 menunjukkan bahwa pemilihan kaca untuk beban bergantung pada banyak variabel desain; satu ketebalan tidak universal ([ASTM E1300](https://store.astm.org/e1300-24.html)). Mulailah dari denah aktivitas, lalu minta perhitungan sistem.
 
-### Existing local routes
+Menganggap bening berarti privat dan kedap suara juga keliru. Tulis kebutuhan privasi visual dan suara secara terpisah. Jika konsekuensial, pertahankan penanda [NEEDS PROJECT ACOUSTIC AND PRIVACY REVIEW] sampai sistem lengkap ditinjau.
 
-- `/partisi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Memindahkan pintu setelah fabrikasi bukan perubahan kosmetik. Posisi engsel atau handle memengaruhi panel, kusen, dan urutan pemrosesan. Koordinasikan furnitur, kabel, dan arah gerak sebelum informasi bukaan disetujui.
 
-### Planned sibling articles
+## Jalan pintas satu tipe partisi untuk seluruh kantor
 
-These are future routes. Do not link them as live until their HTML exists.
+Jalan pintas ini menyederhanakan gambar tetapi mengabaikan perbedaan gangguan, privasi, dan perubahan layout. Area fokus bisa menjadi jalur lalu lintas, sementara meeting kehilangan kendali visual atau suara.
 
-- `CUB-08-01` → `/artikel/brief-cubicle-kaca-kantor.html` — Cara Membuat Brief Cubicle Kaca Kantor
-- `CUB-08-03` → `/artikel/pintu-sirkulasi-cubicle-kantor.html` — Pintu dan Sirkulasi pada Cubicle Kantor
-- `CUB-08-04` → `/artikel/privasi-ruang-kantor-kaca.html` — Privasi Visual untuk Ruang Meeting dan Ruang Kerja
+Alternatif yang dapat ditelusuri adalah matriks fungsi: aktivitas, gangguan yang dapat diterima, pandangan, akses, dan bukti yang harus diperiksa. Bawa matriks itu ke perancang serta peninjau teknis. Jangan menyebut partisi “fireproof” atau menjanjikan kinerja tanpa dasar persetujuan dan uji yang tepat.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Langkah berikutnya untuk mengunci zonasi
 
-## Jawaban singkat dan salah paham utama
+Zonasi fokus, kolaborasi, dan meeting dengan partisi kaca dimulai dari aktivitas dan sirkulasi, lalu diterjemahkan menjadi posisi batas, pintu, dan spesifikasi sistem. Kaca hanyalah salah satu bagian keputusan.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Zonasi Fokus, Kolaborasi, dan Meeting dengan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum memesan material, siapkan denah beranotasi yang menunjukkan fungsi zona, arah gerak pintu, furnitur, kabel, kebutuhan privasi, dan asumsi. Minta peninjauan profesional untuk dimensi, egress, beban, keselamatan kaca, dan performa sistem terpasang. Pertahankan [NEEDS PROJECT EVIDENCE AND COMPETENT REVIEW] bila data utama belum tersedia.
 
-## Definisi dan batas objek
+Untuk menyiapkan percakapan awal tentang jenis batas ruang, Anda dapat melihat halaman [partisi kantor](/partisi) sebagai langkah berikutnya. Halaman itu bukan pengganti gambar kerja atau persetujuan teknis; gunakan hanya untuk menyamakan istilah sebelum matriks fungsi dibawa ke tim proyek.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Zonasi Fokus, Kolaborasi, dan Meeting dengan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Kaca.co.id, simpan versi denah dan matriks fungsi yang telah ditinjau sebagai acuan perubahan. Dengan begitu, setiap revisi dapat ditelusuri kembali ke aktivitas dan jalur sirkulasi, bukan sekadar ke preferensi visual.
 
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Zonasi Fokus, Kolaborasi, dan Meeting dengan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Zonasi Fokus, Kolaborasi, dan Meeting dengan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Zonasi Fokus, Kolaborasi, dan Meeting dengan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Zonasi Fokus, Kolaborasi, dan Meeting dengan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasionalnya: jangan mengubah garis partisi atau bukaan berdasarkan perkiraan lapangan setelah fabrikasi berjalan. Ubah keputusan hanya setelah dampaknya pada aktivitas, sirkulasi, dan bukti teknis dicatat serta disetujui pihak berwenang.

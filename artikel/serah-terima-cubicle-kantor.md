@@ -2,8 +2,9 @@
 article_id: CUB-08-06
 title: "Serah Terima Cubicle Kantor kepada Pengelola Fasilitas"
 slug: "serah-terima-cubicle-kantor"
-description: "Merencanakan zonasi, sirkulasi, pintu, dan perubahan layout kantor"
-status: outline
+description: "Panduan praktis menyiapkan serah terima cubicle kantor agar zonasi, sirkulasi, pintu, dan perubahan tata letak tercatat jelas untuk operasi fasilitas."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,216 +16,88 @@ final_route: "/artikel/serah-terima-cubicle-kantor.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
   - "https://www.iso.org/standard/84945.html"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
-  - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
   - "https://store.astm.org/c1172-24e01.html"
-  - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Serah Terima Cubicle Kantor kepada Pengelola Fasilitas
 
-## Assignment lock
+Halo, Sobat Kaca.co.id! Serah terima cubicle kantor bukan sekadar menyerahkan kunci atau menunjukkan bahwa meja sudah terpasang. Pengelola fasilitas perlu menerima gambaran yang bisa dipakai besok pagi: zonasi mana yang diserahkan, jalur orang dan barang, cara mengoperasikan pintu, serta apa yang berubah bila tata letak dipindahkan.
 
-- **Writer task:** Expand this file into one complete article answering: “Serah Terima Cubicle Kantor kepada Pengelola Fasilitas”
-- **Reader and situation:** Merencanakan zonasi, sirkulasi, pintu, dan perubahan layout kantor
-- **Reader outcome:** Merencanakan zonasi, sirkulasi, pintu, dan perubahan layout kantor
-- **Primary intent:** Menyiapkan operasi dan pemeliharaan
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Handoff kantor; QA sistem umum dimiliki CUB-16.
-- **Final public route:** `/artikel/serah-terima-cubicle-kantor.html`
-- **Appointed CMS date:** `2026-01-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: lakukan serah terima memakai daftar ruang dan gambar kondisi terpasang, cocokkan setiap elemen dengan bukti material dan pekerjaan, lalu catat temuan serta batas tanggung jawab sebelum berita acara ditandatangani. Nilai cahaya, privasi, atau akustik tidak boleh disimpulkan hanya dari spesifikasi kaca; ISO membedakan metrik-metrik tersebut dan menjelaskan bahwa nilai di tengah kaca bukan otomatis nilai seluruh sistem terpasang ([ISO 9050](https://www.iso.org/standard/35062.html), [ISO 22897](https://www.iso.org/standard/84945.html)).
 
-## Opening instructions
+![Ilustrasi produk cubicle kantor](/wp-content/uploads/2022/07/produk-cubicle-kantor.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Serah Terima Cubicle Kantor kepada Pengelola Fasilitas**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.*
 
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-013; aset lokal; gunakan URL dan alt-text di atas; jangan menggambarkan gambar sebagai dokumentasi proyek tertentu.
+**Exact Markdown to insert:** `![Ilustrasi produk cubicle kantor](/wp-content/uploads/2022/07/produk-cubicle-kantor.jpg)`
+![Ilustrasi produk cubicle kantor](/wp-content/uploads/2022/07/produk-cubicle-kantor.jpg)
+END MANAGED IMAGE PLAN -->
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+## Hasil serah terima cubicle dan prasyarat yang harus tersedia
 
-- **Image ID:** `LOCAL-013`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi produk cubicle kantor](/wp-content/uploads/2022/07/produk-cubicle-kantor.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `produk cubicle kantor` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-013]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Bagian ini menjelaskan arti “siap diserahterimakan” agar rapat tidak berhenti pada pemeriksaan visual. Hasil akhirnya adalah paket informasi yang dapat dipakai pengelola fasilitas untuk mengoperasikan, merawat, dan mengubah tata letak dengan aman.
 
-## Evidence packet
+Sebelum pemeriksaan, tentukan wakil pemberi pekerjaan, pelaksana, dan pengelola fasilitas yang berwenang memberi keputusan. Siapkan denah kondisi terpasang, daftar ruang atau nomor cubicle, gambar detail pintu dan partisi, daftar produk, catatan perubahan lapangan, serta formulir temuan. Jika dokumen belum mencerminkan kondisi aktual, statusnya adalah pekerjaan yang perlu dilengkapi, bukan penerimaan penuh.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Pisahkan tiga hasil: diterima, diterima dengan daftar perbaikan, atau ditunda. Kategori itu membantu pengelola mengetahui apakah ruang boleh dipakai dan siapa yang menutup temuan. Jangan mengisi tanggal penyelesaian atau masa garansi tanpa dokumen proyek yang sah.
 
-### KR-01
+Untuk langkah berikutnya, pengelola dapat memakai [halaman cubicle kantor](/cubicle/kantor) sebagai rujukan jenis ruang. Contoh konteks ruang kantor pada [proyek kantor Yogyakarta](/kantor-yogyakarta.html) dapat membantu menyamakan istilah, tetapi keputusan serah terima tetap mengikuti gambar dan catatan proyek yang aktual.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+## Langkah 1 — Tetapkan batas cubicle, sirkulasi, dan antarmuka pekerjaan
 
-### KR-03
+Ruang lingkup (scope) berarti batas objek yang benar-benar diperiksa. Menetapkannya di awal mencegah pintu, lantai, plafon, listrik, dan sistem gedung dianggap otomatis termasuk hanya karena berdekatan dengan cubicle.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Tuliskan zona yang diserahterimakan, jumlah modul, panel, meja, pintu, engsel, kunci, serta aksesori yang memang ada di kontrak. Tandai antarmuka dengan lantai, plafon, dinding, jalur kabel, sprinkler, pencahayaan, dan akses evakuasi. Persyaratan aksesibilitas dan sirkulasi merupakan bagian dari sistem bangunan; dimensi atau aturan setempat harus diperiksa pada proyek, bukan ditebak dari label produk.
 
-### KR-19
+Tetapkan pula perubahan yang tidak termasuk. Misalnya, pemindahan stopkontak atau perubahan jalur layanan gedung memerlukan pemilik pekerjaan dan pemeriksa yang berbeda. Sobat Kaca.co.id, tulis pengecualian ini di daftar serah terima agar permintaan perubahan berikutnya tidak disalahartikan sebagai cacat pemasangan.
 
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
+## Langkah 2 — Kumpulkan dan cocokkan bukti material serta kondisi terpasang
 
-### KR-10
+Setelah batasnya jelas, pemeriksaan beralih dari “terlihat rapi” menjadi “dapat ditelusuri”. Setiap item perlu pasangan bukti: posisi pada denah, identitas produk atau komponen, foto pemeriksaan, dan catatan penerimaan.
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Untuk kaca, bedakan kaca laminasi—lapisan antar-kaca membantu menahan pecahan tetap terikat—dari kaca yang dikeraskan (tempered)—perlakuan panas yang mengubah perilaku pecah. Keduanya bukan jaminan kecocokan untuk semua lokasi. Rujukan produk keselamatan Indonesia tersedia pada [SNI 9144-1:2022 untuk kaca laminasi](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022) dan [SNI 9144-2:2022 untuk kaca pengaman yang dikeraskan](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022); halaman tersebut tidak menggantikan penilaian desain dan aturan bangunan yang berlaku.
 
-### KR-06
+Periksa apakah bukaan, lubang, takikan, dan pekerjaan tepi sudah dikerjakan sebelum proses perlakuan panas. Panduan lingkup ASTM untuk kaca dasar, kaca yang diproses panas, dan kaca laminasi menempatkan riwayat fabrikasi serta penelusuran produk sebagai hal yang perlu dikendalikan ([ASTM C1036](https://store.astm.org/c1036-25.html), [ASTM C1048](https://store.astm.org/c1048-25.html), [ASTM C1172](https://store.astm.org/c1172-24e01.html)). Karena itu, lubang yang baru diminta setelah kaca terpasang dapat berujung pada pembuatan ulang; jangan menjadikannya pekerjaan bor di tempat tanpa persetujuan teknis.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Cocokkan operasi pintu secara sederhana: arah bukaan, kelancaran gerak, fungsi pengunci, celah terhadap lantai, dan tanda benturan. Catat kondisi awal, bukan menjanjikan angka performa. Bila ada gores, retak, komponen longgar, atau pintu mengganggu jalur, beri nomor temuan dan lokasi yang mudah ditemukan.
 
-### KR-12
+## Langkah 3 — Jalankan urutan pemeriksaan dan simulasi perubahan tata letak
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Urutan kerja membuat pemeriksaan konsisten dan mengurangi keputusan spontan. Mulailah dari denah dan zonasi, lanjutkan ke jalur sirkulasi, kemudian elemen cubicle, pintu, dan dokumen.
 
-### KR-13
+Pertama, berjalanlah mengikuti jalur yang akan dipakai penghuni dan petugas pemeliharaan. Amati apakah furnitur, daun pintu, atau panel menghalangi akses yang disepakati. Kedua, cocokkan nomor cubicle dan arah pintu dengan denah terpasang. Ketiga, periksa sambungan dan komponen yang mungkin disentuh saat perawatan tanpa membuka bagian yang bukan kewenangan tim serah terima.
 
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
+Lakukan simulasi perubahan tata letak berbasis gambar: pindahkan satu modul pada denah, lalu tanyakan dampaknya pada jalur orang, pintu, kabel, pencahayaan, dan panel yang harus dibuat ulang. Simulasi ini bukan izin untuk membongkar. Kawan Kaca.co.id, keputusan perubahan harus menunggu gambar revisi dan persetujuan pihak yang bertanggung jawab atas sistem terkait.
 
-## Evidence gates
+## Titik berhenti: kapan serah terima harus dihentikan
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Bagian ini penting karena tanda tangan yang terlalu cepat dapat memindahkan risiko kepada pengelola fasilitas. Hentikan penerimaan penuh bila bukti produk tidak cocok dengan item terpasang, jalur akses belum jelas, pintu tidak dapat diuji, atau ada perubahan lapangan tanpa gambar revisi.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Jangan meneruskan pekerjaan bila diperlukan penilaian struktur, keselamatan, kebakaran, atau aksesibilitas yang belum dilakukan. [NEEDS GATE-01 sampai GATE-08: konfirmasi proyek dan pemeriksaan pihak kompeten untuk setiap temuan yang memengaruhi keselamatan, kepatuhan, atau keputusan utama.] Satu label “safety glass” (kaca keselamatan) juga tidak membuktikan semua fungsi keselamatan atau kecocokan satu rakitan; minta dasar desain dan bukti pengujian yang tepat sebelum menyetujui.
 
-## Internal-link plan
+## Verifikasi hasil, berita acara, dan serah terima ke pengelola fasilitas
 
-### Existing local routes
+Verifikasi akhir mengubah hasil pemeriksaan menjadi rekaman yang dapat dipakai setelah tim pemasangan pergi. Buat tabel dengan kolom lokasi, item, kondisi, bukti, status, penanggung jawab, dan tanggal tindak lanjut.
 
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kantor-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Lampirkan denah kondisi terpasang, daftar komponen, instruksi operasi pintu dan pembersihan yang memang disediakan produsen, serta daftar suku cadang atau kontak pemeliharaan bila tersedia dalam dokumen proyek. Jelaskan bagian yang tidak diserahkan, misalnya sistem gedung atau pekerjaan penyewa lain.
 
-### Planned sibling articles
+Berita acara sebaiknya menyebutkan status penerimaan dan daftar pengecualian, bukan kalimat umum “sudah sesuai”. Setelah perbaikan, lakukan pemeriksaan ulang pada lokasi yang sama dan ubah status hanya berdasarkan bukti baru. Teman Kaca.co.id, simpan versi denah dan foto dengan penamaan konsisten supaya perubahan tata letak berikutnya dapat dibandingkan dengan kondisi awal.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Jalan pintas yang sering dipilih dan mengapa dapat gagal
 
-- `CUB-08-04` → `/artikel/privasi-ruang-kantor-kaca.html` — Privasi Visual untuk Ruang Meeting dan Ruang Kerja
-- `CUB-08-05` → `/artikel/partisi-kantor-reconfigurable.html` — Partisi Kantor Reconfigurable: Apa yang Harus Dicek
+Jalan pintasnya adalah menerima cubicle karena tampak rapi, lalu berjanji akan merapikan dokumen nanti. Cara ini gagal ketika pengelola harus mencari jalur kabel, mengganti engsel, atau memindahkan modul tetapi tidak tahu kondisi awal dan batas tanggung jawab.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Alternatif yang lebih aman adalah menunda tanda tangan penerimaan penuh, menerbitkan daftar temuan, dan menyepakati siapa yang menutup masing-masing item. Pemeriksaan tidak perlu mengarang angka performa; cukup pastikan bukti, lokasi, fungsi yang dapat diuji, dan keputusan yang masih memerlukan pemeriksaan lanjutan.
 
-## Hasil akhir dan prasyarat
+## Kesimpulan: serah terima adalah paket operasi, bukan seremoni
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Serah Terima Cubicle Kantor kepada Pengelola Fasilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Serah terima cubicle kantor kepada pengelola fasilitas siap dilakukan ketika ruang lingkup, denah kondisi terpasang, bukti material, fungsi pintu, jalur sirkulasi, dan daftar temuan telah cocok. Mulailah dengan rapat singkat untuk menyepakati batas dan dokumen, lalu lakukan pemeriksaan berurutan dan simpan berita acara beserta pengecualiannya.
 
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Serah Terima Cubicle Kantor kepada Pengelola Fasilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Serah Terima Cubicle Kantor kepada Pengelola Fasilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Serah Terima Cubicle Kantor kepada Pengelola Fasilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Serah Terima Cubicle Kantor kepada Pengelola Fasilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Serah Terima Cubicle Kantor kepada Pengelola Fasilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah Anda berikutnya: minta pengelola menandatangani daftar item yang benar-benar diperiksa, bukan hanya foto ruangan. Jika ada isu keselamatan, aksesibilitas, struktur, atau sistem gedung, tahan penerimaan dan minta pemeriksaan pihak kompeten. Aturan operasinya sederhana: setiap perubahan tata letak harus kembali ke gambar, bukti, dan persetujuan yang sesuai.

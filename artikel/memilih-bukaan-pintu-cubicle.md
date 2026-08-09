@@ -2,8 +2,9 @@
 article_id: CUB-05-02
 title: "Memilih Pintu Swing, Sliding, atau Konfigurasi Lain"
 slug: "memilih-bukaan-pintu-cubicle"
-description: "Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya"
-status: outline
+description: "Panduan memilih tipe bukaan pintu cubicle berdasarkan ruang, alur pakai, dan kecocokan komponennya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,217 +15,83 @@ reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/memilih-bukaan-pintu-cubicle.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
-  - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Memilih Pintu Swing, Sliding, atau Konfigurasi Lain
 
-## Assignment lock
+Halo, Teman Kaca.co.id! Saat memilih pintu cubicle, jangan mulai dari foto atau harga engsel. Tanyakan dahulu: apakah ruang di depan pintu cukup untuk daun berayun, atau harus tetap lega untuk orang dan peralatan?
 
-- **Writer task:** Expand this file into one complete article answering: “Memilih Pintu Swing, Sliding, atau Konfigurasi Lain”
-- **Reader and situation:** Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya
-- **Reader outcome:** Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya
-- **Primary intent:** Menentukan tipe bukaan dari ruang dan operasi
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Konsep bukaan; aksesibilitas dan egress perlu review proyek.
-- **Final public route:** `/artikel/memilih-bukaan-pintu-cubicle.html`
-- **Appointed CMS date:** `2025-10-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Pilih pintu swing (ayun) bila bidang sapuan aman dan arah buka dapat dikendalikan. Pilih pintu sliding (geser) bila ruang depan terbatas dan ada bidang dinding untuk lintasan daun. Konfigurasi lipat dipertimbangkan bila ruang parkir terbatas tetapi mekanisme, sambungan, dan perawatannya dapat digambar jelas. Rangka (frame) dan perangkat pasang (fitting) harus diperlakukan sebagai satu sistem.
 
-## Opening instructions
+Kondisi ruang, jalur servis, kebutuhan akses, arah keluar, jenis kaca, dan sambungan ke dinding dapat mengubah pilihan. Aksesibilitas dan jalur evakuasi perlu peninjauan proyek oleh pihak kompeten.
 
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih Pintu Swing, Sliding, atau Konfigurasi Lain**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Exact Markdown to insert:** `![Ilustrasi glass cubicle](/wp-content/uploads/2022/07/glass-cubicle.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `glass cubicle` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Selection basis:** filename/source metadata identifies the assigned local asset; no pixels were inspected.
+- **Hard boundary:** jangan mengarang detail visual, lokasi, orang, merek, kondisi, performa, atau hasil proyek.
+END MANAGED IMAGE PLAN -->
+![Ilustrasi glass cubicle](/wp-content/uploads/2022/07/glass-cubicle.jpg)
 
-## Evidence packet
+Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+## Apa yang dipilih: gerak bukaan dan ruang yang dibutuhkannya
 
-### KR-01
+Bukaan adalah cara daun bergerak beserta ruang dan komponen yang membuat gerak itu aman. Pintu ayun berputar pada engsel sehingga memerlukan bidang sapuan dan penahan (stopper). Pintu geser bergerak sejajar bidangnya sehingga memerlukan rel, penyangga, serta ruang parkir daun. Lipat mengurangi sebagian ruang parkir, tetapi menambah sambungan dan titik penyetelan.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Kesalahan umum adalah membandingkan satu komponen saja. Engsel, rel, pegangan, rangka, kaca, dan titik sambungan harus cocok sebagai rangkaian. Catat ukuran bukaan bersih, arah gerak, ruang parkir, dan jalur orang sebelum memilih model.
 
-### KR-03
+## Cara menentukan pintu ayun, geser, atau lipat dari alur penggunaan
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Bagian ini menerjemahkan denah menjadi urutan nyata agar pilihan tidak dibuat dari tampilan produk.
 
-### KR-10
+Tandai area yang harus tetap dapat dilewati saat pintu dibuka dan saat sedang digerakkan. Untuk pintu ayun, periksa konflik dengan kloset, partisi, dan orang yang lewat. Untuk pintu geser, ukur lintasan penuh, posisi daun saat terbuka, serta akses membersihkan rel.
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Telusuri urutan mendekat, meraih pegangan, membuka, masuk, menutup, dan keluar. Bila satu langkah membuat pengguna mundur ke jalur orang lain, minta peninjauan tata letak. Jangan menganggap arah buka mudah diubah setelah lubang kaca dan fitting ditetapkan.
 
-### KR-19
+Ketebalan kaca juga bukan tebakan dari label pintu. ASTM E1300 menjelaskan bahwa pemilihannya bergantung pada dimensi, tumpuan tepi, jenis kaca, beban, dan perilaku sistem. Gunakan perhitungan serta tinjauan proyek, bukan angka dari contoh lain. [Rujukan ASTM E1300-24](https://store.astm.org/e1300-24.html)
 
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
+## Faktor ruang, keselamatan, dan kecocokan komponen
 
-### KR-06
+Ruang pendekatan, arah keluar, visibilitas, dan jalur servis adalah bagian dari keputusan. Lebar pada denah belum tentu cukup ketika daun dan tubuh pengguna hadir bersamaan. Jangan menyatakan konfigurasi pasti aksesibel tanpa aturan proyek yang berlaku.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Kaca laminated dan tempered memiliki perilaku pecah berbeda. SNI 9144-1:2022 dan SNI 9144-2:2022 menjadi rujukan produk masing-masing; halaman BSN tidak membuktikan kelas bentur, ukuran minimum, atau kewajiban aplikasi. [Rujukan laminated](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022) dan [rujukan tempered](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022).
 
-### KR-12
+Pastikan perangkat pasang (fitting) cocok dengan jenis kaca, lubang, tepi, rangka, dan beban. Rel atau engsel yang dapat dipasang secara fisik belum tentu kompatibel. Minta gambar detail, daftar komponen, batas penggunaan, dan konfirmasi tertulis.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+## Contoh keputusan berdasarkan denah
 
-### KR-14
+Jika jalur orang ramai dan dinding samping panjang, sliding mungkin mengurangi konflik sapuan. Keputusan baru lengkap setelah ruang parkir, panjang rel, stopper, dan akses pembersihan diperiksa.
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+Jika area depan lapang, swing dapat lebih sederhana. Tetapkan arah buka, posisi stopper, dan jarak dari perlengkapan tetap pada gambar sebelum memesan kaca.
 
-## Evidence gates
+Jika denah sempit di dua arah, lipat dapat dipertimbangkan. Bandingkan jumlah panel, sambungan, dan gerakan saat dibersihkan. Bila mekanisme sulit dijelaskan dalam gambar urutan, minta review desain.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Untuk konteks ruang sanitasi, lihat [gambaran umum cubicle](/cubicle) dan [contoh penggunaan pada toilet](/cubicle/toilet) sebagai langkah awal memahami hubungan partisi, pintu, dan jalur pengguna. Tautan itu bukan pengganti gambar kerja proyek.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Sobat Kaca.co.id, tulis tabel berisi kondisi ruang, gerak, komponen, titik risiko, dan bukti pemeriksaan. Tabel ini lebih berguna daripada nama model.
 
-## Internal-link plan
+## Kesalahan memilih bukaan dan pemeriksaan sebelum pesan
 
-### Existing local routes
+Sliding tidak selalu menghemat ruang; periksa ruang parkir dan lintasan rel. Jangan mencampur rangka dan perangkat pasang hanya karena warnanya serupa. Jangan memakai ketebalan kaca proyek lain. Tanyakan pula cara membersihkan rel, menyetel engsel, dan mengganti komponen.
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Jalan pintas “pilih yang paling murah” juga menyesatkan. Harga daun tidak mencakup perubahan denah, penyangga, penyetelan, pemeriksaan, dan perawatan. Kawan Kaca.co.id, bila vendor tidak menanyakan denah, arah gerak, kaca, dan jalur pengguna, minta gambar bukaan serta daftar komponen sebelum melanjutkan.
 
-### Planned sibling articles
+Pertimbangkan pula urutan penggunaan setelah pintu bergerak: pengguna harus dapat masuk, menutup, mengunci, dan keluar tanpa berebut dengan orang yang lewat. Tandai posisi pegangan dan stopper pada denah, lalu minta pemeriksaan terhadap benturan dengan panel tetap, sanitair, atau perlengkapan lain. Jika data itu belum ada, simpan sebagai pertanyaan yang harus dijawab sebelum pemesanan.
 
-These are future routes. Do not link them as live until their HTML exists.
+Sebelum keputusan dikirim, lakukan simulasi singkat bersama pengguna ruang. Minta seseorang mengikuti jalur masuk, menutup pintu, mengoperasikan pengunci, lalu keluar sambil memperhatikan orang atau peralatan yang mungkin berada di dekat daun pintu. Catat posisi pegangan, stopper, dan titik benturan pada denah yang sama dengan panel kaca. Jika hasil simulasi berbeda dari asumsi awal, ubah gambar dan minta persetujuan ulang; jangan mengandalkan penyesuaian lapangan pada kaca yang sudah diproses. Simpan versi denah, tanggal pemeriksaan, dan nama penanggung jawab agar alasan pemilihan bukaan tetap dapat ditelusuri saat tata ruang berubah.
 
-- `CUB-05-01` → `/artikel/anatomi-hardware-cubicle-kaca.html` — Anatomi Hardware Cubicle Kaca dan Fungsi Tiap Komponen
-- `CUB-05-03` → `/artikel/membandingkan-frame-cubicle-kaca.html` — Frame Aluminium, Stainless, dan Sistem Minim Frame
-- `CUB-05-04` → `/artikel/kompatibilitas-hardware-kaca.html` — Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca
+Mintalah penanggung jawab ruang menyetujui skenario penggunaan yang diuji, bukan hanya gambar tampak atas. Persetujuan itu perlu menyebut siapa yang memeriksa lintasan, kapan pemeriksaan dilakukan, dan perubahan apa yang masih terbuka. Dengan catatan tersebut, tim dapat mengulang uji setelah furnitur atau utilitas bergeser tanpa menganggap ukuran lama tetap benar. Jika konflik belum selesai, tahan pemesanan dan simpan penanda tinjauan pada paket gambar.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kesimpulan: pilih gerak yang cocok, lalu buktikan sistemnya
 
-## Jawaban singkat dan salah paham utama
+Swing cocok ketika sapuan aman; sliding ketika lintasan dan parkir tersedia; lipat ketika manfaat ruang jelas dan mekanismenya dapat dirawat. Tidak ada pilihan universal.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Pintu Swing, Sliding, atau Konfigurasi Lain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tandai denah, gambar urutan buka-tutup, tetapkan kaca dan fitting sebagai satu paket, lalu minta peninjauan kompeten untuk aksesibilitas, jalur evakuasi, dan perhitungan kaca. Jangan memesan dari nama model saja—pesan sistem yang geraknya, penopangnya, dan batas penggunaannya dapat dijelaskan.
 
-## Definisi dan batas objek
+Sebelum meminta penawaran, siapkan denah dengan ukuran bukaan, arah gerak, posisi perlengkapan tetap, dan ruang parkir. Sertakan jenis kaca yang direncanakan serta siapa yang memeriksa hasil pemasangan. Dengan dokumen itu, pembicaraan beralih dari “bisa dibuat” ke cara kerja dan bukti kecocokannya.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Pintu Swing, Sliding, atau Konfigurasi Lain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Pintu Swing, Sliding, atau Konfigurasi Lain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Pintu Swing, Sliding, atau Konfigurasi Lain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Pintu Swing, Sliding, atau Konfigurasi Lain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Pintu Swing, Sliding, atau Konfigurasi Lain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jika kondisi lapangan berubah, ulangi pemeriksaan. Perubahan dinding atau perlengkapan dapat mengubah sapuan swing, panjang rel sliding, dan titik beban fitting. Simpan versi gambar dan catatan persetujuan agar keputusan dapat ditelusuri.

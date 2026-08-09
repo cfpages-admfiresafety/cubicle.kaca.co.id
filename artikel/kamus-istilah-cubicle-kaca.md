@@ -2,8 +2,9 @@
 article_id: CUB-01-02
 title: "Kamus Istilah Cubicle Kaca untuk Tim Proyek"
 slug: "kamus-istilah-cubicle-kaca"
-description: "Memahami komponen, istilah, dan batas sistem sebelum memilih"
-status: outline
+description: "Memahami komponen, istilah, dan batas sistem sebelum memilih cubicle kaca"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,213 +20,104 @@ sources:
   - "https://www.iso.org/standard/84945.html"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://store.astm.org/c1036-25.html"
   - "https://store.astm.org/c1048-25.html"
   - "https://store.astm.org/c1172-24e01.html"
   - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Kamus Istilah Cubicle Kaca untuk Tim Proyek
 
-## Assignment lock
+Halo, Kawan Kaca.co.id! Istilah di penawaran cubicle kaca sering terdengar saling menggantikan, padahal masing-masing menunjuk benda, ukuran, atau bukti yang berbeda. “Tempered”, “laminated”, “U-value”, dan “hardware” (perangkat keras) bukan empat cara menyebut kaca yang sama. Jika definisinya kabur, dua penawaran terlihat sebanding padahal lingkup, tanggung jawab, dan cara penerimaannya berbeda.
 
-- **Writer task:** Expand this file into one complete article answering: “Kamus Istilah Cubicle Kaca untuk Tim Proyek”
-- **Reader and situation:** Memahami komponen, istilah, dan batas sistem sebelum memilih
-- **Reader outcome:** Memahami komponen, istilah, dan batas sistem sebelum memilih
-- **Primary intent:** Mengartikan istilah saat membaca dokumen
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Referensi bahasa; bukan panduan pemilihan.
-- **Final public route:** `/artikel/kamus-istilah-cubicle-kaca.html`
-- **Appointed CMS date:** `2025-07-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: baca setiap istilah sebagai bagian dari sistem—panel, sambungan, pintu, perangkat keras, kondisi pemasangan, dan dokumen pembuktiannya. Kamus ini membantu Anda menerjemahkan bahasa dokumen dan mengenali pertanyaan lanjutan. Ini referensi bahasa, bukan panduan memilih ketebalan, menyatakan kepatuhan, atau menyetujui desain. Nilai yang menentukan tetap bergantung pada gambar, beban, penggunaan, aturan setempat, dan telaah kompeten.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kamus Istilah Cubicle Kaca untuk Tim Proyek**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+- Image ID: `LOCAL-002`
+- Source type: `local`
+- Placement: after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi produk cubicle toilet](/wp-content/uploads/2022/07/produk-cubicle-toilet.jpeg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `produk cubicle toilet` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- Caption/credit: Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
+- Selection basis: filename/source metadata identifies `produk cubicle toilet` as relevant content media; no pixels were inspected.
+- Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
+![Ilustrasi produk cubicle toilet](/wp-content/uploads/2022/07/produk-cubicle-toilet.jpeg)
 
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
-
-### KR-19
-
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
-
-### KR-03
-
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
-
-### KR-10
-
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
-
-### KR-06
-
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
-
-### KR-12
-
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
-
-### KR-13
-
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-01-01` → `/artikel/anatomi-sistem-cubicle-kaca.html` — Apa Itu Sistem Cubicle dan Partisi Kaca?
-- `CUB-01-03` → `/artikel/beda-cubicle-partisi-bilik-kaca.html` — Cubicle, Partisi, Bilik, dan Sekat Kaca: Apa Bedanya?
-- `CUB-01-04` → `/artikel/komponen-sistem-partisi-kaca.html` — Komponen Sistem Kaca: Panel, Frame, Hardware, dan Seal
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Istilah Cubicle Kaca untuk Tim Proyek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari kalimat fungsi, bukan dari nama produk. Tulis apakah yang dimaksud cubicle toilet, cubicle kantor, partisi, atau sekat; berapa unit dan posisi pintu; siapa yang menyediakan lantai, dinding, dan utilitas; serta kondisi apa yang harus diterima. Dengan begitu istilah “panel” memiliki referensi yang sama di gambar dan penawaran.
+
+Beberapa istilah inti:
+
+| Istilah | Arti kerja dalam dokumen | Batas yang perlu dicatat |
+| --- | --- | --- |
+| **Panel** | Lembaran pengisi bidang sekat. | Bukan otomatis seluruh sistem atau penyangga. |
+| **Frame/profil** (profil penyangga) | Elemen linear yang menahan, menyambung, atau merapikan tepi panel. | Material, ukuran, dan cara menambatkan harus dinyatakan. |
+| **Hardware** (perangkat keras) | Engsel, kunci, handle, bracket, clamp, atau aksesori operasi. | Kecocokan dengan kaca dan beban pintu perlu ditinjau. |
+| **Seal/gasket** | Bahan di antara kaca dan profil atau di sekitar sambungan. | Fungsi (celah, getaran, air, atau tampilan) tidak boleh diasumsikan. |
+| **Manifestation** | Tanda visual pada kaca agar bidang transparan lebih mudah dikenali. | Bukan pengganti kajian pencahayaan atau aksesibilitas. |
+| **As-built** (gambar kondisi terpasang) | Rekaman kondisi terpasang setelah perubahan lapangan. | Harus cocok dengan pemeriksaan dan serah terima, bukan sekadar revisi nama file. |
+
+Istilah “clear”, “tinted”, atau “film” menjelaskan tampilan atau lapisan, bukan otomatis tingkat privasi, pengurangan panas, atau akustik. Kawan Kaca.co.id, minta penulis dokumen menyebut objeknya: kaca, rakitan pintu, atau satu sistem cubicle.
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Istilah Cubicle Kaca untuk Tim Proyek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Saat membandingkan harga, pecah setiap baris menjadi panel, profil, pintu, perangkat keras, seal, pekerjaan ukur, pengiriman, pemasangan, perlindungan area, pembersihan, dan dokumen akhir. Tandai mana yang termasuk, dikecualikan, atau masih asumsi. Dua penawaran dengan jumlah panel sama belum sebanding bila salah satunya tidak memasukkan pintu, penguatan, akses sulit, atau pekerjaan ulang akibat perubahan ukuran.
+
+“Tempered” berarti kaca yang diproses perlakuan panas; “laminated” berarti susunan kaca dengan interlayer. Keduanya membawa perilaku pecah yang berbeda. Rujukan BSN untuk kaca pengaman berlaminasi dan kaca pengaman dikeraskan panas dapat dibaca pada [SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022) dan [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022). Halaman katalog itu membantu mengenali identitas standar, bukan memberi angka ketebalan atau mandat aplikasi untuk proyek Anda.
+
+Jika dokumen menyebut “U-value”, itu istilah perpindahan panas pada domain tertentu. [ISO 10292](https://www.iso.org/standard/89851.html) membahas transmittance termal pusat kaca (center-of-glass, yaitu nilai di bagian tengah kaca); nilainya tidak otomatis sama dengan performa seluruh jendela, pintu, atau partisi. “Light transmission” (transmisi cahaya) dan faktor surya adalah domain berbeda dalam [ISO 9050](https://www.iso.org/standard/35062.html), sedangkan “airborne sound insulation” (insulasi suara melalui udara) dibahas sebagai domain pengukuran tersendiri dalam [ISO 22897](https://www.iso.org/standard/84945.html). Karena itu, jangan mengubah satu angka material menjadi janji performa rakitan terpasang.
+
+Untuk konteks produk, rute yang relevan bagi pembaca adalah [cubicle toilet](/cubicle/toilet) dan [cubicle kantor](/cubicle/kantor). Keduanya membantu memberi nama aplikasi, tetapi tidak menggantikan gambar dan spesifikasi proyek.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Istilah Cubicle Kaca untuk Tim Proyek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bedakan setidaknya enam jenis bukti berikut:
+
+1. **Data produk** menjelaskan apa yang dibuat atau ditawarkan, bukan hasil terpasang.
+2. **Sertifikat atau daftar standar** menunjukkan identitas dan ruang lingkup dokumen. Ia tidak dengan sendirinya membuktikan satu proyek memenuhi semua persyaratan.
+3. **Laporan tes** menjawab metode, benda uji, konfigurasi, dan hasil pada kondisi tes tertentu. Tanyakan apakah konfigurasi itu sama dengan rakitan Anda.
+4. **Metode kerja** menjelaskan cara ukur, fabrikasi, instalasi, dan perlindungan. Metode bukan bukti bahwa pekerjaan telah dilakukan atau lulus.
+5. **Garansi** adalah janji kontraktual dengan syarat dan pengecualian; jangan menyamakannya dengan hasil uji.
+6. **Persetujuan dan inspeksi** mengikat keputusan proyek pada pihak yang berwenang, gambar revisi, dan kondisi aktual.
+
+Untuk istilah “design thickness” (ketebalan hasil desain) atau “glass sizing” (penentuan ukuran kaca), [ASTM E1300-24](https://store.astm.org/e1300-24.html) menunjukkan bahwa pemilihan dipengaruhi dimensi, tumpuan tepi, jenis kaca, beban, durasi, lubang atau takik, lendutan, dan konsekuensi pascapecah. Jangan menyalin tabel atau aturan praktis dari ringkasan publik lalu menyebutnya desain struktural. Minta perhitungan dan persetujuan profesional yang memakai edisi standar yang berlaku.
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Istilah Cubicle Kaca untuk Tim Proyek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan pertanyaan yang memaksa istilah menjadi tanggung jawab konkret:
 
-## Red flag dan biaya yang sering tersembunyi
+- Panel yang dimaksud kaca jenis apa, dengan proses dan penandaan apa, serta dokumen produknya yang mana?
+- Apakah ukuran akhir diambil sebelum fabrikasi? Siapa menyetujui revisi bila ukuran lapangan berubah?
+- Apa saja yang termasuk dalam “hardware lengkap”: engsel, kunci, handle, bracket, stopper, dan pengikat?
+- Bagaimana batas pekerjaan dengan lantai, dinding, plafon, utilitas, dan pekerjaan finishing?
+- Dokumen apa yang diserahkan: gambar revisi, daftar material, catatan inspeksi, manual perawatan, dan daftar pekerjaan yang belum selesai (punch list)?
+- Jika klaimnya akustik, termal, keselamatan, atau kebakaran, apakah bukti berlaku untuk rakitan terpasang yang sama—bukan hanya satu lembar kaca?
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Istilah Cubicle Kaca untuk Tim Proyek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk kaca yang akan diproses panas, rencana lubang, takik, dan ukuran harus ditetapkan sebelum perlakuan. [ASTM C1036](https://store.astm.org/c1036-25.html), [ASTM C1048](https://store.astm.org/c1048-25.html), dan [ASTM C1172](https://store.astm.org/c1172-24e01.html) membantu mengidentifikasi standar produk dan ruang lingkupnya; halaman katalog tersebut tidak dengan sendirinya menetapkan detail fabrikasi atau penerimaan visual. [Panduan NGA tentang permukaan kaca yang diproses panas](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf) membahas perhatian pada uraian kebutuhan fabrikasi, pengerjaan tepi, kebersihan, penandaan, serta perubahan bentuk seperti bow/warp (lengkung atau gelombang). Detail batas proses tetap harus dipastikan kepada pembuat kaca melalui dokumen yang berlaku.
+
+## Tanda bahaya dan biaya yang perlu diperjelas
+
+Waspadai penawaran yang hanya menulis “kaca tempered 10 mm” tanpa dimensi, tumpuan, jenis perangkat keras, atau gambar. Angka ketebalan tunggal tidak dapat menjadi jawaban universal. Tanda bahaya lain adalah “anti pecah”, “kedap suara”, atau “tahan api” tanpa menyebut rakitan, metode uji, dan batas klaim. Kaca saja tidak membuktikan kinerja pintu, frame, sambungan, atau seluruh sistem.
+
+Biaya tambahan dapat muncul dari ukur ulang, akses angkut, waktu tunggu area siap, perlindungan pekerjaan lain, perubahan ukuran setelah kaca diproses, pembuatan ulang, dan gambar kondisi terpasang. Sobat Kaca.co.id, minta setiap biaya itu ditempatkan sebagai inklusi, eksklusi, atau asumsi—bukan disembunyikan di kata “standar”.
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Istilah Cubicle Kaca untuk Tim Proyek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tetapkan pemeriksaan berdasarkan objeknya: jumlah dan identitas panel, posisi serta operasi pintu, kelengkapan perangkat keras, kondisi seal dan sambungan, kesesuaian gambar revisi, kebersihan, dan kerusakan yang terlihat. Simpan foto pemeriksaan, daftar pekerjaan yang belum selesai, tanggal perbaikan, serta dokumen material dan manual perawatan. Jangan menyatakan performa akustik, termal, keselamatan, atau kebakaran hanya dari inspeksi visual.
 
-## Objection or shortcut to address
+Sebelum pembayaran atau penerimaan pekerjaan, pastikan pihak yang berwenang menyetujui bahwa kondisi terpasang, bukti, dan batas tanggung jawab sudah jelas. **[NEEDS PROJECT REVIEW: peninjau proyek harus mengonfirmasi dasar penerimaan, aturan setempat, beban, dimensi, dan konfigurasi rakitan yang belum tersedia di paket ini.]** Penanda ini sengaja dipertahankan karena kamus istilah tidak dapat menggantikan peninjauan teknis proyek.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering dipilih
 
-## Required conclusion
+Jalan pintas yang tampak hemat adalah memakai satu istilah sebagai spesifikasi lengkap: “pakai tempered saja” atau “samakan dengan proyek sebelumnya”. Itu gagal ketika ukuran, tumpuan, pintu, penggunaan, atau antarmuka bangunan berubah. Alternatif yang lebih dapat ditelusuri adalah membuat lembar istilah: istilah, definisi kerja, objek yang dirujuk, bukti yang diminta, pihak penanggung jawab, dan status persetujuannya.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan: gunakan istilah sebagai bahasa bersama, bukan spesifikasi tunggal
 
-## Draft completion checklist
+Kamus istilah cubicle kaca membantu tim menerjemahkan panel, profil (frame), perangkat keras, seal, jenis kaca, metrik performa, dan dokumen pembuktian tanpa mencampuradukkan fungsi masing-masing. Langkah berikutnya: lampirkan lembar istilah itu pada permintaan penawaran, minta gambar dan bukti yang sesuai, lalu minta peninjauan kompeten untuk hal yang menyangkut beban, keselamatan, kepatuhan, atau performa.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: istilah boleh menjadi bahasa bersama, tetapi keputusan akhir harus bersandar pada konfigurasi terpasang, bukti yang tepat, dan persetujuan proyek yang berwenang. Teman Kaca.co.id, bila salah satu dari tiga hal itu belum ada, tandai sebagai terbuka—jangan menutupnya dengan asumsi.

@@ -2,8 +2,9 @@
 article_id: CUB-06-01
 title: "Memetakan Jalur Beban Sistem Cubicle Kaca"
 slug: "jalur-beban-cubicle-kaca"
-description: "Mengenali jalur beban, kondisi tumpuan, dan pemicu review insinyur"
-status: outline
+description: "Panduan mengenali jalur beban cubicle kaca, kondisi tumpuan, dan kapan perlu tinjauan insinyur."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,223 +16,98 @@ final_route: "/artikel/jalur-beban-cubicle-kaca.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
-  - "https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026"
-  - "https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key="
-  - "https://www.iso.org/standard/85237.html"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
-  - "https://pesta.bsn.go.id/produk/detail/8964-sniiso12543-12011"
-  - "https://pesta.bsn.go.id/produk/detail/8965-sniiso12543-22011"
-  - "https://pesta.bsn.go.id/produk/detail/8966-sniiso12543-32011"
-  - "https://www.iso.org/standard/72871.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Memetakan Jalur Beban Sistem Cubicle Kaca
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Memetakan Jalur Beban Sistem Cubicle Kaca”
-- **Reader and situation:** Mengenali jalur beban, kondisi tumpuan, dan pemicu review insinyur
-- **Reader outcome:** Mengenali jalur beban, kondisi tumpuan, dan pemicu review insinyur
-- **Primary intent:** Memahami bagaimana beban diteruskan
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Konsep koordinasi; bukan perhitungan atau persetujuan struktur.
-- **Final public route:** `/artikel/jalur-beban-cubicle-kaca.html`
-- **Appointed CMS date:** `2025-11-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memetakan Jalur Beban Sistem Cubicle Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-007`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-007
+Source type: local
+Placement: after the opening answer, before the first H2
 - **Exact Markdown to insert:** `![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata only; no pixels inspected.
+Hard boundary: do not infer visual details, ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: if unavailable, insert [NEEDS IMAGE REVIEW: LOCAL-007].
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Kaca.co.id! Saat melihat panel cubicle kaca, orang sering mengira semua beban berhenti di kaca. Padahal beban selalu mencari jalur: dari bidang penerima gaya, menuju sambungan, profil atau anchor, tumpuan lantai/dinding/plafon, lalu ke struktur gedung.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Pemetaan jalur beban berarti menggambar urutan itu dan memeriksa setiap antarmuka. Hasilnya membantu Anda membedakan beban yang harus dipikul sistem cubicle dari beban yang harus ditangani struktur gedung. Jawaban dapat berubah jika ukuran panel, kondisi tepi, jenis kaca, durasi beban, atau konsekuensi pecah berbeda. Artikel ini adalah panduan koordinasi, bukan perhitungan atau persetujuan struktur.
 
-### KR-01
+![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-### KR-02
+## Apa yang dimaksud jalur beban cubicle kaca?
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [official PUPR JDIH record](https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung)
-- **Purpose for this article:** Anchor Indonesian building articles in the current national building-governance framework.
-- **Safe grounded facts:** The regulation took effect on 2 February 2021 and replaced PP 36/2005. A project can therefore require national rules, SNI/technical standards, and location-specific regulations together.
-- **Limits:** Do not convert this high-level regulation into glass thicknesses, safety locations, or test pressures. Those need the applicable detailed rule and project design.
+Jalur beban adalah rangkaian elemen yang meneruskan gaya sampai tumpuan terakhir. Dengan arti ini, sealant, engsel, panel, profil, dan anchor tidak boleh diperlakukan sebagai satu komponen tanpa hubungan.
 
-### KR-12
+Mulailah dari sumber gaya yang relevan: berat sendiri, dorongan atau tarikan pengguna, benturan yang ditetapkan dalam desain, dan pengaruh lingkungan. Tulis gaya itu pada gambar, lalu ikuti arahnya melalui kaca, konektor, profil, anchor, dan tumpuan. Jika satu mata rantai belum jelas, jalur itu belum siap menjadi dasar keputusan.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Peraturan bangunan memberi kerangka tata kelola, tetapi tidak otomatis memberi ukuran kaca atau detail sambungan. PP No. 16 Tahun 2021 perlu dibaca bersama standar teknis dan dokumen proyek ([BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-### KR-14
+## Bagaimana beban diteruskan dari kaca ke struktur gedung?
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+Bagian ini menjelaskan urutan sebab-akibat agar tumpuan tidak disalahpahami sebagai sekadar tempat panel berdiri.
 
-### KR-05
+Panel menerima gaya pada bidang atau tepinya. Gaya itu menjadi tarik, tekan, lentur, atau geser pada kaca dan perangkat penahan. Konektor meneruskan gaya ke profil, tiang, atau fitting. Anchor memindahkan reaksi ke lantai, dinding, atau plafon; elemen gedung kemudian menyebarkannya ke sistem struktur.
 
-- **Original sources:** [SNI 47:2018 Konfirmasi 2026 — BSN](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [SNI 6353:2024 listing — BSN](https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key=), [ISO 16293-2:2025 official abstract](https://www.iso.org/standard/85237.html)
-- **Purpose for this article:** Establish current terminology and quality-reference starting points for ordinary float/flat and heat-strengthened glass.
-- **Safe grounded facts:** “Flat glass,” “heat-strengthened glass,” and “fully tempered safety glass” are not interchangeable labels. A base-glass quality standard does not by itself prove safety suitability, structural adequacy, or whole-system performance.
-- **Limits:** Full standards are required for tolerances, defect limits, tests, and acceptance criteria.
+Pada sambungan bersealant struktural, nama silikon saja tidak cukup. Geometri celah, kebersihan dan primer, pergerakan, pemeraman, kecocokan bahan, drainase, serta catatan uji rekat adalah kontrol terpisah ([manual Dow](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf)). Minta review tertulis dari produsen terpilih dan penanggung jawab desain bila kontrol itu belum terdokumentasi.
 
-### KR-06
+Untuk pemilihan kaca, ASTM E1300-24 menyebut dimensi, rasio sisi, tumpuan tepi, jenis kaca, besar dan lamanya beban, lubang atau takikan, lendutan, serta konsekuensi pascapecah sebagai pertimbangan ([ruang lingkup ASTM E1300-24](https://store.astm.org/e1300-24.html)). Tidak ada satu ketebalan yang otomatis aman untuk semua cubicle.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+## Kondisi tumpuan apa yang mengubah hasil?
 
-### KR-07
+Istilah tumpuan baru berguna setelah kondisi nyatanya dicatat. Tanyakan apakah panel ditahan di dua sisi, empat sisi, pada titik, atau melalui profil menerus. Catat apakah lantai dan plafon mampu menerima reaksi, bukan hanya terlihat rata.
 
-- **Original sources:** [SNI ISO 12543-1:2011 — BSN](https://pesta.bsn.go.id/produk/detail/8964-sniiso12543-12011), [SNI ISO 12543-2:2011 — BSN](https://pesta.bsn.go.id/produk/detail/8965-sniiso12543-22011), [SNI ISO 12543-3:2011 — BSN](https://pesta.bsn.go.id/produk/detail/8966-sniiso12543-32011), [ISO 12543-1:2021 official abstract](https://www.iso.org/standard/72871.html)
-- **Purpose for this article:** Prevent articles from reducing laminated glass to “two panes with plastic” or assuming every laminate has the same safety/security/post-breakage performance.
-- **Safe grounded facts:** Ply makeup, glass treatment, interlayer type/thickness, edge exposure, support, temperature, load duration, and intended threat/performance all matter. “Laminated” alone is not a performance class.
-- **Limits:** Do not silently substitute the newer ISO edition for the Indonesian SNI. State which document governs a project and obtain full text for requirements.
+Perubahan pada bentang, celah, posisi anchor, atau pergerakan bangunan mengubah pembagian gaya. Jenis kaca juga penting: kaca yang lebih kuat sebelum pecah belum tentu menahan pecahan setelah pecah. Kaca laminasi memiliki susunan lembaran dan interlayer yang memengaruhi perilaku pascapecah; rujukan produknya ada pada SNI 9144-1:2022 ([BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022)). Kaca tempered memiliki pertimbangan berbeda dan dirujuk pada SNI 9144-2:2022 ([BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)).
 
-## Evidence gates
+Kawan Kaca.co.id, jangan menutup kekosongan data dengan asumsi “kondisi standar”. Minta gambar tumpuan, spesifikasi kaca, detail sambungan, dan beban rencana. [NEEDS GATE-01: data beban dan tumpuan proyek]
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+## Contoh keputusan praktis saat memetakan jalur beban
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Gunakan skenario bersyarat berikut sebagai cara berpikir, bukan ukuran desain.
 
-## Internal-link plan
+| Temuan | Pertanyaan keputusan | Tindakan |
+|---|---|---|
+| Panel lebar, tumpuan tepi tidak lengkap | Ke mana reaksi tepi mengalir? | Tunda pemilihan ketebalan; minta skema dan review. |
+| Anchor berada pada finishing | Apakah lapisan itu meneruskan gaya ke struktur? | Verifikasi detail anchor dan elemen gedung. |
+| Sambungan memakai sealant struktural | Ada bukti kompatibilitas, pemeraman, dan uji rekat? | Minta prosedur dan persetujuan tertulis. |
+| Laminasi dipilih demi keselamatan | Apa fungsi pascapecah yang dibutuhkan? | Cocokkan susunan kaca-interlayer dengan standar. |
 
-### Existing local routes
+Jika jawaban belum ada, tandai isu terbuka, bukan izin pemasangan. [NEEDS GATE-02: detail anchor dan elemen struktur]
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Peta sederhana sebaiknya memuat panah arah gaya dan nama elemen pada tiap peralihan. Tandai pula apakah sambungan bekerja sebagai tumpuan menerus atau titik. Catatan ini memudahkan tim lapangan membandingkan gambar dengan kondisi terpasang dan mencegah perubahan kecil dilakukan tanpa pemeriksaan ulang.
 
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-06-02` → `/artikel/tumpuan-partisi-kaca.html` — Dinding, Lantai, dan Plafon sebagai Tumpuan Partisi Kaca
-- `CUB-06-03` → `/artikel/review-struktur-partisi-kaca.html` — Kapan Partisi Kaca Memerlukan Review Struktur
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan Jalur Beban Sistem Cubicle Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan Jalur Beban Sistem Cubicle Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan Jalur Beban Sistem Cubicle Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan Jalur Beban Sistem Cubicle Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan Jalur Beban Sistem Cubicle Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bila plafon hanya lapisan arsitektural, jangan langsung menganggapnya sebagai tumpuan struktural. Minta detail konstruksi yang menunjukkan bagaimana reaksi masuk ke balok atau pelat. Jika informasi itu belum tersedia, hentikan keputusan ukuran dan simpan pertanyaan tersebut dalam daftar koordinasi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memetakan Jalur Beban Sistem Cubicle Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Semakin tebal semakin aman” adalah jalan pintas yang menyesatkan. Ketebalan harus cocok dengan bentang, tumpuan, beban, lendutan, dan konsekuensi kegagalan; faktor itu tercakup dalam lingkup ASTM E1300-24.
 
-## Objection or shortcut to address
+Kesalahan lain adalah menyamakan tempered dan laminasi. Tempered berkaitan dengan perlakuan kekuatan dan pola pecah, sedangkan laminasi memakai lapisan pengikat untuk perilaku berbeda. Periksa dokumen produk dan fungsi yang diminta, bukan label dagang saja.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sealant juga bukan pengganti detail konstruksi. Prosedur pembersihan tidak otomatis membuktikan daya lekat pada semua substrat. Cocokkan bahan, geometri, pergerakan, pemeraman, dan inspeksi dengan sistem yang dipilih.
 
-## Required conclusion
+Teman Kaca.co.id dapat memakai daftar periksa: sumber gaya tertulis, arah panah beban, setiap sambungan diberi nama, tumpuan terakhir teridentifikasi, spesifikasi kaca dan sealant terdokumentasi, serta pihak penyetuju desain disebut. [NEEDS GATE-03: review insinyur untuk kondisi proyek]
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Bolehkah memilih kaca dari contoh proyek lain?
 
-## Draft completion checklist
+Contoh proyek lain hanya bahan diskusi, bukan bukti jalur beban yang sama. Bentang, tepi, anchor, beban, dan lingkungan yang berbeda dapat mengubah hasil. Kirim gambar, data beban, spesifikasi produk, dan detail tumpuan kepada perancang atau insinyur berwenang.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Dokumen yang dibawa saat meminta tinjauan sebaiknya konsisten: denah dan potongan, ukuran panel, jenis serta susunan kaca, detail profil dan anchor, bahan sealant, serta asumsi beban. Jelaskan juga bagian yang belum diketahui. Dengan begitu peninjau dapat menyatakan data mana yang cukup, mana yang perlu diukur, dan mana yang memerlukan keputusan desain baru.
+
+Untuk konteks ruang, lihat [cubicle toilet](/cubicle/toilet) atau [cubicle kantor](/cubicle/kantor); tautan itu bukan persetujuan struktur.
+
+## Kesimpulan: gambar jalur beban sebelum memilih spesifikasi
+
+Jalur beban cubicle kaca adalah urutan dari sumber gaya, panel, sambungan, anchor, tumpuan, hingga struktur gedung. Minta gambar tumpuan dan data beban, tandai semua antarmuka, lalu kirimkan paket itu untuk review kompeten. [NEEDS GATE-04: persetujuan desain akhir]
+
+Aturan operasinya: jangan mengubah peta beban menjadi ukuran kaca atau detail sambungan sebelum data proyek dan review insinyur tersedia.
+
+Simpan versi gambar yang telah ditinjau bersama catatan perubahan, sehingga setiap revisi ukuran dapat ditelusuri dan diperiksa kembali.

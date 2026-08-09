@@ -2,8 +2,9 @@
 article_id: CUB-14-02
 title: "Menyiapkan Referensi Finish, Warna, dan Motif Kaca"
 slug: "referensi-finish-kaca-cubicle"
-description: "Mengendalikan brief, visual, mockup, sampel, dan perubahan desain"
-status: outline
+description: "Panduan menyamakan tampilan, warna, motif, sampel, dan catatan perubahan kaca cubicle agar target desain dapat diperiksa bersama."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,8 +16,6 @@ final_route: "/artikel/referensi-finish-kaca-cubicle.html"
 technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026"
-  - "https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key="
-  - "https://www.iso.org/standard/85237.html"
   - "https://www.iso.org/standard/35062.html"
   - "https://www.iso.org/standard/89851.html"
   - "https://www.iso.org/standard/84945.html"
@@ -30,208 +29,91 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Menyiapkan Referensi Finish, Warna, dan Motif Kaca
 
-## Assignment lock
+Halo, Kawan Kaca.co.id! Saat memilih kaca cubicle, banyak orang cukup mengirim foto dari internet lalu menganggap warna dan kilapnya sudah pasti sama. Padahal cahaya ruangan, layar, lapisan, arah pemasangan, dan bingkai dapat mengubah kesan. Akibatnya, sampel yang datang terasa “berbeda” meski namanya sama.
 
-- **Writer task:** Expand this file into one complete article answering: “Menyiapkan Referensi Finish, Warna, dan Motif Kaca”
-- **Reader and situation:** Mengendalikan brief, visual, mockup, sampel, dan perubahan desain
-- **Reader outcome:** Mengendalikan brief, visual, mockup, sampel, dan perubahan desain
-- **Primary intent:** Mengomunikasikan target visual
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Input desain; bukan jaminan kecocokan warna/finish.
-- **Final public route:** `/artikel/referensi-finish-kaca-cubicle.html`
-- **Appointed CMS date:** `2026-05-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban praktisnya: jadikan referensi sebagai paket keputusan, bukan satu gambar. Catat objek yang hendak diberi finish, nama atau kode produk jika tersedia, kondisi pencahayaan, ukuran contoh, dan siapa yang menyetujui. Setelah itu cocokkan sampel fisik atau mockup dengan konteks pemasangan. Artikel ini membantu Anda menyusun brief, membandingkan bukti, mengatur perubahan, dan tahu kapan harus berhenti untuk review. Referensi ini mengendalikan target visual; bukan jaminan kecocokan warna atau finish di setiap proyek.
 
-## Opening instructions
+![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menyiapkan Referensi Finish, Warna, dan Motif Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.*
 
+## Hasil akhir referensi finish kaca dan prasyarat persetujuannya
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Bagian ini menjelaskan bentuk hasil yang perlu Anda pegang sebelum meminta penawaran atau produksi. Tujuannya mencegah kalimat “buat seperti contoh” ditafsirkan berbeda oleh pemilik, desainer, dan fabricator.
+
+Hasil akhirnya adalah satu lembar brief visual beserta sampel yang diberi identitas. Di dalamnya tercantum lokasi penggunaan (misalnya panel pintu atau sekat), pilihan permukaan (bening, buram, motif, cermin, atau berlapis), warna yang dituju, sisi yang terlihat, dan konteks cahaya. Sertakan gambar tampak, detail sambungan yang memengaruhi bidang terlihat, serta kolom persetujuan dan tanggal.
+
+Prasyaratnya adalah keputusan awal tentang fungsi dan batas tampilan. Istilah “finish” berarti tampilan akhir permukaan; mekanismenya dapat berasal dari tekstur, lapisan, pencetakan, atau perlakuan panas. Konsekuensinya berbeda: label warna saja tidak memberi tahu apakah permukaan mudah dibersihkan, bagaimana tepi dilindungi, atau apakah kaca cocok untuk sistem cubicle. Standar kaca datar seperti [SNI 47:2018](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026) membantu memulai pembicaraan mutu, tetapi tidak membuktikan kecocokan keseluruhan sistem.
+
+Mintalah pihak berwenang proyek menyatakan siapa yang menyetujui warna, motif, dan contoh fisik. Jika pemilik belum menetapkan kondisi pencahayaan atau bidang yang dibandingkan, tandai sebagai hal yang belum diputuskan, bukan diisi dengan asumsi.
+
+## Langkah 1 — tetapkan ruang lingkup warna, finish, dan motif kaca
+
+Sebelum mengumpulkan gambar, batasi dulu objek dan antarmukanya. Langkah ini penting karena satu istilah dapat merujuk pada kaca, film, cat, sealant, profil, atau aksesori yang terlihat bersamaan.
+
+Tuliskan bidang yang termasuk dan tidak termasuk: daun pintu, panel tetap, transom, profil, pegangan, serta area yang sengaja diberi tanda visual. Nyatakan pula apakah motif harus menerus antar-panel atau cukup menjadi aksen. Jangan mencampur pilihan material meja, keramik, atau pencahayaan ke dalam keputusan finish kaca kecuali memang memengaruhi tampilan yang dibandingkan.
+
+Jika memakai cermin atau kaca berlapis, catat sistem lapisan, sisi yang terekspos, perlindungan tepi, dan kriteria melihat. Rujukan BSN untuk [cermin berlapis aluminium](https://pesta.bsn.go.id/produk/detail/13726-47562021), [cermin berlapis perak](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011), dan [kaca berlapis](https://pesta.bsn.go.id/produk/detail/14858-sni92372023) menunjukkan mengapa kata “mirror” atau “coated” saja belum cukup untuk pengadaan.
+
+Tetapkan juga batas artikel ini: ia mengatur input desain, bukan menentukan tebal, jenis pengaman, detail struktur, atau kewajiban bangunan. Kawan Kaca.co.id, bila keputusan visual ternyata mengubah bukaan, hardware, atau sirkulasi, pindahkan pertanyaan itu ke tim desain dan review teknis terkait.
+
+## Langkah 2 — kumpulkan dan cocokkan bukti visual
+
+Setelah scope jelas, kumpulkan bukti yang dapat dibandingkan dalam kondisi serupa. Bagian ini mencegah keputusan hanya berdasarkan foto layar yang tidak memiliki skala dan pencahayaan yang jelas.
+
+Buat tabel sederhana: sumber referensi, tanggal, nama/kode, ukuran contoh, permukaan yang terlihat, arah cahaya, jarak pandang, dan catatan perbedaan. Simpan gambar asli sebagai inspirasi, tetapi gunakan sampel fisik atau mockup untuk keputusan akhir. Tandai apakah contoh berasal dari produk yang sama, seri lain, atau sekadar referensi visual.
+
+Pisahkan metrik. Transmisi cahaya adalah banyaknya cahaya yang lewat; perolehan panas matahari adalah energi surya yang masuk; nilai U adalah perpindahan panas pada pusat kaca; dan isolasi bunyi adalah kemampuan meredam suara udara. ISO menjelaskan domain pengukuran ini melalui [ISO 9050](https://www.iso.org/standard/35062.html), [ISO 10292](https://www.iso.org/standard/89851.html), dan [ISO 22897](https://www.iso.org/standard/84945.html). Nilai pusat kaca tidak otomatis menjadi kinerja seluruh pintu atau partisi. Karena itu, jangan menulis janji privasi, panas, atau akustik hanya dari nama motif.
+
+Untuk kaca yang akan diproses, masukkan posisi lubang, takikan, ukuran akhir, edgework (pengerjaan tepi), tanda, dan kebutuhan kebersihan ke brief sejak awal. Lingkup [ASTM C1036](https://store.astm.org/c1036-25.html), [ASTM C1048](https://store.astm.org/c1048-25.html), dan [ASTM C1172](https://store.astm.org/c1172-24e01.html) serta [panduan NGA tentang permukaan kaca yang dipanaskan](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf) mengingatkan bahwa perubahan setelah perlakuan panas dapat berarti membuat ulang, bukan memodifikasi di lapangan.
+
+## Langkah 3 — jalankan urutan kerja dari referensi ke persetujuan
+
+Urutan berikut menjaga jejak keputusan tanpa mengubah artikel ini menjadi instruksi fabrikasi. Setiap tahap menghasilkan bukti yang bisa diperiksa pada tahap berikutnya.
+
+Pertama, susun papan referensi dengan foto, swatch warna, deskripsi tekstur, dan konteks cahaya. Kedua, pilih kandidat dan minta sampel berlabel. Ketiga, tempatkan sampel pada panel atau mockup dengan profil dan hardware yang akan terlihat. Keempat, bandingkan dari jarak pandang yang disepakati pada waktu dan pencahayaan yang dicatat. Kelima, catat keputusan “setuju”, “setuju dengan syarat”, atau “kembali ke kandidat” beserta alasan.
+
+Jika motif berulang, periksa arah sambungan dan urutan panel pada gambar elevasi. Jika warna dipengaruhi lapisan atau latar belakang, tulis latar yang digunakan saat menilai. Jangan menyamakan hasil satu potongan kecil dengan bidang besar sebelum kondisi pembandingnya disetujui.
+
+Setiap perubahan setelah persetujuan harus memiliki nomor revisi, bagian yang berubah, alasan, dampak pada ukuran atau proses, dan persetujuan baru. Sobat Kaca.co.id, aturan sederhana ini sering lebih berguna daripada mengandalkan percakapan chat yang sulit dilacak.
+
+## Titik berhenti: kapan referensi finish harus ditinjau ulang
+
+Ada kondisi ketika keputusan visual tidak boleh diteruskan sebagai perintah produksi. Penanda ini melindungi proyek dari asumsi yang tampak kecil tetapi berdampak pada keselamatan atau kecocokan sistem.
+
+Hentikan alur bila sampel tidak memiliki identitas, permukaan yang dibandingkan tidak sama, warna berubah drastis menurut cahaya, atau mockup belum memuat profil dan hardware penting. Hentikan pula bila ada permintaan mengebor, memotong, atau mengubah ukuran setelah kaca diproses; minta penilaian fabricator dan penanggung jawab teknis.
+
+Istilah “safety glass” juga perlu diperiksa konteksnya. Kaca yang lebih kuat sebelum pecah tidak sama dengan kaca yang menahan pecahan atau tetap memikul beban setelah pecah. Rujukan [SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022) dan [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022) adalah titik mulai untuk verifikasi produk; jangan menambahkan kelas, jumlah pecahan, atau ketebalan tanpa dokumen lengkap dan review kompeten.
+
+## Verifikasi hasil dan serah terima referensi
+
+Sebelum handover, periksa apakah orang lain dapat memahami keputusan tanpa menebak. Checklist minimal mencakup kode atau nama sampel, foto kondisi pembanding, sisi permukaan, ukuran dan arah motif, status persetujuan, nomor revisi, serta daftar pertanyaan terbuka.
+
+Simpan sampel fisik dengan label yang sama seperti lembar brief. Rekam siapa yang melihat dan keputusan apa yang dibuat. Untuk cermin atau lapisan, tambahkan catatan perlindungan tepi dan cara pembersihan yang harus dikonfirmasi dari dokumen produk; kriteria visual dan kinerja fungsional adalah dua pemeriksaan berbeda. Rujukan [SNI ISO 11479-1](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014) dapat menjadi pengingat bahwa cacat fisik perlu dibahas dengan kriteria inspeksi yang tepat, bukan penilaian sepintas.
+
+### Jalan pintas yang tampak praktis tetapi berisiko
+
+Mengirim satu foto dari katalog lalu meminta “samakan persis” memang cepat. Namun mekanismenya menghilangkan skala, cahaya, sisi permukaan, dan jejak revisi, sehingga pihak berikutnya menafsirkan target secara berbeda. Alternatif yang lebih aman adalah mengirim paket foto plus sampel berlabel, menyebut kondisi pengamatan, lalu meminta persetujuan tertulis sebelum ukuran dan proses dikunci.
+
+## Kesimpulan: referensi finish adalah keputusan yang dapat dilacak
+
+Menyiapkan referensi finish, warna, dan motif kaca berarti mengubah selera visual menjadi brief yang punya objek, bukti pembanding, sampel, dan persetujuan. Mulailah dengan satu lembar identitas finish, cocokkan pada mockup dalam kondisi tercatat, lalu simpan setiap revisi.
+
+Langkah Anda berikutnya adalah meminta pihak proyek menyetujui sampel berlabel dan daftar batas ruang lingkup, kemudian mengirimkannya kepada fabricator untuk tinjauan proses. Untuk memahami pilihan ruang cubicle, Anda dapat mulai dari [halaman cubicle](/cubicle). Teman Kaca.co.id, bila data keselamatan, ukuran, atau kecocokan sistem belum tersedia, biarkan keputusan tetap berstatus menunggu. Referensi visual membantu komunikasi; ia tidak menggantikan pemeriksaan profesional atau jaminan bahwa warna dan finish akan tampak sama di lokasi.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
-
-- **Image ID:** `LOCAL-007`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- Image ID: LOCAL-007
+- Source type: local
+- Placement: after opening, before first H2
 - **Exact Markdown to insert:** `![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
-
-### KR-05
-
-- **Original sources:** [SNI 47:2018 Konfirmasi 2026 — BSN](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [SNI 6353:2024 listing — BSN](https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key=), [ISO 16293-2:2025 official abstract](https://www.iso.org/standard/85237.html)
-- **Purpose for this article:** Establish current terminology and quality-reference starting points for ordinary float/flat and heat-strengthened glass.
-- **Safe grounded facts:** “Flat glass,” “heat-strengthened glass,” and “fully tempered safety glass” are not interchangeable labels. A base-glass quality standard does not by itself prove safety suitability, structural adequacy, or whole-system performance.
-- **Limits:** Full standards are required for tolerances, defect limits, tests, and acceptance criteria.
-
-### KR-10
-
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
-
-### KR-13
-
-- **Original sources:** [ASTM C1036-25 official scope](https://store.astm.org/c1036-25.html), [ASTM C1048-25 official scope](https://store.astm.org/c1048-25.html), [ASTM C1172-24e1 official record](https://store.astm.org/c1172-24e01.html), [NGA heat-treated glass guidance](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf)
-- **Purpose for this article:** Establish safe, non-numeric fabrication facts and the need for fabrication-before-heat-treatment planning.
-- **Safe grounded facts:** A late hole, cutout, or size change can require remanufacture rather than field modification. Processing history, edgework, cleanliness, roller-wave/anisotropy expectations, bow/warp, marking, and traceability belong in the fabrication brief.
-- **Limits:** Exact processing limits and acceptance criteria are product/fabricator/standard specific. The ASTM public pages are not substitutes for licensed documents.
-
-### KR-08
-
-- **Original sources:** [SNI 4756:2021 aluminium-coated sheet mirror — BSN](https://pesta.bsn.go.id/produk/detail/13726-47562021), [SNI ISO 25537:2011 silver-coated mirror — BSN](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011), [SNI 9237:2023 coated glass — BSN](https://pesta.bsn.go.id/produk/detail/14858-sni92372023), [SNI ISO 11479-1:2014 physical defects — BSN](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014)
-- **Purpose for this article:** Ground mirror, coated-glass, façade color, inspection, defect, and procurement content.
-- **Safe grounded facts:** A generic “mirror” or “coated glass” label omits backing/coating system, exposed surface, edge protection, visual criteria, and compatibility concerns. Aesthetic acceptance and functional performance are separate.
-- **Limits:** Full standards and manufacturer documents are required for viewing conditions, defect limits, processing restrictions, and cleaning compatibility.
-
-### KR-03
-
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
-
-### KR-06
-
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-14-01` → `/artikel/brief-desain-cubicle-custom.html` — Cara Menulis Brief Desain Cubicle Kaca Custom
-- `CUB-14-03` → `/artikel/mockup-proyek-cubicle-kaca.html` — Kapan Proyek Cubicle Kaca Memerlukan Mockup
-- `CUB-14-04` → `/artikel/approval-sample-cubicle-kaca.html` — Approval Sample Kaca, Frame, dan Hardware
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Menyiapkan Referensi Finish, Warna, dan Motif Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Menyiapkan Referensi Finish, Warna, dan Motif Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Menyiapkan Referensi Finish, Warna, dan Motif Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menyiapkan Referensi Finish, Warna, dan Motif Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Menyiapkan Referensi Finish, Warna, dan Motif Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Menyiapkan Referensi Finish, Warna, dan Motif Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2022/07/cubicle-toilet.jpg)
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies cubicle toilet as relevant content media; no pixels were inspected.
+- Hard boundary: do not infer unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- Substitution rule: do not replace this image; if unavailable, use [NEEDS IMAGE REVIEW: LOCAL-007].
+END MANAGED IMAGE PLAN -->

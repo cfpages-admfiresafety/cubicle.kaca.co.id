@@ -2,8 +2,9 @@
 article_id: CUB-05-05
 title: "Hardware Cubicle untuk Area Basah: Bukti yang Dicari"
 slug: "hardware-cubicle-area-basah"
-description: "Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya"
-status: outline
+description: "Panduan memeriksa bukti kecocokan bukaan, rangka, perlengkapan, dan sambungan cubicle di area basah."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,52 +15,18 @@ reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/hardware-cubicle-area-basah.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/35062.html"
-  - "https://www.iso.org/standard/89851.html"
-  - "https://www.iso.org/standard/84945.html"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
   - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
   - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Hardware Cubicle untuk Area Basah: Bukti yang Dicari
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Hardware Cubicle untuk Area Basah: Bukti yang Dicari”
-- **Reader and situation:** Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya
-- **Reader outcome:** Memilih sistem bukaan, frame, fitting, serta kompatibilitas komponennya
-- **Primary intent:** Menilai kecocokan fitting untuk lingkungan basah
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Klaim korosi dan wet-area harus didukung dokumen produk.
-- **Final public route:** `/artikel/hardware-cubicle-area-basah.html`
-- **Appointed CMS date:** `2025-11-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Hardware Cubicle untuk Area Basah: Bukti yang Dicari**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
-
 - **Image ID:** `LOCAL-002`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -68,163 +35,87 @@ sources:
 - **Selection basis:** filename/source metadata identifies `produk cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Teman Kaca.co.id!
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Di kamar mandi atau ruang bilas, perangkat keras (hardware) cubicle sering dipilih karena bentuk dan harga lebih dulu. Masalah muncul ketika engsel, kaki, konektor, atau sekrup harus terus menerima air, uap, sabun, dan gerakan pintu. Label “stainless” atau “tahan air” saja belum menjawab apakah satu set bukaan, rangka (frame), kaca, dan sealant benar-benar cocok.
 
-### KR-01
+Jawaban singkatnya: pilih perangkat keras area basah berdasarkan bukti untuk material, lingkungan pemakaian, kompatibilitas antarkomponen, dan cara pemasangan. Minta lembar data produk serta tinjauan desain; jangan menyimpulkan ketahanan korosi hanya dari foto atau nama bahan. Kesimpulan dapat berubah bila dokumen produk tidak menyebut lingkungan basah, pasangan material, atau batas pemakaian.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+![Ilustrasi produk cubicle toilet](/wp-content/uploads/2022/07/produk-cubicle-toilet.jpeg)
 
-### KR-03
+Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+## Apa yang dimaksud hardware cubicle untuk area basah?
 
-### KR-10
+Istilah ini berarti seluruh komponen yang membuat panel dan pintu cubicle dapat berdiri, bergerak, dan tersambung di ruang yang sering terkena air. Jadi objeknya bukan engsel saja, melainkan hubungan antara pintu, panel, frame atau penyangga, konektor, sekrup, gasket, dan sealant. Batas ini penting agar Anda tidak meminta bukti korosi pada engsel, lalu melupakan sekrup atau titik sambungan yang justru menahan beban.
 
-- **Original sources:** [ISO 9050:2003 official abstract](https://www.iso.org/standard/35062.html), [ISO 10292:2026 official abstract](https://www.iso.org/standard/89851.html), [ISO 22897:2023 official abstract](https://www.iso.org/standard/84945.html)
-- **Purpose for this article:** Define the correct measurement domains for light/solar properties, center-of-glass thermal transmittance, and airborne sound insulation.
-- **Safe grounded facts:** Center-of-glass values are not whole-window values. Light transmission, solar heat gain, U-value, privacy, and acoustic insulation are different metrics. A pane result cannot automatically be claimed for an installed partition/window/façade.
-- **Limits:** ISO 9050 was current but under revision at verification. Recheck its edition before outline approval. Full standards/test reports are required for numbers.
+Untuk kaca, keputusan keselamatan tidak berhenti pada kata “safety glass”. BSN mencantumkan rujukan kaca laminasi keselamatan SNI 9144-1:2022 dan kaca diperkeras SNI 9144-2:2022; masing-masing perlu dibaca sesuai aplikasi dan konteks sistemnya ([SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)). Kaca yang lebih kuat sebelum pecah tidak otomatis menahan pecahan atau tetap memikul beban setelah pecah.
 
-### KR-19
+Karena itu artikel ini membahas cara meminta dan memeriksa bukti. Untuk melihat konteks produk cubicle secara umum, Anda dapat mulai dari [halaman cubicle toilet](/cubicle/toilet) sebelum kembali ke daftar pemeriksaan hardware. Artikel ini tidak menetapkan ketebalan kaca, kelas korosi, ukuran lubang, atau detail pemasangan untuk proyek tertentu. Ukuran dan persetujuan akhir tetap memerlukan data proyek serta peninjauan tenaga kompeten.
 
-- **Purpose for this article:** Prevent “fireproof glass” language and glass-only fire claims.
-- **Safe grounded facts:** Fire resistance, fire protection, temperature-rise performance, hose-stream performance, impact safety, and door/window assembly use are separate claims. One label does not prove all of them.
-- **Limits:** UL is not Indonesian law. Do not recommend an assembly until the Indonesian approval basis and exact current listing/test evidence are verified.
+## Bukti apa yang harus diminta sebelum memilih fitting?
 
-### KR-06
+Bagian ini mengubah istilah pemasaran menjadi pertanyaan yang bisa dijawab dokumen. Kesalahan umum adalah menganggap sertifikat satu komponen berlaku untuk seluruh rakitan. Di sini Anda memeriksa identitas produk, lingkungan, dan antarmuka yang benar-benar dipakai.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Pertama, minta lembar data dengan nama produk, material, lapisan permukaan, dan lingkungan pemakaian. Cari keterangan yang secara eksplisit menyebut area basah atau paparan air; bila hanya tertulis “cocok untuk interior”, tandai sebagai belum cukup. Klaim korosi dan wet-area harus didukung dokumen produk, bukan asumsi dari warna logam.
 
-### KR-12
+Kedua, cocokkan pasangan material. Air yang tertahan di antara logam berbeda, sekrup, washer, kaca, dan sealant dapat membuat sambungan bekerja berbeda dari komponen tunggal. Tanyakan material kontak, isolator bila diperlukan, dan cara drainase. Jika pabrikan tidak memberi batas kompatibilitas, jangan mengisi kekosongan itu dengan pengalaman umum.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Ketiga, minta bukti dimensi dan beban yang memang berlaku untuk konfigurasi Anda. ASTM E1300-24 menempatkan pemilihan kaca dalam konteks dimensi, tumpuan, beban, kondisi tepi, dan perilaku sistem; abstraknya tidak boleh dipakai sebagai tabel ketebalan siap pakai ([ASTM E1300-24](https://store.astm.org/e1300-24.html)). Hardware harus diteruskan ke desain sistem, bukan dipilih terpisah dari kaca dan tumpuannya.
 
-### KR-14
+## Bagaimana air, gerak pintu, dan sambungan memengaruhi sistem?
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+Heading ini menjelaskan mekanisme yang sering tidak terlihat saat survei singkat. Tujuannya mencegah Anda menyamakan “tidak bocor hari ini” dengan sistem yang sudah cocok untuk penggunaan berulang.
 
-## Evidence gates
+Air dapat masuk melalui celah, lubang, atau permukaan sambungan. Saat pintu bergerak, beban berpindah ke engsel dan konektor; gerakan kecil yang berulang dapat menggeser gasket atau membuka celah sealant. Akibatnya, masalah mungkin bermula pada satu titik kecil tetapi merambat ke frame dan panel.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Sealant bukan pengganti rancangan sambungan. Panduan Dow menjelaskan bahwa pemilihan sealant harus mempertimbangkan kebersihan substrat, primer, geometri sambungan, pergerakan, kondisi pematangan, material yang bersentuhan, drainase, dan kendali mutu ([Dow Structural Sealant Glazing Manual Asia](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf)). Daftar standar ASTM C24 juga memisahkan topik sealant dan adhesi, sehingga nama produk saja tidak membuktikan kecocokan ([ASTM C24 sealant](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Pada tahap pemasangan, catat urutan pembersihan, pengencangan, penyetelan pintu, dan pemeriksaan celah. Minta bukti adhesi atau kendali mutu yang ditetapkan untuk produk terpilih. Jangan memindahkan ukuran, prosedur, atau garansi dari merek lain ke sistem ini.
 
-## Internal-link plan
+## Faktor proyek yang dapat mengubah pilihan hardware
 
-### Existing local routes
+Sebelum membandingkan katalog, hubungkan kondisi lapangan dengan bukti yang dicari. Faktor berikut menentukan apakah sebuah dokumen benar-benar menjawab kebutuhan Anda.
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Lingkungan mencakup frekuensi basah, genangan, uap, bahan pembersih, dan kemampuan area untuk mengering. Tuliskan kondisi yang diketahui, lalu minta pabrikan menyatakan apakah produknya dirancang untuk kondisi tersebut. Jika kondisi belum terukur, kesimpulan harus ditahan.
 
-### Planned sibling articles
+Penggunaan mencakup arah ayunan, frekuensi buka-tutup, kemungkinan pintu ditarik dari samping, dan akses untuk membersihkan sambungan. Aksesibilitas dan sirkulasi juga memengaruhi dimensi bukaan, cara operasi, jarak pendekatan, dan keselamatan penggunaan. Detail preskriptif harus diperiksa dari aturan bangunan yang berlaku, bukan ditebak dari label produk.
 
-These are future routes. Do not link them as live until their HTML exists.
+Antarmuka mencakup ketebalan panel, posisi lubang, jarak tepi, toleransi, serta hubungan hardware dengan frame dan lantai. Satu komponen mungkin cocok sendiri, tetapi gagal ketika lubang kaca, gasket, dan konektor dipasangkan. Mintalah gambar pemasangan atau pernyataan kompatibilitas tertulis untuk konfigurasi yang sama.
 
-- `CUB-05-03` → `/artikel/membandingkan-frame-cubicle-kaca.html` — Frame Aluminium, Stainless, dan Sistem Minim Frame
-- `CUB-05-04` → `/artikel/kompatibilitas-hardware-kaca.html` — Kompatibilitas Hardware dengan Ketebalan dan Lubang Kaca
-- `CUB-05-06` → `/artikel/akses-servis-hardware-cubicle.html` — Akses Servis dan Penggantian Hardware Cubicle
+Sobat Kaca.co.id, jadikan setiap ketidakjelasan sebagai pertanyaan terbuka: “Dokumen mana yang membuktikan pasangan ini untuk kondisi kami?” Pertanyaan itu lebih aman daripada menutup celah informasi dengan istilah umum seperti antikarat.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Contoh keputusan praktis berdasarkan kelengkapan bukti
 
-## Jawaban singkat dan salah paham utama
+Skenario berikut bukan klaim proyek, melainkan cara membaca berkas yang Anda terima. Gunakan sebagai lembar keputusan, lalu minta tinjauan kompeten untuk rancangan final.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Hardware Cubicle untuk Area Basah: Bukti yang Dicari”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Situasi berkas | Keputusan sementara | Tindak lanjut |
+|---|---|---|
+| Ada material, lingkungan basah, pasangan material, dan instruksi pemasangan yang jelas | Masuk daftar kandidat | Cocokkan dengan gambar dan kondisi proyek |
+| Ada nama material, tetapi tidak ada batas lingkungan atau kompatibilitas | Belum dapat disetujui | Minta lembar data dan konfirmasi tertulis |
+| Hardware lengkap, tetapi lubang kaca, beban, atau tumpuan belum ditentukan | Hentikan pemilihan ukuran | Minta desain sistem dan pemeriksaan tenaga kompeten |
+| Sealant tersedia, tetapi tidak ada data adhesi, geometri, atau pematangan | Jangan menganggap sambungan aman | Minta prosedur produk terpilih dan catatan kendali mutu |
 
-## Definisi dan batas objek
+Bila hanya satu komponen memiliki bukti, nyatakan jelas bahwa bukti itu berlaku untuk komponen tersebut. Jangan memperluasnya menjadi jaminan untuk seluruh cubicle.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Hardware Cubicle untuk Area Basah: Bukti yang Dicari”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan memilih hardware area basah dan cara memeriksanya
 
-## Cara kerjanya
+Konteks pemeriksaan ini penting karena shortcut biasanya terlihat masuk akal saat pembelian. Memeriksa ulang berkas sebelum pemasangan mencegah biaya bongkar dan keputusan yang sulit dilacak.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Hardware Cubicle untuk Area Basah: Bukti yang Dicari”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama ialah memilih berdasarkan tulisan “stainless” tanpa nomor material atau lingkungan. Periksa identitas produk dan minta dokumen asli.
 
-## Faktor yang mengubah hasil
+Kesalahan kedua ialah menganggap fitting yang pas secara ukuran pasti kompatibel. Periksa ketebalan panel, lubang, gasket, sekrup, dan toleransi sebagai satu rangkaian.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Hardware Cubicle untuk Area Basah: Bukti yang Dicari”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga ialah memakai silikon apa pun untuk menutup celah. Periksa substrat, pembersihan, primer, pergerakan, drainase, dan bukti adhesi dari produsen yang dipilih.
 
-## Contoh keputusan praktis
+Kesalahan keempat ialah menyalin ketebalan kaca dari proyek lain. Data pemilihan kaca harus ditinjau berdasarkan dimensi, tumpuan, beban, dan konsekuensi pecah; jangan memakai angka tanpa desain yang sesuai.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Hardware Cubicle untuk Area Basah: Bukti yang Dicari”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Kaca.co.id, simpan versi dokumen, tanggal, dan konfigurasi yang disetujui. Jika ada perubahan material atau lubang setelah itu, ulangi pemeriksaan kompatibilitas.
 
-## Kesalahan umum dan cara memeriksanya
+## Kesimpulan: bukti hardware cubicle area basah harus membentuk satu sistem
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Hardware Cubicle untuk Area Basah: Bukti yang Dicari”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hardware cubicle untuk area basah layak dipertimbangkan ketika ada bukti tertulis tentang lingkungan, material, kompatibilitas, sambungan, dan pemasangan—bukan karena satu label atau satu komponen tampak meyakinkan. Mulailah dengan membuat daftar komponen dan kondisi basah, lalu minta lembar data serta konfirmasi pasangan material untuk konfigurasi nyata.
 
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Kaca.co.id, sebelum memesan atau mengebor kaca, serahkan gambar, data produk, dan kondisi lapangan kepada penanggung jawab desain yang kompeten. Bila salah satu bukti utama belum tersedia, tandai [NEEDS PROJECT EVIDENCE AND COMPETENT REVIEW] dan tunda persetujuan. Aturan operasinya sederhana: tidak ada dokumen yang cocok, tidak ada klaim kecocokan sistem.

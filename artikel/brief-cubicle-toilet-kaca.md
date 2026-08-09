@@ -2,8 +2,9 @@
 article_id: CUB-09-01
 title: "Cara Membuat Brief Cubicle Toilet Kaca"
 slug: "brief-cubicle-toilet-kaca"
-description: "Merencanakan privasi, celah, hardware, air, ventilasi, dan pembersihan toilet"
-status: outline
+description: "Panduan menyusun kebutuhan privasi, celah, perangkat keras, air, ventilasi, dan pembersihan toilet kaca."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,219 +16,84 @@ final_route: "/artikel/brief-cubicle-toilet-kaca.html"
 technical_review: required
 sources:
   - "https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf"
-  - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://www.glass.org/architect"
-  - "https://www.iso.org/standard/75536.html"
-  - "https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf"
-  - "https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN"
-  - "https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?jenis=105&p=1"
   - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
   - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430"
+  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cara Membuat Brief Cubicle Toilet Kaca
 
-## Assignment lock
+Halo, Teman Kaca.co.id! Brief (ringkasan kebutuhan) cubicle toilet kaca bukan sekadar daftar ukuran kaca. Banyak keputusan gagal karena orang langsung memilih ketebalan atau warna sebelum menjelaskan siapa pengguna toiletnya, bagaimana pintu dibuka, ke mana air mengalir, dan siapa yang membersihkan. Akibatnya, desain terlihat rapi di gambar tetapi menyulitkan pemakaian dan perawatan.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Membuat Brief Cubicle Toilet Kaca”
-- **Reader and situation:** Merencanakan privasi, celah, hardware, air, ventilasi, dan pembersihan toilet
-- **Reader outcome:** Merencanakan privasi, celah, hardware, air, ventilasi, dan pembersihan toilet
-- **Primary intent:** Menyusun kebutuhan toilet dan pengguna
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Khusus toilet; rute penjualan tetap di hub cubicle/toilet.
-- **Final public route:** `/artikel/brief-cubicle-toilet-kaca.html`
-- **Appointed CMS date:** `2026-01-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: tulis ringkasan kebutuhan sebagai urutan kebutuhan dan keputusan—fungsi ruang, privasi, celah, akses, perangkat keras, air, ventilasi, material, pembersihan, lalu cara penerimaan. Ukuran kaca dan detail sambungan baru boleh diputuskan setelah data lapangan serta tinjauan perancang yang berwenang tersedia. Pemilihan kaca tidak dapat disamaratakan; dimensinya, tumpuan tepi, jenis kaca, beban, lubang, dan perilaku sistem harus dinilai pada kasus nyata ([ASTM E1300-24](https://store.astm.org/e1300-24.html)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Membuat Brief Cubicle Toilet Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
-
-- **Image ID:** `LOCAL-010`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+Image ID: LOCAL-010
+Source type: local
+Placement: after opening
 - **Exact Markdown to insert:** `![Ilustrasi toilet cubicle kaca](/wp-content/uploads/2022/07/toilet-cubicle-kaca.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `toilet cubicle kaca` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-010]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies toilet cubicle kaca as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-010].
+END MANAGED IMAGE PLAN -->
+![Ilustrasi toilet cubicle kaca](/wp-content/uploads/2022/07/toilet-cubicle-kaca.jpg)
 
-## Evidence packet
+Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+## Hasil akhir ringkasan cubicle toilet kaca dan prasyarat datanya
 
-### KR-01
+Bagian ini menjelaskan bentuk ringkasan kebutuhan yang bisa dipakai bersama pemilik, arsitek, kontraktor, dan tim kebersihan. Tanpa pembagian tanggung jawab dan data awal, daftar spesifikasi mudah dianggap sebagai persetujuan teknis. Mulailah dengan satu lembar yang memuat lokasi, jumlah bilik, pola pemakaian, akses pengguna, target privasi, batas biaya yang sudah disetujui, serta siapa yang memberi keputusan akhir.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Cantumkan gambar denah terbaru, potongan lantai-plafon, titik pipa, floor drain, sumber listrik bila ada perangkat aktif, dan jalur pembersihan. Tandai pula antarmuka dengan dinding, lantai, plafon, pintu, partisi lain, dan perlengkapan sanitair. Jika data belum tersedia, tulis “belum terverifikasi”; jangan menggantinya dengan ukuran perkiraan.
 
-### KR-16
+Hasil akhirnya adalah daftar keputusan yang dapat diperiksa: kebutuhan ruang, bahan yang diusulkan, dokumen produk, urutan kerja, titik berhenti, dan rekaman serah terima. Ringkasan kebutuhan tidak menggantikan gambar kerja, perhitungan, atau persetujuan profesional.
 
-- **Original sources:** [NGA Proper Procedures for Cleaning Architectural Glass Products (2023)](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf), [NGA Heat-Treated Glass Surfaces Are Different (2023)](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf), [NGA glass technical resources](https://www.glass.org/architect)
-- **Purpose for this article:** Ground maintenance and defect-prevention content without universal chemical recipes.
-- **Safe grounded facts:** Incorrect cleaning can permanently scratch, stain, remove/damage a coating, or harm laminated edges. Cleaning frequency should respond to site exposure rather than a universal calendar.
-- **Limits:** Do not publish a chemical as universally safe. Confirm the exact glass, coating, film, interlayer edge, sealants, hardware, and manufacturer instructions.
+## Cakupan cubicle toilet, pengguna, dan batas pekerjaan
 
-### KR-21
+Sebelum membahas panel kaca, pastikan semua orang memahami objek yang sedang dibeli atau dibangun. Batas ini mencegah brief toilet melebar menjadi rancangan seluruh bangunan. Tulis apa yang termasuk—partisi, pintu, engsel, kaki atau kepala panel, sealant, dan aksesori—serta apa yang tidak termasuk, misalnya pekerjaan pipa, waterproofing, plafon, atau instalasi listrik.
 
-- **Original sources:** [ISO 18543:2021 electrochromic glazing](https://www.iso.org/standard/75536.html), [NGA Dynamic Glazing for High Performance Buildings](https://www.glass.org/sites/default/files/2021-07/FB32-11_2018_Dynamic_Glazing_for_High_Performance_Buildings_0521.pdf), [NGA Decorative Glass handling/cleaning record (2025)](https://members.glass.org/cvweb/cgi-bin/msascartdll.dll/ProductInfo?productcd=HANDLINGANDCLEAN), [NGA decorative durability guidance](https://www.glass.org/sites/default/files/2022-09/FB44-14_2019_Assessing_Durability_of_Decorative_Glass_0521.pdf)
-- **Purpose for this article:** Distinguish privacy switching, solar/visible modulation, decorative appearance, and durability.
-- **Safe grounded facts:** “Smart glass” is not one mechanism. Power-off state, switching method, optical state range, controls, wiring, heat, edge seals, UV/moisture exposure, cycle/ageing evidence, replacement, and cleaning can all matter.
-- **Limits:** Manufacturer claims are product-specific. Do not infer energy savings, sound/privacy performance, service life, or safety class from the technology name.
+Deskripsikan privasi sebagai kebutuhan yang bisa diamati: arah pandang yang perlu ditutup, celah yang memang diperlukan untuk ventilasi atau pembersihan, dan kondisi ketika pintu harus dapat dibuka dari luar. Jangan memakai istilah “privasi maksimal” tanpa menjelaskan situasinya. Untuk toilet yang dipakai banyak orang, tanyakan pola antrean, kebutuhan aksesibilitas, dan ruang untuk membawa alat kebersihan.
 
-### KR-04
+Tentukan juga batas keputusan: pemilik menetapkan fungsi dan tampilan; perancang berwenang memeriksa geometri dan beban; pemasang memverifikasi kondisi substrat dan metode kerja. Jika pembagian ini belum disepakati, beri tanda [NEEDS SCOPE APPROVAL] sebelum memesan material.
 
-- **Original sources:** [Permenaker No. 9 Tahun 2016 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), [Permenaker No. 11 Tahun 2026 status and amendment record — BPK](https://peraturan.bpk.go.id/Search?jenis=105&p=1)
-- **Purpose for this article:** Ground installation, façade access, cleaning, inspection, and replacement articles in current Indonesian worker-safety context.
-- **Safe grounded facts:** A writer must not rely on an old copy of the 2016 rule alone. Work-at-height content needs a current consolidated legal check, competent planning, safe access, and task-specific controls.
-- **Limits:** This research does not interpret the amended clauses or create a method statement. Legal/HSE review is required before prescriptive publication.
+## Bukti untuk kaca, perangkat keras, air, serta ventilasi toilet
 
-### KR-12
+Setelah batasnya jelas, kumpulkan bukti yang menjawab setiap keputusan. Tujuannya bukan menumpuk brosur, melainkan mencocokkan produk dengan kondisi toilet. Catat identitas kaca, proses perlakuan, lapisan atau film, tepi yang terbuka, dan kompatibilitasnya dengan hardware serta bahan sambungan. Nama “kaca tempered” saja belum menjawab seluruh kebutuhan desain.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+Untuk perangkat keras, minta lembar produk, kapasitas yang dinyatakan produsennya, bahan kontak, cara pemasangan, dan petunjuk perawatan. Untuk sealant, jangan berhenti pada kalimat “gunakan silikon”. Geometri sambungan, kebersihan permukaan, primer, pergerakan, waktu pematangan, bahan yang bersentuhan, dan pemeriksaan adhesi adalah kontrol terpisah; panduan Dow menekankan perlunya peninjauan produk dan tanggung jawab desain yang spesifik proyek ([Dow Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf)).
 
-### KR-14
+Petakan air secara praktis: area basah, arah kemiringan lantai yang dirancang, posisi drain, serta bagian yang harus tetap dapat dijangkau saat pembersihan. Brief hanya mencatat kebutuhan dan antarmuka; detail waterproofing harus datang dari pihak yang bertanggung jawab atasnya. Ventilasi juga perlu ditulis sebagai kebutuhan ruang dan koordinasi, bukan janji bahwa panel kaca akan menyelesaikan penghawaan.
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM C24 current sealant standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2410), [ASTM C24 adhesion standards list](https://www.astm.org/membership-participation/technical-committees/committee-c24/subcommittee-c24/jurisdiction-c2430)
-- **Purpose for this article:** Prevent “use silicone” from replacing joint design, compatibility, adhesion, cure, movement, and QC.
-- **Safe grounded facts:** Sealant product name alone does not prove suitability. Substrate finish, cleaning/primer, joint geometry, movement, bite, cure conditions, contact materials, drainage, workmanship, and documented adhesion/QC are separate controls.
-- **Limits:** Never transfer Dow's product-specific dimensions or warranty process to another manufacturer. Structural silicone design requires the selected manufacturer's written project review and qualified design responsibility.
+Untuk pembersihan, sebutkan frekuensi berdasarkan paparan lokasi dan siapa pelaksananya. Panduan NGA memperingatkan bahwa cara membersihkan yang keliru dapat menggores atau menodai kaca dan merusak lapisan maupun tepi laminasi; bahan yang aman harus dikonfirmasi terhadap kaca, coating, film, sealant, dan hardware yang benar-benar dipilih ([NGA Proper Procedures for Cleaning Architectural Glass Products](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf)).
 
-### KR-17
+## Urutan penyusunan dokumen kebutuhan toilet kaca dari fungsi ke pemeriksaan
 
-- **Purpose for this article:** Give tempered-glass breakage articles a defensible distinction between risk reduction, diagnosis, and guarantees.
-- **Safe grounded facts:** A broken pane cannot be confidently diagnosed as nickel-sulfide inclusion from a casual photo or from “spontaneous” timing alone. Heat soaking does not create a zero-breakage guarantee.
-- **Limits:** Do not state a universal incidence rate or claim certainty without laboratory/forensic evidence and the relevant fabrication/testing records.
+Urutan ini penting agar keputusan yang mahal tidak mendahului informasi dasar. Pertama, tulis skenario penggunaan dan batas ruang. Kedua, buat sketsa hubungan pintu, bilik, celah, sanitair, drain, dan jalur petugas. Ketiga, susun matriks material dan bukti produk. Keempat, minta tinjauan geometri, beban, sambungan, dan akses dari pihak kompeten. Kelima, baru bekukan daftar pertanyaan untuk penawaran atau gambar kerja.
 
-## Evidence gates
+Gunakan satu baris untuk satu keputusan. Contohnya: “Pintu membuka ke arah …; alasan …; data pendukung …; pemeriksa …; status ….” Cara ini membuat perubahan terlacak dan mencegah asumsi lama ikut terbawa. Bila ada kaca dengan lubang, takikan, atau tumpuan yang tidak biasa, tandai untuk perhitungan khusus; jangan menyalin tabel ketebalan dari proyek lain.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Jika pekerjaan melibatkan akses di ketinggian, pembersihan bagian atas, atau penggantian panel, masukkan rencana akses dan pengendalian kerja sebagai kebutuhan terpisah. Peraturan keselamatan yang lama tidak boleh dipakai sendirian tanpa pemeriksaan status hukum terkini dan rencana kerja yang sesuai ([Permenaker No. 9 Tahun 2016](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Titik berhenti pekerjaan cubicle toilet kaca: kapan harus berhenti
 
-## Internal-link plan
+Bagian ini mencegah tim meneruskan pekerjaan ketika informasi kunci belum ada. Hentikan pemesanan atau pemasangan bila ukuran lapangan belum disahkan, kondisi lantai dan dinding tidak diketahui, identitas kaca atau hardware belum jelas, atau instruksi pembersihan saling bertentangan.
 
-### Existing local routes
+Hentikan pula bila detail sambungan meminta klaim struktur, kedap air, atau umur pakai yang belum ditinjau. Untuk setiap klaim seperti itu, sisakan [NEEDS PROJECT DESIGN REVIEW] dan minta dokumen tertulis dari perancang serta produsen yang dipilih. Jangan mengubah marker ini menjadi janji performa.
 
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/toilet-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Verifikasi hasil dan serah terima cubicle toilet kaca
 
-### Planned sibling articles
+Penerimaan yang baik memeriksa kesesuaian terhadap brief, bukan sekadar tampilan. Cocokkan jumlah dan posisi panel, arah buka pintu, celah yang disepakati, fungsi hardware, kondisi tepi, kebersihan, dan akses ke area yang harus dirawat. Catat penyimpangan bersama foto dan nomor panel, tanpa menyimpulkan penyebab sebelum pemeriksaan yang memadai.
 
-These are future routes. Do not link them as live until their HTML exists.
+Serahkan gambar akhir, daftar produk dan batch bila tersedia, petunjuk pembersihan, jadwal inspeksi yang disepakati, serta kontak penanggung jawab. Untuk langkah berikutnya, Anda dapat merujuk ke [halaman cubicle toilet](/cubicle/toilet) bila membutuhkan konteks ruang lingkup layanan. Minta pengguna mengonfirmasi bahwa jalur pembersihan dan penggantian panel dapat dijangkau. Jika ada perubahan lapangan, revisi brief dan tandai siapa yang menyetujuinya.
 
-- `CUB-09-02` → `/artikel/layout-cubicle-toilet.html` — Layout Pintu, Bilik, dan Sirkulasi Cubicle Toilet
-- `CUB-09-03` → `/artikel/celah-cubicle-toilet.html` — Celah Bawah, Atas, dan Samping pada Cubicle Toilet
+## Jalan pintas yang sering dipilih: “samakan saja dengan toilet sebelumnya”
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Menyalin ukuran atau ketebalan dari toilet lain tampak cepat, tetapi kondisi tumpuan, beban, hardware, kelembapan, dan pola penggunaan bisa berbeda. Label “cubicle toilet” tidak cukup untuk membuktikan kecocokan struktur atau perawatan. Alternatif yang lebih aman adalah memakai proyek lama hanya sebagai pertanyaan awal, lalu mengisi data aktual dan meminta tinjauan kasus baru.
 
-## Hasil akhir dan prasyarat
+## Kesimpulan: ringkasan yang bisa dipakai untuk mengambil keputusan
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief Cubicle Toilet Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Cara membuat brief cubicle toilet kaca adalah mengubah kebutuhan pengguna menjadi daftar keputusan yang dapat dibuktikan: ruang lingkup, privasi, celah, hardware, air, ventilasi, material, pembersihan, urutan kerja, dan penerimaan. Teman Kaca.co.id, langkah berikutnya adalah kumpulkan denah dan kondisi lapangan, lengkapi matriks produk, lalu jadwalkan tinjauan perancang berwenang sebelum ukuran kaca atau sambungan ditetapkan. Kawan Kaca.co.id, simpan hasil pemeriksaan itu bersama versi brief yang disetujui.
 
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief Cubicle Toilet Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief Cubicle Toilet Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief Cubicle Toilet Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief Cubicle Toilet Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief Cubicle Toilet Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: bila data, kompatibilitas, atau tanggung jawab belum jelas, jangan lanjut dengan tebakan—tandai, minta bukti, dan dokumentasikan keputusan.

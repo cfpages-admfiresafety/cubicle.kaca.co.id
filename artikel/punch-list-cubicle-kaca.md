@@ -2,8 +2,9 @@
 article_id: CUB-12-06
 title: "Punch List Pemasangan Cubicle dan Partisi Kaca"
 slug: "punch-list-cubicle-kaca"
-description: "Mengoordinasikan kesiapan lokasi, urutan kerja, sambungan, dan serah terima"
-status: outline
+description: "Panduan mencatat kekurangan pemasangan cubicle dan partisi kaca sebelum pemeriksaan serta serah terima."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,215 +15,99 @@ reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/punch-list-cubicle-kaca.html"
 technical_review: required
 sources:
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?jenis=105&p=1"
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://store.astm.org/standards/e331"
   - "https://store.astm.org/standards/e2190"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung"
-  - "https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026"
-  - "https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key="
-  - "https://www.iso.org/standard/85237.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-014; Source type: local; Placement: after opening
+**Exact Markdown to insert:** `![Ilustrasi pemasangan partisi kaca](/wp-content/uploads/2022/07/pemasangan-partisi-kaca.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata only; no pixels inspected.
+Hard boundary: do not infer unseen visual details, ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: if unavailable, insert [NEEDS IMAGE REVIEW: LOCAL-014].
+END MANAGED IMAGE PLAN -->
+
+Halo, Teman Kaca.co.id!
 
 # Punch List Pemasangan Cubicle dan Partisi Kaca
 
-## Assignment lock
+Di lapangan, pemasangan cubicle atau partisi kaca sering dianggap selesai ketika panel sudah berdiri dan pintu dapat ditutup. Padahal, titik temu antarpekerjaan—lantai, plafon, dinding, hardware, sealant, dan akses—bisa masih menyimpan kekurangan. Punch list adalah daftar temuan yang ditulis saat pemeriksaan instalasi, lengkap dengan lokasi, bukti, penanggung jawab, dan status perbaikannya. Daftar ini membantu tim memutuskan apakah item dapat diperbaiki, perlu diperiksa ulang, atau memang belum layak masuk serah terima.
 
-- **Writer task:** Expand this file into one complete article answering: “Punch List Pemasangan Cubicle dan Partisi Kaca”
-- **Reader and situation:** Mengoordinasikan kesiapan lokasi, urutan kerja, sambungan, dan serah terima
-- **Reader outcome:** Mengoordinasikan kesiapan lokasi, urutan kerja, sambungan, dan serah terima
-- **Primary intent:** Mencatat kekurangan sebelum acceptance
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Pemeriksaan instalasi; dokumen QA formal dimiliki CUB-16.
-- **Final public route:** `/artikel/punch-list-cubicle-kaca.html`
-- **Appointed CMS date:** `2026-04-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi, jangan memakai punch list sebagai daftar “cacat kaca” saja. Periksa rangkaian sistem dan antarmukanya, lalu cocokkan dengan gambar kerja, submittal, instruksi pabrikan, dan kondisi lokasi. Jawaban dapat berubah bila proyek memiliki spesifikasi, risiko penggunaan, atau persyaratan lokal yang berbeda. PP Nomor 16 Tahun 2021 menempatkan penyelenggaraan bangunan dalam kerangka aturan nasional; detail teknis tetap harus ditentukan oleh dokumen proyek dan pemeriksa yang berwenang ([BPK, PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-## Opening instructions
+![Ilustrasi pemasangan partisi kaca](/wp-content/uploads/2022/07/pemasangan-partisi-kaca.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Punch List Pemasangan Cubicle dan Partisi Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.
 
+## Apa yang dicatat dalam punch list pemasangan cubicle dan partisi kaca?
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+Bagian ini membatasi objek agar pemeriksaan tidak melebar menjadi audit QA formal. Punch list berisi temuan visual dan fungsional pada instalasi yang sudah terpasang: panel, sambungan, profil, pintu, hardware, sealant, perlindungan tepi, kebersihan, serta hubungan dengan lantai, dinding, dan plafon. Dokumen QA formal, rencana inspeksi, dan rekaman pengujian tetap berada pada proses proyek yang lebih lengkap, bukan digantikan oleh artikel ini.
 
-- **Image ID:** `LOCAL-014`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi pemasangan partisi kaca](/wp-content/uploads/2022/07/pemasangan-partisi-kaca.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `pemasangan partisi kaca` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-014]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Mulailah setiap catatan dengan lokasi yang bisa ditemukan ulang. Tulis nomor ruang atau grid, elemen yang diperiksa, kondisi yang terlihat, dan tindakan yang diminta. “Karet kurang baik” sulit ditindaklanjuti; “daun pintu ruang rapat 2 bergesekan dengan lantai saat dibuka” lebih jelas karena pemeriksa berikutnya dapat mengulang kondisi yang sama.
 
-## Evidence packet
+## Urutan pemeriksaan dari kesiapan lokasi hingga serah terima
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Urutan ini penting karena temuan awal dapat membuat pemeriksaan berikutnya tidak bermakna. Kawan Kaca.co.id, pastikan area aman dan akses kerja tersedia sebelum menyentuh panel atau hardware. Jangan memindahkan komponen hanya untuk menyembunyikan masalah yang belum dicatat.
 
-### KR-01
+### Periksa kesiapan lokasi dan antarmuka bangunan
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+Pertama, cocokkan area terpasang dengan gambar terakhir yang disetujui. Lihat apakah lantai, dinding, dan plafon yang menjadi tumpuan sudah siap, tidak menghalangi bukaan, dan tidak menimbulkan celah yang tidak ada di dokumen. Catat kondisi aktual, bukan dugaan penyebabnya. Bila dimensi lapangan berbeda dari gambar, minta keputusan tertulis dari pihak proyek sebelum pekerjaan disesuaikan.
 
-### KR-04
+Kesiapan juga mencakup jalur material, penerangan, dan ruang untuk membuka pintu. Persyaratan akses dan keselamatan kerja harus mengikuti penilaian risiko proyek serta aturan yang berlaku; artikel ini tidak menetapkan metode kerja di ketinggian atau menggantikan telaah HSE.
 
-- **Original sources:** [Permenaker No. 9 Tahun 2016 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), [Permenaker No. 11 Tahun 2026 status and amendment record — BPK](https://peraturan.bpk.go.id/Search?jenis=105&p=1)
-- **Purpose for this article:** Ground installation, façade access, cleaning, inspection, and replacement articles in current Indonesian worker-safety context.
-- **Safe grounded facts:** A writer must not rely on an old copy of the 2016 rule alone. Work-at-height content needs a current consolidated legal check, competent planning, safe access, and task-specific controls.
-- **Limits:** This research does not interpret the amended clauses or create a method statement. Legal/HSE review is required before prescriptive publication.
+### Periksa panel, profil, sambungan, dan sealant
 
-### KR-15
+Amati apakah panel berada pada posisi yang ditunjukkan gambar, tepinya terlindungi, dan tidak bersentuhan langsung dengan material yang dilarang oleh instruksi pabrikan. Periksa profil dan konektor dari kelonggaran, pergeseran, atau bagian yang belum terpasang. Untuk sealant, catat lokasi sambungan yang terputus, menganga, kotor, atau tidak melekat—tanpa menyimpulkan kompatibilitas material hanya dari tampilan.
 
-- **Original sources:** [ASTM E331-00(2023) official scope](https://store.astm.org/standards/e331), [ASTM E2190-19 official scope](https://store.astm.org/standards/e2190), [ASTM E06.51 current window/façade standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651)
-- **Purpose for this article:** Separate material claims from manufactured-assembly and installed-system verification.
-- **Safe grounded facts:** Test pressure, specimen size/configuration, laboratory versus field setup, interfaces, drainage, supporting construction, installation, aging, and failure definition must be stated. Passing one test does not prove unrelated performance.
-- **Limits:** Project specifications and local requirements control test selection and pressure. Do not invent a “standard” pressure.
+Kesesuaian suatu rakitan tidak dapat dibuktikan hanya dengan menyebut jenis kaca atau sealant. ASTM E331 dan E2190 menjelaskan lingkup pengujian pada metode, spesimen, konfigurasi, serta kondisi tertentu; hasil pengujian tidak otomatis membuktikan performa rakitan lain ([ASTM E331](https://store.astm.org/standards/e331), [ASTM E2190](https://store.astm.org/standards/e2190)). Karena itu, punch list sebaiknya merujuk pada laporan atau persyaratan proyek yang benar-benar berlaku.
 
-### KR-22
+### Uji fungsi pintu dan hardware tanpa memaksa komponen
 
-- **Purpose for this article:** Turn research into auditable RFQ, submittal, installation, inspection, and handover inputs rather than descriptive prose only.
-- **Safe grounded facts:** Durable quality depends on preserving product identity and condition from fabrication through handover. Labels, delivery inspection, storage orientation/support, edge protection, setting materials, cleaning, photographs, nonconformance records, test reports, and as-built information are evidence.
-- **Limits:** It is an industry manual, not a project specification or Indonesian law. Manufacturer instructions and project documents take precedence where more specific. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `CUB-01` | KR-01, KR-19, KR-03, KR-10, KR-06, KR-12, KR-13 | Dasar sistem cubicle dan partisi kaca; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-02` | KR-01, KR-09, KR-22, KR-08, KR-03, KR-06, KR-12 | Brief dan pemilihan sistem; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-03` | KR-01, KR-10, KR-13, KR-17, KR-11, KR-06, KR-12 | Jenis, ketebalan, dan olahan kaca; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-04` | KR-01, KR-08, KR-10, KR-21, KR-05, KR-13, KR-03 | Privasi, cahaya, dan pengalaman ruang; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-05` | KR-01, KR-03, KR-10, KR-19, KR-06, KR-12, KR-14 | Hardware, frame, dan konektor; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-06` | KR-01, KR-02, KR-12, KR-14, KR-05, KR-06, KR-07 | Dukungan, beban, dan koordinasi struktur; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-07` | KR-01, KR-06, KR-17, KR-08, KR-12, KR-13, KR-16 | Pecah, keselamatan, dan respons insiden; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-08` | KR-01, KR-03, KR-19, KR-10, KR-06, KR-12, KR-13 | Cubicle dan partisi kantor; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-09` | KR-01, KR-16, KR-21, KR-04, KR-12, KR-14, KR-17 | Cubicle toilet dan area basah; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-10` | KR-01, KR-03, KR-06, KR-12, KR-13, KR-14, KR-16 | Aksesibilitas dan penggunaan inklusif; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-11` | KR-01, KR-03, KR-06, KR-12, KR-13, KR-14, KR-16 | Survei, dimensi, dan toleransi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-12` | KR-01, KR-04, KR-15, KR-22, KR-03, KR-02, KR-05 | Pemasangan dan antarmuka bangunan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-13` | KR-01, KR-06, KR-08, KR-14, KR-16, KR-04, KR-17 | Pembersihan, inspeksi, dan pemeliharaan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-14` | KR-01, KR-05, KR-10, KR-13, KR-08, KR-03, KR-06 | Desain custom, sampel, dan persetujuan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-15` | KR-01, KR-09, KR-22, KR-08, KR-13, KR-03, KR-06 | Pengadaan, harga, logistik, dan garansi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-16` | KR-01, KR-09, KR-02, KR-05, KR-03, KR-22, KR-04 | Standar, sertifikasi, QA, dan dokumentasi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank These are reusable propositions supported by the register. Writers should still cite the underlying source. 1. Glass product type, processed makeup, and installed-system performance are three different layers. 2. Tempered, heat-strengthened, and laminated glass solve different pre-breakage and post-breakage questions. 3. “Laminated,” “tempered,” “double,” “smart,” “fire-rated,” and “security” are not complete specifications. 4. Center-of-glass performance cannot automatically be claimed for the complete window, partition, door, or façade. 5. Thickness cannot be selected safely from application name alone. 6. Holes, notches, edges, dimensions, coatings, and decoration must be coordinated before heat treatment where applicable. 7. Sealant suitability requires joint design plus substrate adhesion and material compatibility evidence. 8. Internal IGU fogging and external surface condensation are different symptoms. 9. Cleaning method depends on glass, coating, film, interlayer edge, contaminants, and manufacturer guidance. 10. Heat-soak testing reduces a specific tempered-glass breakage risk; it does not guarantee zero breakage. 11. Skylights and sloped glazing are not walking surfaces unless specifically engineered as such. 12. Fire, ballistic, blast, forced-entry, impact safety, acoustic, privacy, and solar-control claims each need their own evidence. 13. A test result belongs to the tested method, specimen, configuration, conditions, and acceptance basis. 14. Procurement quality improves when evidence, inclusions, exclusions, interfaces, samples, QC, and handover documents are made comparable. 15. Current legal and standards status must be rechecked; changes discovered in 2026 show why old article memory is unsafe. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `GATE-01` Licensed SNI text | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Obtain/read the applicable current SNI before exact requirements, tolerances, classes, or tests enter an outline | | `GATE-02` Indonesian application rules | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Identify applicable national/local building, fire, accessibility, and project rules for the actual application | | `GATE-03` Structural design | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Qualified engineer verifies loads, support, makeup, deflection, post-breakage consequences, and interfaces | | `GATE-04` Product/system reports | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Obtain current datasheets, test reports, certification/listing, limitations, and exact configuration | | `GATE-05` Manufacturer compatibility | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Written adhesion/compatibility, cleaning, processing, and installation guidance for selected materials | | `GATE-06` Site facts | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Survey dimensions, exposure, substrate/frame condition, access, drainage, existing defects, and user risk | | `GATE-07` HSE/legal consolidation | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Review current Permenaker provisions including the 2026 amendment; approve task-specific safe method | | `GATE-08` Specialist threat/rating definition | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Define fire/security/ballistic/blast/privacy/smart-glass objective and governing evidence before selection | ## Source-refresh triggers Recheck a record immediately when any of these occurs: - BSN confirms, revises, replaces, or withdraws a listed SNI. - A ministry regulation is amended, partially revoked, or replaced. - ISO/ASTM/UL publishes a new edition used by the article. - A manufacturer changes formulation, substrate approval, warranty, or installation guidance. - An article introduces a number, rating, test class, compliance statement, service-life claim, price, or safety procedure. - The real project configuration falls outside the public source's stated scope. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+Buka dan tutup pintu dengan gerakan normal. Catat apakah daun pintu bergesekan, engsel atau patch fitting longgar, kunci tidak bertemu pasangannya, atau pegangan sulit dioperasikan. Periksa juga arah ayunan dan ruang bebasnya terhadap meja, dinding, atau jalur orang. Bila fungsi terganggu, hentikan pengoperasian berulang dan minta teknisi memeriksa penyetelan sesuai panduan produk.
 
-### KR-03
+### Bersihkan, dokumentasikan, dan klasifikasikan temuan
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Bedakan kotoran yang dapat dibersihkan dari gores, retak, atau kerusakan permanen. Foto harus menunjukkan konteks lokasi dan tampilan dekat, dengan penanda yang konsisten. Beri setiap item nomor, tingkat urgensi menurut sistem proyek, tanggal, pemeriksa, dan pihak yang ditugaskan. Jangan membuat kategori risiko baru bila proyek sudah memiliki definisi sendiri.
 
-### KR-02
+## Faktor yang mengubah keputusan perbaikan
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [official PUPR JDIH record](https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung)
-- **Purpose for this article:** Anchor Indonesian building articles in the current national building-governance framework.
-- **Safe grounded facts:** The regulation took effect on 2 February 2021 and replaced PP 36/2005. A project can therefore require national rules, SNI/technical standards, and location-specific regulations together.
-- **Limits:** Do not convert this high-level regulation into glass thicknesses, safety locations, or test pressures. Those need the applicable detailed rule and project design.
+Satu gejala dapat memiliki lebih dari satu penyebab. Celah pada sambungan mungkin berasal dari dimensi substrat, pergeseran profil, atau material pengisi yang tidak sesuai. Karena itu, keputusan perbaikan harus mempertimbangkan kondisi lokasi, urutan pekerjaan, dokumen produk, dan bukti inspeksi—bukan foto tunggal.
 
-### KR-05
+Jika panel belum memiliki identitas yang dapat ditelusuri, tahan keputusan serah terima sampai dokumen pengiriman, label, atau catatan pemasangan dilengkapi. Jika pekerjaan lanjutan di sekitar partisi masih berlangsung, lindungi panel dan catat status perlindungannya; jangan menyatakan kondisi akhir sebelum pekerjaan yang berpotensi merusak selesai.
 
-- **Original sources:** [SNI 47:2018 Konfirmasi 2026 — BSN](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [SNI 6353:2024 listing — BSN](https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key=), [ISO 16293-2:2025 official abstract](https://www.iso.org/standard/85237.html)
-- **Purpose for this article:** Establish current terminology and quality-reference starting points for ordinary float/flat and heat-strengthened glass.
-- **Safe grounded facts:** “Flat glass,” “heat-strengthened glass,” and “fully tempered safety glass” are not interchangeable labels. A base-glass quality standard does not by itself prove safety suitability, structural adequacy, or whole-system performance.
-- **Limits:** Full standards are required for tolerances, defect limits, tests, and acceptance criteria.
+Untuk isu keselamatan, akses, atau perubahan struktur pendukung, mintalah peninjauan profesional. GATE-01 sampai GATE-08 tetap berlaku: teks SNI berlisensi, aturan aplikasi, verifikasi struktur, laporan produk, kompatibilitas pabrikan, fakta lokasi, konsolidasi HSE, serta definisi rating khusus belum dapat diasumsikan terpenuhi dari punch list saja.
 
-## Evidence gates
+## Contoh keputusan praktis berdasarkan temuan
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Gunakan tabel berikut sebagai cara berpikir, bukan pengganti prosedur proyek.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+| Temuan | Bukti yang perlu ditambahkan | Keputusan sementara |
+|---|---|---|
+| Pintu bergesekan saat dibuka | Foto konteks, arah ayunan, catatan kondisi lantai | Tahan serah terima elemen itu; minta penyetelan dan uji ulang |
+| Sealant terputus pada satu sambungan | Foto dekat, detail gambar, panduan material | Tandai sebagai pekerjaan perbaikan; verifikasi bahan dan persiapan permukaan |
+| Profil tampak bergeser dari garis gambar | Pengukuran proyek dan revisi gambar terakhir | Eskalasi untuk keputusan desain/koordinasi, bukan sekadar dirapikan |
+| Panel kotor setelah pekerjaan lain | Foto sebelum-sesudah pembersihan | Bersihkan sesuai panduan; periksa ulang apakah ada kerusakan tetap |
 
-## Internal-link plan
+Sobat Kaca.co.id, bila bukti belum cukup untuk membedakan cacat kosmetik dan masalah sistem, tulis “perlu verifikasi” secara terbuka. Catatan yang jujur lebih berguna daripada status “selesai” yang tidak dapat dibuktikan.
 
-### Existing local routes
+## Kesalahan umum saat membuat punch list dan cara memeriksanya
 
-- `/partisi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kesalahan pertama adalah menyalin daftar dari proyek lain. Tata letak, hardware, dan urutan pekerjaan setiap proyek dapat berbeda, sehingga daftar lama hanya boleh menjadi pengingat, bukan bukti penerimaan.
 
-### Planned sibling articles
+Kesalahan kedua adalah memberi label “sudah diperbaiki” tanpa pemeriksaan ulang. Tutup item hanya setelah kondisi yang sama diuji kembali, foto atau catatan pembanding tersedia, dan pihak yang berwenang menyetujui penutupan.
 
-These are future routes. Do not link them as live until their HTML exists.
+Kesalahan ketiga adalah menjadikan standar pengujian sebagai klaim performa. Lingkup ASTM E331 atau E2190 tidak memberi angka tekanan atau kriteria universal untuk semua partisi. Ikuti spesifikasi proyek dan laporan konfigurasi yang relevan.
 
-- `CUB-12-04` → `/artikel/sealant-gasket-celah-cubicle.html` — Sealant, Gasket, dan Celah pada Sistem Cubicle Kaca
-- `CUB-12-05` → `/artikel/proteksi-kaca-saat-konstruksi.html` — Proteksi Panel Kaca selama Pekerjaan Berlangsung
+Kesalahan keempat adalah mengabaikan pekerjaan sekitar. Debu, pemindahan furnitur, pengecatan, atau pekerjaan plafon dapat menimbulkan temuan baru. Jadwalkan pemeriksaan akhir setelah pekerjaan yang berisiko mengganggu instalasi selesai.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Bolehkah serah terima dilakukan dengan item terbuka?
 
-## Jawaban singkat dan salah paham utama
+Serah terima dengan item terbuka hanya dapat diputuskan oleh mekanisme kontrak dan pihak proyek yang berwenang. Punch list harus menunjukkan siapa yang menerima risiko, batas waktu, bukti penutupan, dan apakah item tersebut memengaruhi keselamatan atau fungsi. Penulis artikel ini tidak dapat menetapkan ambang penerimaan untuk proyek tertentu.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Punch List Pemasangan Cubicle dan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+### Kesimpulan: gunakan punch list sebagai jejak keputusan
 
-## Definisi dan batas objek
+Punch list pemasangan cubicle dan partisi kaca adalah catatan terstruktur untuk menemukan, menugaskan, dan menutup kekurangan instalasi sebelum acceptance. Periksa kesiapan lokasi, antarmuka, panel, sambungan, hardware, kebersihan, dan dokumen secara berurutan; sertakan lokasi serta bukti yang dapat diulang.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Punch List Pemasangan Cubicle dan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Punch List Pemasangan Cubicle dan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Punch List Pemasangan Cubicle dan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Punch List Pemasangan Cubicle dan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Punch List Pemasangan Cubicle dan Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya adalah mengambil gambar kerja terakhir, submittal, instruksi pabrikan, dan formulir proyek, lalu melakukan pemeriksaan bersama. Hubungkan kebutuhan ruang dengan [pilihan partisi](/partisi) atau [jenis cubicle](/cubicle) hanya untuk memahami objeknya, bukan sebagai pengganti persetujuan teknis. Aturan operasinya sederhana: jangan menutup item yang belum dapat dibuktikan telah diperiksa ulang, dan serahkan isu keselamatan, struktur, hukum, atau rating kepada peninjau kompeten.

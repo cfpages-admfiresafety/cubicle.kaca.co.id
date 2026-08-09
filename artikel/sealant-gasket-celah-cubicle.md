@@ -2,8 +2,9 @@
 article_id: CUB-12-04
 title: "Sealant, Gasket, dan Celah pada Sistem Cubicle Kaca"
 slug: "sealant-gasket-celah-cubicle"
-description: "Mengoordinasikan kesiapan lokasi, urutan kerja, sambungan, dan serah terima"
-status: outline
+description: "Panduan memeriksa fungsi sealant, gasket, dan celah sambungan cubicle kaca dari kesiapan lokasi sampai serah terima."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,217 +15,103 @@ reader_address: "Kawan Kaca.co.id"
 final_route: "/artikel/sealant-gasket-celah-cubicle.html"
 technical_review: required
 sources:
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?jenis=105&p=1"
   - "https://store.astm.org/standards/e331"
   - "https://store.astm.org/standards/e2190"
   - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung"
-  - "https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026"
-  - "https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key="
-  - "https://www.iso.org/standard/85237.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Sealant, Gasket, dan Celah pada Sistem Cubicle Kaca
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Sealant, Gasket, dan Celah pada Sistem Cubicle Kaca”
-- **Reader and situation:** Mengoordinasikan kesiapan lokasi, urutan kerja, sambungan, dan serah terima
-- **Reader outcome:** Mengoordinasikan kesiapan lokasi, urutan kerja, sambungan, dan serah terima
-- **Primary intent:** Memeriksa fungsi sambungan elastis
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Kompatibilitas bahan wajib mengikuti data sistem aktual.
-- **Final public route:** `/artikel/sealant-gasket-celah-cubicle.html`
-- **Appointed CMS date:** `2026-04-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Sealant, Gasket, dan Celah pada Sistem Cubicle Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-016`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-016
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+Exact Markdown to insert:
 - **Exact Markdown to insert:** `![Ilustrasi bahan material kaca](/wp-content/uploads/2022/07/bahan-material-kaca.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `bahan material kaca` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-016]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `bahan material kaca` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-016] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Kawan Kaca.co.id! Celah kecil di pertemuan kaca, rangka, lantai, atau dinding sering dianggap cukup ditutup dengan sealant. Padahal sealant, gasket, dan celah tidak saling menggantikan. Ketiganya bekerja sebagai satu detail sambungan: gasket membantu menjaga posisi dan memberi bantalan, sealant membantu membentuk penghalang pada bidang yang ditentukan, sedangkan celah menyediakan ruang agar sambungan dapat bergerak tanpa memaksa kaca.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jadi, keputusan yang benar bukan “pakai sealant sebanyak mungkin”, melainkan memastikan fungsi setiap lapisan, kecocokan bahan, dan kondisi bidang sebelum pemasangan. Data sistem aktual—jenis kaca, profil, bahan gasket, sealant, kondisi substrat, serta tuntutan ruang—dapat mengubah pilihan. Artikel ini membantu Anda memeriksa urutan koordinasi, bukti bahan, dan tanda terima pekerjaan tanpa mengarang ukuran atau kinerja yang belum disetujui.
 
-### KR-01
+![Ilustrasi bahan material kaca](/wp-content/uploads/2022/07/bahan-material-kaca.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+*Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.*
 
-### KR-04
+## Apa beda sealant, gasket, dan celah pada sambungan cubicle kaca?
 
-- **Original sources:** [Permenaker No. 9 Tahun 2016 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), [Permenaker No. 11 Tahun 2026 status and amendment record — BPK](https://peraturan.bpk.go.id/Search?jenis=105&p=1)
-- **Purpose for this article:** Ground installation, façade access, cleaning, inspection, and replacement articles in current Indonesian worker-safety context.
-- **Safe grounded facts:** A writer must not rely on an old copy of the 2016 rule alone. Work-at-height content needs a current consolidated legal check, competent planning, safe access, and task-specific controls.
-- **Limits:** This research does not interpret the amended clauses or create a method statement. Legal/HSE review is required before prescriptive publication.
+Sebelum memeriksa detail, luruskan istilahnya agar pemeriksaan tidak berhenti pada tampilan rapi. Bagian ini memisahkan fungsi dan batas masing-masing komponen sehingga Anda tahu pertanyaan apa yang harus diajukan kepada pemasok dan pelaksana.
 
-### KR-15
+**Gasket** adalah bahan elastis berbentuk profil atau lembaran yang ditempatkan di antara kaca dan komponen penjepit. Elastis berarti bahan dapat tertekan dan kembali sebagian, sehingga kontak tetap terjaga saat ada perubahan kecil pada posisi. Konsekuensinya, profil harus cocok dengan alur, ketebalan kaca, dan bahan di sekitarnya; minta data produk serta panduan pemasangan, bukan hanya nama dagang.
 
-- **Original sources:** [ASTM E331-00(2023) official scope](https://store.astm.org/standards/e331), [ASTM E2190-19 official scope](https://store.astm.org/standards/e2190), [ASTM E06.51 current window/façade standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651)
-- **Purpose for this article:** Separate material claims from manufactured-assembly and installed-system verification.
-- **Safe grounded facts:** Test pressure, specimen size/configuration, laboratory versus field setup, interfaces, drainage, supporting construction, installation, aging, and failure definition must be stated. Passing one test does not prove unrelated performance.
-- **Limits:** Project specifications and local requirements control test selection and pressure. Do not invent a “standard” pressure.
+**Sealant** adalah bahan yang mengisi dan menutup bidang sambungan tertentu. Ia menempel pada permukaan yang disiapkan dan dirancang untuk mengikuti gerak sambungan dalam batas yang ditentukan produsen. Kecocokan tidak dapat diasumsikan dari kata “netral” atau “untuk kaca” saja. Bukti adhesi dan kompatibilitas dengan kaca, lapisan, gasket, serta profil perlu diperoleh untuk sistem aktual.
 
-### KR-22
+**Celah sambungan** adalah ruang yang sengaja disisakan di antara dua komponen. Ruang ini menampung toleransi dan gerak; celah yang diisi penuh secara kaku dapat memindahkan gaya ke tepi kaca. Jangan menetapkan ukuran celah dari kebiasaan tukang. Ukuran, bentuk, dan bahan pengisi harus mengikuti gambar detail, data sistem, dan persetujuan teknis proyek.
 
-- **Purpose for this article:** Turn research into auditable RFQ, submittal, installation, inspection, and handover inputs rather than descriptive prose only.
-- **Safe grounded facts:** Durable quality depends on preserving product identity and condition from fabrication through handover. Labels, delivery inspection, storage orientation/support, edge protection, setting materials, cleaning, photographs, nonconformance records, test reports, and as-built information are evidence.
-- **Limits:** It is an industry manual, not a project specification or Indonesian law. Manufacturer instructions and project documents take precedence where more specific. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `CUB-01` | KR-01, KR-19, KR-03, KR-10, KR-06, KR-12, KR-13 | Dasar sistem cubicle dan partisi kaca; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-02` | KR-01, KR-09, KR-22, KR-08, KR-03, KR-06, KR-12 | Brief dan pemilihan sistem; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-03` | KR-01, KR-10, KR-13, KR-17, KR-11, KR-06, KR-12 | Jenis, ketebalan, dan olahan kaca; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-04` | KR-01, KR-08, KR-10, KR-21, KR-05, KR-13, KR-03 | Privasi, cahaya, dan pengalaman ruang; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-05` | KR-01, KR-03, KR-10, KR-19, KR-06, KR-12, KR-14 | Hardware, frame, dan konektor; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-06` | KR-01, KR-02, KR-12, KR-14, KR-05, KR-06, KR-07 | Dukungan, beban, dan koordinasi struktur; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-07` | KR-01, KR-06, KR-17, KR-08, KR-12, KR-13, KR-16 | Pecah, keselamatan, dan respons insiden; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-08` | KR-01, KR-03, KR-19, KR-10, KR-06, KR-12, KR-13 | Cubicle dan partisi kantor; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-09` | KR-01, KR-16, KR-21, KR-04, KR-12, KR-14, KR-17 | Cubicle toilet dan area basah; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-10` | KR-01, KR-03, KR-06, KR-12, KR-13, KR-14, KR-16 | Aksesibilitas dan penggunaan inklusif; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-11` | KR-01, KR-03, KR-06, KR-12, KR-13, KR-14, KR-16 | Survei, dimensi, dan toleransi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-12` | KR-01, KR-04, KR-15, KR-22, KR-03, KR-02, KR-05 | Pemasangan dan antarmuka bangunan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-13` | KR-01, KR-06, KR-08, KR-14, KR-16, KR-04, KR-17 | Pembersihan, inspeksi, dan pemeliharaan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-14` | KR-01, KR-05, KR-10, KR-13, KR-08, KR-03, KR-06 | Desain custom, sampel, dan persetujuan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-15` | KR-01, KR-09, KR-22, KR-08, KR-13, KR-03, KR-06 | Pengadaan, harga, logistik, dan garansi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-16` | KR-01, KR-09, KR-02, KR-05, KR-03, KR-22, KR-04 | Standar, sertifikasi, QA, dan dokumentasi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank These are reusable propositions supported by the register. Writers should still cite the underlying source. 1. Glass product type, processed makeup, and installed-system performance are three different layers. 2. Tempered, heat-strengthened, and laminated glass solve different pre-breakage and post-breakage questions. 3. “Laminated,” “tempered,” “double,” “smart,” “fire-rated,” and “security” are not complete specifications. 4. Center-of-glass performance cannot automatically be claimed for the complete window, partition, door, or façade. 5. Thickness cannot be selected safely from application name alone. 6. Holes, notches, edges, dimensions, coatings, and decoration must be coordinated before heat treatment where applicable. 7. Sealant suitability requires joint design plus substrate adhesion and material compatibility evidence. 8. Internal IGU fogging and external surface condensation are different symptoms. 9. Cleaning method depends on glass, coating, film, interlayer edge, contaminants, and manufacturer guidance. 10. Heat-soak testing reduces a specific tempered-glass breakage risk; it does not guarantee zero breakage. 11. Skylights and sloped glazing are not walking surfaces unless specifically engineered as such. 12. Fire, ballistic, blast, forced-entry, impact safety, acoustic, privacy, and solar-control claims each need their own evidence. 13. A test result belongs to the tested method, specimen, configuration, conditions, and acceptance basis. 14. Procurement quality improves when evidence, inclusions, exclusions, interfaces, samples, QC, and handover documents are made comparable. 15. Current legal and standards status must be rechecked; changes discovered in 2026 show why old article memory is unsafe. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `GATE-01` Licensed SNI text | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Obtain/read the applicable current SNI before exact requirements, tolerances, classes, or tests enter an outline | | `GATE-02` Indonesian application rules | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Identify applicable national/local building, fire, accessibility, and project rules for the actual application | | `GATE-03` Structural design | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Qualified engineer verifies loads, support, makeup, deflection, post-breakage consequences, and interfaces | | `GATE-04` Product/system reports | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Obtain current datasheets, test reports, certification/listing, limitations, and exact configuration | | `GATE-05` Manufacturer compatibility | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Written adhesion/compatibility, cleaning, processing, and installation guidance for selected materials | | `GATE-06` Site facts | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Survey dimensions, exposure, substrate/frame condition, access, drainage, existing defects, and user risk | | `GATE-07` HSE/legal consolidation | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Review current Permenaker provisions including the 2026 amendment; approve task-specific safe method | | `GATE-08` Specialist threat/rating definition | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Define fire/security/ballistic/blast/privacy/smart-glass objective and governing evidence before selection | ## Source-refresh triggers Recheck a record immediately when any of these occurs: - BSN confirms, revises, replaces, or withdraws a listed SNI. - A ministry regulation is amended, partially revoked, or replaced. - ISO/ASTM/UL publishes a new edition used by the article. - A manufacturer changes formulation, substrate approval, warranty, or installation guidance. - An article introduces a number, rating, test class, compliance statement, service-life claim, price, or safety procedure. - The real project configuration falls outside the public source's stated scope. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+## Bagaimana urutan kerja menjaga fungsi sambungan elastis?
 
-### KR-03
+Urutan kerja penting karena bahan yang benar pun dapat gagal bila bidangnya kotor, basah, atau tertutup sebelum diperiksa. Gunakan urutan berikut sebagai alur koordinasi, bukan metode tunggal yang menggantikan instruksi produsen.
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Pertama, cocokkan gambar dan daftar bahan. Catat jenis kaca, profil, gasket, sealant, bahan pengisi celah, serta lokasi setiap sambungan. Bila salah satu identitas belum jelas, tahan keputusan dan tandai **[NEEDS CURRENT SYSTEM DATASHEET AND COMPATIBILITY/ADHESION EVIDENCE]**.
 
-### KR-02
+Kedua, periksa kesiapan lokasi. Bidang harus memiliki bentuk dan dukungan sesuai detail yang disetujui, sementara permukaan yang akan menerima sealant perlu dibersihkan dengan cara yang diizinkan produsen. Kondisi lembap, debu, sisa pelapis, atau minyak dapat mengubah daya lekat; dokumentasikan temuan sebelum bahan dipasang.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [official PUPR JDIH record](https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung)
-- **Purpose for this article:** Anchor Indonesian building articles in the current national building-governance framework.
-- **Safe grounded facts:** The regulation took effect on 2 February 2021 and replaced PP 36/2005. A project can therefore require national rules, SNI/technical standards, and location-specific regulations together.
-- **Limits:** Do not convert this high-level regulation into glass thicknesses, safety locations, or test pressures. Those need the applicable detailed rule and project design.
+Ketiga, pasang gasket dan elemen penyangga tanpa memelintir atau memaksa profil. Periksa apakah kaca duduk merata dan tidak bersentuhan langsung dengan tepi keras. Celah harus tetap terbaca sebagai ruang desain, bukan rongga yang tertutup acak oleh sealant.
 
-### KR-05
+Keempat, aplikasikan sealant pada bidang dan kedalaman yang ditunjukkan detail sistem. Alat, waktu kerja, pembersihan tepi, dan waktu menunggu harus mengikuti lembar teknis produk. Jangan menutup sambungan berikutnya sebelum pemeriksaan visual, identitas batch, dan catatan kondisi pekerjaan selesai.
 
-- **Original sources:** [SNI 47:2018 Konfirmasi 2026 — BSN](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [SNI 6353:2024 listing — BSN](https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key=), [ISO 16293-2:2025 official abstract](https://www.iso.org/standard/85237.html)
-- **Purpose for this article:** Establish current terminology and quality-reference starting points for ordinary float/flat and heat-strengthened glass.
-- **Safe grounded facts:** “Flat glass,” “heat-strengthened glass,” and “fully tempered safety glass” are not interchangeable labels. A base-glass quality standard does not by itself prove safety suitability, structural adequacy, or whole-system performance.
-- **Limits:** Full standards are required for tolerances, defect limits, tests, and acceptance criteria.
+Terakhir, lakukan pemeriksaan bersama. Foto setiap antarmuka penting, catat lokasi yang perlu perbaikan, dan simpan bukti bahan dari penerimaan hingga serah terima. ASTM membedakan lingkup pengujian rakitan dan kondisi spesimen; karena itu hasil pengujian harus dibaca bersama konfigurasi yang benar-benar diuji, bukan dipindahkan menjadi jaminan untuk semua cubicle ([ASTM E331](https://store.astm.org/standards/e331), [ASTM E2190](https://store.astm.org/standards/e2190), dan daftar lingkup ASTM E06.51: https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651).
 
-## Evidence gates
+## Faktor apa yang dapat mengubah hasil pemeriksaan sealant dan gasket?
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Setelah urutan dipahami, periksa faktor yang membuat sambungan tampak sama tetapi bekerja berbeda. Penjelasan ini mencegah asumsi bahwa satu produk atau satu cara bersih berlaku untuk seluruh lokasi. Untuk memahami konteks jenis ruang sebelum memeriksa detail, Anda dapat melihat [kategori cubicle kantor](/cubicle/kantor) sebagai rujukan fungsi ruang; keputusan bahan tetap harus mengikuti sistem aktual.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Jenis permukaan menentukan persiapan dan adhesi. Kaca berlapis, profil berlapis, batu, cat, dan logam dapat memerlukan pembersih atau primer berbeda. Minta pernyataan tertulis produsen untuk pasangan bahan yang dipakai; tanpa itu, hasil uji pada bahan lain tidak cukup menjadi dasar.
 
-## Internal-link plan
+Gerak dan toleransi menentukan apakah celah tetap berfungsi. Perubahan suhu, lendutan dukungan, atau pergeseran kecil dapat membuka dan menutup sambungan. Engineer atau penanggung jawab sistem harus memeriksa detail aktual sebelum ukuran celah dan bahan pengisi ditetapkan. Jangan mengubah celah di lapangan hanya demi menyamakan garis nat.
 
-### Existing local routes
+Lingkungan kerja juga berpengaruh. Air, debu, pembersihan agresif, dan lalu lintas pekerjaan dapat merusak permukaan sebelum sealant mengeras. Buat titik pemeriksaan sebelum aplikasi dan setelah area dinyatakan terlindungi. Kawan Kaca.co.id, bila kondisi lapangan berbeda dari dokumen, catat perbedaannya dan minta keputusan tertulis—jangan menutupinya dengan lapisan tambahan.
 
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kinerja sistem tidak dapat disimpulkan dari bahan tunggal. ASTM menekankan bahwa tekanan uji, ukuran dan konfigurasi spesimen, antarmuka, drainase, konstruksi pendukung, serta kriteria kegagalan harus dinyatakan. Maka, klaim tahan air atau ketahanan rakitan hanya boleh dipakai bila laporan dan konfigurasi proyek memang sepadan ([ASTM E331](https://store.astm.org/standards/e331)).
 
-### Planned sibling articles
+## Bagaimana memilih tindakan pada tiga kondisi lapangan?
 
-These are future routes. Do not link them as live until their HTML exists.
+Contoh berikut membantu mengubah pengamatan menjadi keputusan. Skenarionya bersyarat; angka, merek, dan jaminan tidak boleh ditambahkan tanpa dokumen proyek.
 
-- `CUB-12-02` → `/artikel/urutan-pemasangan-partisi-kaca.html` — Urutan Koordinasi Pemasangan Partisi Kaca
-- `CUB-12-03` → `/artikel/antarmuka-partisi-kaca-bangunan.html` — Antarmuka Partisi Kaca dengan Lantai, Dinding, dan Plafon
-- `CUB-12-05` → `/artikel/proteksi-kaca-saat-konstruksi.html` — Proteksi Panel Kaca selama Pekerjaan Berlangsung
-- `CUB-12-06` → `/artikel/punch-list-cubicle-kaca.html` — Punch List Pemasangan Cubicle dan Partisi Kaca
+| Temuan | Makna awal | Tindakan koordinasi |
+|---|---|---|
+| Gasket terjepit tidak merata dan kaca menyentuh profil | Bantalan atau posisi mungkin tidak sesuai | Hentikan penutupan, cocokkan profil dan detail, minta pemeriksaan penanggung jawab sistem |
+| Sealant terputus pada satu bidang, permukaan berdebu | Jalur penghalang tidak kontinu dan adhesi meragukan | Tandai lokasi, dokumentasikan kondisi, lakukan pembersihan dan perbaikan hanya sesuai instruksi tertulis |
+| Celah berubah dari gambar atau terisi bahan berbeda | Ruang gerak dan kompatibilitas belum terbukti | Buat catatan ketidaksesuaian, jangan menyetujui serah terima sebelum detail direvisi atau disetujui |
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Untuk area yang berhubungan dengan penggunaan bangunan, koordinasikan keputusan dengan dokumen teknis dan kerangka bangunan yang berlaku. PP No. 16 Tahun 2021 merupakan kerangka penyelenggaraan bangunan gedung, tetapi tidak otomatis memberi ukuran celah atau spesifikasi sealant; detail tersebut tetap memerlukan desain dan bukti sistem yang relevan ([BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [JDIH PUPR](https://jdih.pu.go.id/detail-dokumen/PP-nomor-16-Tahun-2021-tahun-2021-Peraturan-Pelaksanaan-Undang-Undang-Nomor-28-Tahun-2002-Tentang-Bangunan-Gedung)).
 
-## Jawaban singkat dan salah paham utama
+## Kesalahan umum apa yang perlu diperiksa sebelum serah terima?
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Sealant, Gasket, dan Celah pada Sistem Cubicle Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pemeriksaan akhir sebaiknya memburu jalan pintas yang tampak menghemat waktu tetapi menghilangkan bukti. Gunakan pertanyaan berikut untuk menjaga keputusan tetap dapat diaudit.
 
-## Definisi dan batas objek
+Kesalahan pertama adalah memilih sealant berdasarkan warna atau label umum. Tanyakan: bahan apa yang diuji bersama kaca, gasket, dan profil ini, dan di mana bukti kompatibilitasnya? Jika jawabannya tidak tersedia, pertahankan penanda kebutuhan bukti.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Sealant, Gasket, dan Celah pada Sistem Cubicle Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan kedua adalah mengisi semua celah sampai rata. Tanyakan: celah mana yang merupakan ruang gerak, dan apa bahan pengisi yang disetujui? Jika fungsi celah tidak dapat dijelaskan dari detail, minta klarifikasi sebelum pekerjaan ditutup.
 
-## Cara kerjanya
+Kesalahan ketiga adalah menyatakan “lulus uji” tanpa menyebut rakitan dan kondisinya. Tanyakan konfigurasi, antarmuka, drainase, serta kriteria penerimaan dalam laporan. Sebuah laporan tidak membuktikan sistem lain secara otomatis.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Sealant, Gasket, dan Celah pada Sistem Cubicle Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan keempat adalah menerima sambungan hanya dari foto jarak jauh. Periksa kontinuitas, tepi, kebersihan, posisi gasket, dan tanda perbaikan pada lokasi. Simpan foto, daftar ketidaksesuaian, lembar produk, serta gambar akhir sebagai paket serah terima.
 
-## Faktor yang mengubah hasil
+## Apakah menambah sealant selalu menjadi solusi tercepat?
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Sealant, Gasket, dan Celah pada Sistem Cubicle Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Menambah lapisan di atas sambungan yang gagal memang terlihat praktis, tetapi lapisan baru dapat menutupi permukaan yang tidak bersih atau masalah celah yang salah. Akibatnya, penyebab tidak terselesaikan dan pemeriksaan berikutnya menjadi lebih sulit.
 
-## Contoh keputusan praktis
+Alternatif yang lebih aman adalah mengidentifikasi lokasi dan mekanismenya: apakah masalah berasal dari bidang, gasket, celah, adhesi, atau detail yang berubah. Setelah itu, ikuti instruksi produsen dan persetujuan teknis untuk perbaikan. Sobat Kaca.co.id, bila bukti kompatibilitas, data sistem, atau kondisi lokasi belum lengkap, tandai **[NEEDS TECHNICAL REVIEW BEFORE REPAIR OR ACCEPTANCE]**.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Sealant, Gasket, dan Celah pada Sistem Cubicle Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya untuk memeriksa sambungan cubicle kaca
 
-## Kesalahan umum dan cara memeriksanya
+Sealant menutup bidang yang ditentukan, gasket memberi bantalan dan posisi, sedangkan celah menyediakan ruang untuk toleransi dan gerak. Fungsi itu hanya dapat dipercaya bila bahan kompatibel, detail sistem aktual tersedia, dan pemasangan serta serah terima meninggalkan bukti yang dapat diperiksa.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Sealant, Gasket, dan Celah pada Sistem Cubicle Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Mulailah dengan satu lembar pemeriksaan: identitas bahan, kondisi substrat, posisi gasket, bentuk celah, catatan aplikasi, foto antarmuka, dan daftar ketidaksesuaian. Minta penanggung jawab teknis mengesahkan pilihan serta perbaikannya sebelum pekerjaan ditutup. Teman Kaca.co.id, aturan operasinya sederhana: jangan menilai sambungan dari kerapian permukaan saja; nilai fungsi, bukti, dan batas yang disetujui untuk sistem yang benar-benar dipasang.

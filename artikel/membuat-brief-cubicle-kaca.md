@@ -2,8 +2,9 @@
 article_id: CUB-02-01
 title: "Cara Membuat Brief Cubicle atau Partisi Kaca"
 slug: "membuat-brief-cubicle-kaca"
-description: "Menerjemahkan fungsi ruang, pengguna, dan anggaran menjadi shortlist sistem"
-status: outline
+description: "Panduan menyusun fungsi ruang, pengguna, bukaan, anggaran, dan bukti awal menjadi kebutuhan cubicle atau partisi kaca yang siap dikonsultasikan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,217 +16,108 @@ final_route: "/artikel/membuat-brief-cubicle-kaca.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/294700"
-  - "https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014"
-  - "https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020"
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key="
-  - "https://pesta.bsn.go.id/produk/detail/13726-47562021"
-  - "https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011"
-  - "https://pesta.bsn.go.id/produk/detail/14858-sni92372023"
-  - "https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014"
+  - "https://store.astm.org/e1300-24.html"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
-  - "https://pesta.bsn.go.id/produk/index/530"
-  - "https://store.astm.org/e1300-24.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cara Membuat Brief Cubicle atau Partisi Kaca
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Cara Membuat Brief Cubicle atau Partisi Kaca”
-- **Reader and situation:** Menerjemahkan fungsi ruang, pengguna, dan anggaran menjadi shortlist sistem
-- **Reader outcome:** Menerjemahkan fungsi ruang, pengguna, dan anggaran menjadi shortlist sistem
-- **Primary intent:** Menyusun kebutuhan sebelum konsultasi
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Brief lintas aplikasi; detail custom dimiliki CUB-14.
-- **Final public route:** `/artikel/membuat-brief-cubicle-kaca.html`
-- **Appointed CMS date:** `2025-08-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Membuat Brief Cubicle atau Partisi Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Exact Markdown to insert:** `![Ilustrasi cubicle partisi kaca](/wp-content/uploads/2022/07/cubicle-partisi-kaca.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `cubicle partisi kaca` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Caption/credit:** Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.
+- **Selection basis:** filename/source metadata identifies the assigned local asset; no pixels were inspected.
+- **Hard boundary:** jangan mengarang detail visual, lokasi, orang, merek, kondisi, performa, atau hasil proyek.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Kawan Kaca.co.id! Banyak orang memulai konsultasi dengan kalimat “buatkan partisi kaca di sini”, tetapi belum menjelaskan siapa yang memakai ruang, apa yang harus terjadi di dalamnya, dan batas anggarannya. Akibatnya, penawaran yang datang bisa tampak sebanding padahal isinya berbeda: ada yang menghitung panel saja, ada yang sudah memasukkan pintu, rangka, pekerjaan bukaan, atau penyesuaian lapangan.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: brief (uraian kebutuhan) yang baik menerjemahkan fungsi ruang, pola penggunaan, kondisi lokasi, tampilan yang diinginkan, dan batas biaya menjadi daftar kebutuhan yang dapat dibandingkan. Brief bukan gambar kerja dan bukan keputusan ketebalan kaca. Ia adalah lembar keputusan awal agar penyedia dapat mengusulkan sistem yang tepat untuk ditinjau lebih lanjut.
 
-### KR-01
+Siapkan brief sebelum meminta harga. Jika lokasi belum diukur, aturan bangunan belum dikonfirmasi, atau tuntutan khusus seperti api, keamanan, privasi, dan akustik belum jelas, tulis sebagai hal yang harus diverifikasi. Pemilihan kaca untuk beban tertentu tetap membutuhkan data dimensi, tumpuan, beban, dan peninjauan kompeten; ringkasan ruang lingkup ASTM E1300-24 menjelaskan bahwa penentuan kaca tidak cukup berdasarkan nama aplikasi saja ([ASTM E1300-24](https://store.astm.org/e1300-24.html)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 planned briefs. Each family has eight distinct intent shapes. Existing pages are evidence/migration candidates, not automatically authoritative sources.
-- **Limits:** Repository content describes editorial intent, not real-world compliance or product performance.
+![Ilustrasi cubicle partisi kaca](/wp-content/uploads/2022/07/cubicle-partisi-kaca.jpg)
 
-### KR-09
+*Aset lokal proyek; gambar ini tidak mendokumentasikan proyek tertentu.*
 
-- **Original sources:** [Permenperin No. 12 Tahun 2024 — BPK](https://peraturan.bpk.go.id/Details/294700), [SNI ISO 20492-1:2014 edge-seal climate durability — BSN](https://pesta.bsn.go.id/produk/detail/10045-sniiso20492-12014), [SNI ISO 20492-2:2014 fogging test — BSN](https://pesta.bsn.go.id/produk/detail/20492220142020-sniiso20492-2%3A2014konfirmasi2020), [BSN listing for Parts 1–4](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=81&key=)
-- **Purpose for this article:** Ground double/insulating-glass, internal fogging, gas, edge seal, procurement, and replacement articles in Indonesian requirements.
-- **Safe grounded facts:** An insulating glass unit is a fabricated sealed product, not simply two independent panes. Internal fogging, gas retention, seal durability, edge construction, glazing compatibility, and structural-glazing suitability are distinct issues.
-- **Limits:** Verify the regulation's exact product scope, exceptions, certification route, and transition provisions from the full text before stating that a particular unit must bear a specific mark.
+## Hasil kebutuhan cubicle kaca: keputusan apa yang harus siap?
 
-### KR-22
+Bagian ini menjelaskan arti “brief siap konsultasi” agar Anda tidak mengira satu sketsa sudah cukup. Hasil akhirnya adalah ringkasan kebutuhan, daftar data yang belum ada, dan pertanyaan yang harus dijawab penyedia; bukan persetujuan desain akhir.
 
-- **Purpose for this article:** Turn research into auditable RFQ, submittal, installation, inspection, and handover inputs rather than descriptive prose only.
-- **Safe grounded facts:** Durable quality depends on preserving product identity and condition from fabrication through handover. Labels, delivery inspection, storage orientation/support, edge protection, setting materials, cleaning, photographs, nonconformance records, test reports, and as-built information are evidence.
-- **Limits:** It is an industry manual, not a project specification or Indonesian law. Manufacturer instructions and project documents take precedence where more specific. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `CUB-01` | KR-01, KR-19, KR-03, KR-10, KR-06, KR-12, KR-13 | Dasar sistem cubicle dan partisi kaca; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-02` | KR-01, KR-09, KR-22, KR-08, KR-03, KR-06, KR-12 | Brief dan pemilihan sistem; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-03` | KR-01, KR-10, KR-13, KR-17, KR-11, KR-06, KR-12 | Jenis, ketebalan, dan olahan kaca; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-04` | KR-01, KR-08, KR-10, KR-21, KR-05, KR-13, KR-03 | Privasi, cahaya, dan pengalaman ruang; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-05` | KR-01, KR-03, KR-10, KR-19, KR-06, KR-12, KR-14 | Hardware, frame, dan konektor; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-06` | KR-01, KR-02, KR-12, KR-14, KR-05, KR-06, KR-07 | Dukungan, beban, dan koordinasi struktur; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-07` | KR-01, KR-06, KR-17, KR-08, KR-12, KR-13, KR-16 | Pecah, keselamatan, dan respons insiden; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-08` | KR-01, KR-03, KR-19, KR-10, KR-06, KR-12, KR-13 | Cubicle dan partisi kantor; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-09` | KR-01, KR-16, KR-21, KR-04, KR-12, KR-14, KR-17 | Cubicle toilet dan area basah; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-10` | KR-01, KR-03, KR-06, KR-12, KR-13, KR-14, KR-16 | Aksesibilitas dan penggunaan inklusif; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-11` | KR-01, KR-03, KR-06, KR-12, KR-13, KR-14, KR-16 | Survei, dimensi, dan toleransi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-12` | KR-01, KR-04, KR-15, KR-22, KR-03, KR-02, KR-05 | Pemasangan dan antarmuka bangunan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-13` | KR-01, KR-06, KR-08, KR-14, KR-16, KR-04, KR-17 | Pembersihan, inspeksi, dan pemeliharaan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-14` | KR-01, KR-05, KR-10, KR-13, KR-08, KR-03, KR-06 | Desain custom, sampel, dan persetujuan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-15` | KR-01, KR-09, KR-22, KR-08, KR-13, KR-03, KR-06 | Pengadaan, harga, logistik, dan garansi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `CUB-16` | KR-01, KR-09, KR-02, KR-05, KR-03, KR-22, KR-04 | Standar, sertifikasi, QA, dan dokumentasi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank These are reusable propositions supported by the register. Writers should still cite the underlying source. 1. Glass product type, processed makeup, and installed-system performance are three different layers. 2. Tempered, heat-strengthened, and laminated glass solve different pre-breakage and post-breakage questions. 3. “Laminated,” “tempered,” “double,” “smart,” “fire-rated,” and “security” are not complete specifications. 4. Center-of-glass performance cannot automatically be claimed for the complete window, partition, door, or façade. 5. Thickness cannot be selected safely from application name alone. 6. Holes, notches, edges, dimensions, coatings, and decoration must be coordinated before heat treatment where applicable. 7. Sealant suitability requires joint design plus substrate adhesion and material compatibility evidence. 8. Internal IGU fogging and external surface condensation are different symptoms. 9. Cleaning method depends on glass, coating, film, interlayer edge, contaminants, and manufacturer guidance. 10. Heat-soak testing reduces a specific tempered-glass breakage risk; it does not guarantee zero breakage. 11. Skylights and sloped glazing are not walking surfaces unless specifically engineered as such. 12. Fire, ballistic, blast, forced-entry, impact safety, acoustic, privacy, and solar-control claims each need their own evidence. 13. A test result belongs to the tested method, specimen, configuration, conditions, and acceptance basis. 14. Procurement quality improves when evidence, inclusions, exclusions, interfaces, samples, QC, and handover documents are made comparable. 15. Current legal and standards status must be rechecked; changes discovered in 2026 show why old article memory is unsafe. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `GATE-01` Licensed SNI text | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Obtain/read the applicable current SNI before exact requirements, tolerances, classes, or tests enter an outline | | `GATE-02` Indonesian application rules | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Identify applicable national/local building, fire, accessibility, and project rules for the actual application | | `GATE-03` Structural design | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Qualified engineer verifies loads, support, makeup, deflection, post-breakage consequences, and interfaces | | `GATE-04` Product/system reports | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Obtain current datasheets, test reports, certification/listing, limitations, and exact configuration | | `GATE-05` Manufacturer compatibility | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Written adhesion/compatibility, cleaning, processing, and installation guidance for selected materials | | `GATE-06` Site facts | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Survey dimensions, exposure, substrate/frame condition, access, drainage, existing defects, and user risk | | `GATE-07` HSE/legal consolidation | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Review current Permenaker provisions including the 2026 amendment; approve task-specific safe method | | `GATE-08` Specialist threat/rating definition | `CUB-01`, `CUB-02`, `CUB-03`, `CUB-04`, `CUB-05`, `CUB-06`, `CUB-07`, `CUB-08`, `CUB-09`, `CUB-10`, `CUB-11`, `CUB-12`, `CUB-13`, `CUB-14`, `CUB-15`, `CUB-16` | Define fire/security/ballistic/blast/privacy/smart-glass objective and governing evidence before selection | ## Source-refresh triggers Recheck a record immediately when any of these occurs: - BSN confirms, revises, replaces, or withdraws a listed SNI. - A ministry regulation is amended, partially revoked, or replaced. - ISO/ASTM/UL publishes a new edition used by the article. - A manufacturer changes formulation, substrate approval, warranty, or installation guidance. - An article introduces a number, rating, test class, compliance statement, service-life claim, price, or safety procedure. - The real project configuration falls outside the public source's stated scope. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+Tulis hasil yang ingin dicapai dalam satu kalimat. Contohnya: “Membagi area kerja menjadi dua ruang dengan akses yang jelas, pandangan sesuai kebutuhan pengguna, dan tampilan yang mudah dirawat.” Hindari langsung menulis “kaca 10 mm” atau nama sistem bila belum ada perhitungan dan kecocokan produk.
 
-### KR-08
+Lalu tetapkan pihak yang memutuskan tiga hal: fungsi ruang, batas biaya, dan persetujuan teknis. Pengguna ruang dapat menjelaskan kebiasaan harian, pengelola gedung menjelaskan aturan lokasi, sedangkan tenaga kompeten menilai desain, tumpuan, dan antarmuka bangunan. Dengan pembagian ini, masukan tidak tercampur menjadi satu klaim “sudah aman”.
 
-- **Original sources:** [SNI 4756:2021 aluminium-coated sheet mirror — BSN](https://pesta.bsn.go.id/produk/detail/13726-47562021), [SNI ISO 25537:2011 silver-coated mirror — BSN](https://pesta.bsn.go.id/produk/detail/8784-sniiso255372011), [SNI 9237:2023 coated glass — BSN](https://pesta.bsn.go.id/produk/detail/14858-sni92372023), [SNI ISO 11479-1:2014 physical defects — BSN](https://pesta.bsn.go.id/produk/detail/10042-sniiso11479-12014)
-- **Purpose for this article:** Ground mirror, coated-glass, façade color, inspection, defect, and procurement content.
-- **Safe grounded facts:** A generic “mirror” or “coated glass” label omits backing/coating system, exposed surface, edge protection, visual criteria, and compatibility concerns. Aesthetic acceptance and functional performance are separate.
-- **Limits:** Full standards and manufacturer documents are required for viewing conditions, defect limits, processing restrictions, and cleaning compatibility.
+Masukkan dokumen awal yang benar-benar tersedia: denah atau foto lokasi, ukuran perkiraan, posisi kolom dan plafon, jalur orang, daftar pintu, serta target waktu. Tandai mana yang terukur dan mana yang masih asumsi. Brief yang jujur tentang kekosongan data lebih berguna daripada angka rekaan.
 
-### KR-03
+## Langkah 1 — Tetapkan cakupan cubicle atau partisi kaca
 
-- **Purpose for this article:** Prevent doors, partitions, openings, manifestations, circulation, and hardware articles from treating glass as an isolated material.
-- **Safe grounded facts:** Accessibility and circulation requirements belong to the building system and can affect opening dimensions, operation, visibility, approach, and safe use.
-- **Limits:** Open the full regulation and current local rules before stating a dimension or prescriptive requirement.
+Sebelum mengumpulkan spesifikasi, pastikan semua orang membicarakan objek yang sama. Langkah ini mencegah istilah “cubicle” dipakai untuk ruang toilet, bilik kerja, atau pembatas visual dengan tuntutan yang berbeda. Di bagian ini Anda akan membatasi pekerjaan, antarmuka, dan hal yang sengaja belum diputuskan.
 
-### KR-06
+Tulis lokasi dan batas fisiknya: dari lantai ke plafon atau hanya setinggi tertentu, sepanjang dinding mana, serta apakah ada sudut, pintu, atau pertemuan dengan furnitur. Catat komponen yang termasuk dan tidak termasuk, misalnya panel, pintu, engsel atau rel, rangka, sealant, pekerjaan lantai-plafon, pengecatan, dan pemindahan furnitur. Jangan menyatakan komponen “termasuk” bila belum ada konfirmasi penawaran.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI ISO 12540:2017 listing — BSN](https://pesta.bsn.go.id/produk/index/530)
-- **Purpose for this article:** Keep safety-glass decisions tied to verified Indonesian product references.
-- **Safe grounded facts:** A product being stronger before breakage is not the same as retaining fragments or carrying load after breakage. “Safety glass” suitability depends on the application and the complete tested/design context.
-- **Limits:** Do not publish impact classes, fragmentation counts, minimum thicknesses, or application mandates from the catalog page. Obtain the standards and the applicable building rule.
+Uraikan antarmuka bangunan. Siapa yang menyediakan bidang tumpu, siapa yang memastikan plafon dan lantai mampu menerima pemasangan, dan bagaimana akses pengangkutan? Pertanyaan ini mengubah brief dari daftar bahan menjadi pembagian tanggung jawab yang dapat diperiksa.
 
-### KR-12
+Tetapkan batas penggunaan. Apakah ruang hanya untuk membagi pandangan, mengendalikan suara, menjaga privasi, atau menghadapi kelembapan dan benturan? Jika muncul tuntutan api, keamanan, aksesibilitas, atau keselamatan pecah, tulis sebagai kebutuhan yang harus dibuktikan, bukan sebagai label produk.
 
-- **Original sources:** [ASTM E1300-24 official scope page](https://store.astm.org/e1300-24.html), [ASTM glass-use committee current standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0652)
-- **Purpose for this article:** Stop writers from presenting thickness tables or rules of thumb as structural design.
-- **Safe grounded facts:** Thickness selection depends on dimensions, aspect ratio, edge support, glass type, load magnitude/duration, edge condition, holes/notches, deflection, probability basis, post-breakage consequences, and system behavior. One thickness is not universally safe for one application label.
-- **Limits:** No calculation, chart, coefficient, or acceptance number may be reproduced from an abstract. Use a licensed current standard and qualified engineer.
+## Langkah 2 — Kumpulkan data pengguna, lokasi, dan anggaran
 
-## Evidence gates
+Ruang yang terlihat sama dapat bekerja berbeda karena penggunanya berbeda. Konteks berikut membantu Anda memisahkan pengamatan dari harapan, sehingga penyedia tidak menebak-nebak prioritas dan batas biaya.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Catat pola kegiatan: berapa kelompok pengguna, kapan ruang ramai, apakah pintu sering dibuka, dan apakah orang membawa barang besar. Tulis kebutuhan pandangan dan privasi dengan kata yang bisa diuji, seperti “pengguna perlu melihat pintu masuk” atau “isi percakapan tidak boleh menjadi dasar klaim kedap suara tanpa pengujian”.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Untuk lokasi, kumpulkan ukuran awal tiap sisi, beda elevasi yang tampak, posisi instalasi, kondisi bidang tumpu, dan rute membawa material. Foto boleh menjadi petunjuk, tetapi bukan pengganti survei. Beri tanggal dan sumber pada setiap ukuran agar revisi dapat dilacak.
 
-## Internal-link plan
+Nyatakan anggaran sebagai rentang internal dan prioritas, bukan janji harga publik. Misalnya, Anda lebih memilih mempertahankan jumlah ruang daripada aksesori tampilan; atau Anda menerima perubahan material tertentu untuk menjaga jadwal. Minta penyedia memisahkan harga komponen, pekerjaan lapangan, dan pengecualian agar perbandingan tidak menipu.
 
-### Existing local routes
+Kawan Kaca.co.id, jangan menyamakan “kaca pengaman” dengan jaminan bahwa seluruh sistem cocok untuk semua kondisi. Referensi BSN tentang kaca laminasi dan kaca pengaman menunjukkan bahwa jenis produk memiliki ruang lingkup tersendiri; kesesuaian tetap bergantung pada aplikasi dan konfigurasi yang ditinjau ([SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)).
 
-- `/partisi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/toilet` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/kantor` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/cubicle/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Langkah 3 — Susun urutan kerja dan pertanyaan konsultasi
 
-### Planned sibling articles
+Urutan kerja membuat brief dapat dipakai sebagai agenda rapat, bukan sekadar catatan. Bagian ini juga mencegah keputusan tampilan mendahului pemeriksaan lokasi dan kebutuhan pengguna.
 
-These are future routes. Do not link them as live until their HTML exists.
+Mulai dari fungsi dan batas ruang. Berikutnya cocokkan data lokasi dengan denah, lalu minta beberapa alternatif sistem yang menjelaskan perbedaan fungsi, komponen, perawatan, dan konsekuensi biaya. Setelah itu, minta sampel atau gambar detail yang relevan untuk disetujui. Detail custom berada di luar cakupan artikel ini dan memerlukan proses desain tersendiri.
 
-- `CUB-02-02` → `/artikel/memilih-sistem-kaca-sesuai-ruang.html` — Memilih Sistem Kaca untuk Toilet, Kantor, atau Pembagian Ruang
-- `CUB-02-03` → `/artikel/checklist-pengguna-sirkulasi-ruang.html` — Checklist Pengguna, Sirkulasi, dan Pola Operasional Ruang
+Kirim pertanyaan yang sama kepada setiap penyedia: apa yang termasuk, apa yang dikecualikan, data apa yang masih kurang, bukti produk apa yang tersedia, bagaimana antarmuka dengan lantai-plafon ditangani, dan dokumen apa yang akan diserahkan saat selesai. Pertanyaan seragam membuat jawaban dapat dibandingkan.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jangan meminta angka ketebalan atau ukuran final hanya dari nama “partisi kantor”. Dimensi, rasio sisi, tumpuan, jenis kaca, beban, tepi, lubang, lendutan, dan konsekuensi setelah pecah dapat memengaruhi penilaian; hal itu ditegaskan dalam ruang lingkup ASTM E1300-24 ([ASTM E1300-24](https://store.astm.org/e1300-24.html)). Minta perhitungan dan review yang sesuai proyek bila keputusan tersebut diperlukan.
 
-## Hasil akhir dan prasyarat
+## Titik berhenti dalam kebutuhan: kapan konsultasi harus ditunda?
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief Cubicle atau Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Titik berhenti (hold point) adalah saat pekerjaan tidak boleh dilanjutkan hanya karena jadwal mendesak. Menyebutkannya di brief membantu semua pihak mengenali keputusan yang memerlukan bukti atau persetujuan tambahan.
 
-## Langkah 1 — tetapkan scope
+Tunda pemilihan final bila ukuran penting belum disurvei, bidang tumpu meragukan, jalur sirkulasi berubah, atau tuntutan khusus belum memiliki definisi dan bukti. Tunda juga bila penawaran memakai istilah seperti “aman”, “kedap”, “fire-rated”, atau “anti-bobol” tanpa konfigurasi, laporan uji, dan batas penggunaan yang dapat diperiksa.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief Cubicle atau Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk produk kaca berlapis atau unit kaca ganda, identitas produk, kondisi tepi, kecocokan sealant, dan petunjuk pemasangan perlu ditelusuri. Halaman BSN dan regulasi hanya menjadi titik rujuk awal; status, ruang lingkup, dan persyaratan yang tepat harus dibaca dari dokumen terkini sebelum dijadikan dasar pengadaan ([Permenperin No. 12 Tahun 2024](https://peraturan.bpk.go.id/Details/294700)).
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Verifikasi kebutuhan dan serah terima: bukti apa yang perlu disimpan?
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief Cubicle atau Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Brief tetap berguna setelah konsultasi jika setiap perubahan dapat dilacak. Dengan catatan perubahan, dokumen awal menjadi rekaman keputusan tanpa dianggap sebagai berita acara pemasangan.
 
-## Langkah 3 — jalankan urutan kerja
+Simpan versi brief, denah yang dipakai, hasil survei, pertanyaan dan jawaban, pilihan sistem, pengecualian penawaran, sampel yang disetujui, serta nama pihak yang menyetujui. Saat ada perubahan fungsi atau ukuran, buat catatan perubahan dan dampaknya terhadap komponen serta biaya.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief Cubicle atau Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pada serah terima, minta daftar komponen aktual, petunjuk pembersihan dan perawatan, catatan pemeriksaan visual, serta dokumen produk yang memang dijanjikan. Cocokkan identitas barang dan kondisi yang terlihat dengan dokumen; jangan mengubah pemeriksaan administratif menjadi klaim performa.
 
-## Hold point dan kondisi berhenti
+Teman Kaca.co.id, gunakan checklist singkat ini sebelum mengirim brief:
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief Cubicle atau Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- fungsi ruang dan pengguna tertulis;
+- batas pekerjaan dan pengecualian jelas;
+- ukuran awal diberi sumber dan status verifikasinya;
+- kebutuhan privasi, pandangan, akses, dan perawatan diprioritaskan;
+- anggaran dipisah dari asumsi teknis;
+- pertanyaan bukti produk, antarmuka, dan handover siap diajukan;
+- hal yang menunggu survei atau review diberi tanda.
 
-## Verifikasi hasil dan handover
+## Jalan pintas “langsung minta harga” dan mengapa sering meleset
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief Cubicle atau Partisi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas ini terasa efisien karena Anda segera menerima angka. Masalahnya, penyedia dapat menghitung ruang lingkup yang berbeda-beda: satu memasukkan pekerjaan lantai, yang lain tidak; satu menganggap pintu tertentu, yang lain menawarkan konfigurasi berbeda.
 
-## Objection or shortcut to address
+Alternatif yang lebih dapat dibandingkan adalah mengirim brief satu halaman dengan denah, foto, daftar inklusi-eksklusi, prioritas fungsi, dan pertanyaan bukti. Jika data belum lengkap, minta kunjungan survei dan tandai bahwa harga masih bersyarat. Dengan begitu, angka awal menjadi bahan keputusan, bukan kesimpulan palsu.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Kesimpulan: dokumen kebutuhan adalah daftar keputusan sebelum rancangan disahkan
 
-## Required conclusion
+Cara membuat brief cubicle atau partisi kaca adalah menuliskan fungsi ruang, pengguna, kondisi lokasi, batas pekerjaan, prioritas tampilan dan privasi, anggaran, serta bukti yang harus diminta—lalu memisahkan data terukur dari hal yang masih perlu diverifikasi. Untuk mengenali pilihan ruang yang tersedia, Anda dapat melihat kategori [cubicle](/cubicle) sebagai langkah awal, lalu kembali ke kebutuhan proyek Anda.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Langkah berikutnya: buat satu lembar brief, lampirkan denah atau foto berpenanda, dan minta penyedia menjawab pertanyaan yang sama dalam format inklusi, pengecualian, bukti produk, antarmuka, dan serah terima. Jika menyentuh beban, keselamatan, aturan bangunan, atau tuntutan tingkat kinerja (rating), berhenti pada daftar pendek dan minta peninjauan profesional yang sesuai proyek.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan kerjanya sederhana: jangan mengubah nama aplikasi menjadi spesifikasi final sebelum data lokasi, konfigurasi, dan bukti yang relevan tersedia.
