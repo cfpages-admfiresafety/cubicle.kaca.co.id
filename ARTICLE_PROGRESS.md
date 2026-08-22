@@ -1,6 +1,6 @@
 # Article progress — cubicle.kaca.co.id
 
-Last generated: **2026-08-22 23:29:48 (Asia/Jakarta)**
+Last generated: **2026-08-22 23:52:00 (Asia/Jakarta)**
 
 > This is a derived clarity view. `PORTFOLIO_AUTHORITY_ROLLOUT.md` remains the portfolio authority, and the canonical repository remains the source for article bytes. Do not create or rewrite articles from this tracker alone.
 
@@ -12,7 +12,7 @@ Last generated: **2026-08-22 23:29:48 (Asia/Jakarta)**
 | Canonical repository | [cfpages-admfiresafety/cubicle.kaca.co.id](https://github.com/cfpages-admfiresafety/cubicle.kaca.co.id) |
 | Default branch | `main` |
 | Instructions | ✅ `AGENTS.md` + `ARTICLE-GUIDE.md` |
-| Repository-local progress tracker | ➕ Central tracker only |
+| Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-admfiresafety/cubicle.kaca.co.id/blob/main/ARTICLE_CATALOG.md) (`e491bfee123a`) |
 | Prepared articles | 96 |
 | Accepted and pushed | 96 |
